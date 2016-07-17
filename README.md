@@ -14,7 +14,8 @@ We put your name, your company and link here in the table below.
 1,890 nodes left
 
 # What are we doing?
-We are trying to form a large, 2000 nodes, Docker Swarm mode cluster.
+We are trying to form a large, 2000 nodes, Docker Swarm mode cluster collaboratively. It is expected that we'll learn a lot about the limitations of Docker 1.12 Swarm mode in process. This will help us and also the Docker team moving forwards to have the better scalable container system.
+
 Please follow hashtag [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) on Twitter.
 
 # Where and When?
