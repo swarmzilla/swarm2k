@@ -8,6 +8,8 @@ We put your name, your company and link here in the table below.
 | Name | Company | Number of Nodes Expected to Contribute |
 | ------------- |:-------------:| -----:|
 | [@chanwit](https://twitter.com/chanwit) | N/A | 100 |
+| [@djalal](https://twitter.com/enlamp) | N/A | 10 |
+
 
 1,900 nodes left
 
