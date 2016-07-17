@@ -23,7 +23,8 @@ Please tweet to [@chanwit](https://twitter.com/chanwit) saying that you'd like t
 or open a PR then adding a line into the proposal table and put number of nodes you think you can contribute there.
 
 After starting the cluster, we'll provide Swarm manager's IP addresses and the secret for you to join.
-It's going to take 2-3 hours of your CPU time depending on other people join the cluster.
+It's going to take 2-3 hours of your CPU time depending on the completion of the joining process.
+After that, we'll fill the cluster with large number of containers.
 
 # What's mininum requirements of a node?
 
