@@ -5,7 +5,7 @@ The Docker Swarm 2000 Collaborative Project
 
 We put your name, your company and link here in the table below.
 
-| Name | Company | Number of Nodes |
+| Name | Company | Number of Nodes Expected to Contribute |
 | ------------- |:-------------:| -----:|
 | [@chanwit](https://twitter.com/chanwit) | N/A | 100 |
 
