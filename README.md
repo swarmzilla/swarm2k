@@ -18,7 +18,7 @@ We are trying to form a large, 2000 nodes, Docker Swarm mode cluster.
 Please follow hashtag [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) on Twitter.
 
 # Where and When?
-We'll be waiting for contributors to donate at least 2,000 nodes before starting.
+We'll be waiting for contributors to propose at least 2,000 nodes before starting. Please consider for contributing any number of nodes!
 
 # How to join?
 Please tweet to [@chanwit](https://twitter.com/chanwit) saying that you'd like to contribute some nodes,
