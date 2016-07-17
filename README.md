@@ -9,9 +9,10 @@ We put your name, your company and link here in the table below.
 | ------------- |:-------------:| -----:|
 | [@chanwit](https://twitter.com/chanwit) | N/A | 100 |
 | [@djalal](https://twitter.com/enlamp) | N/A | 10 |
+| [@thaJeztah](https://twitter.com/thaJeztah) | Docker | 20 |
 
 
-1,890 nodes left
+1,870 nodes left
 
 # What are we doing?
 We are trying to form a large, 2000 nodes, Docker Swarm mode cluster collaboratively. It is expected that we'll learn a lot about the limitations of Docker 1.12 Swarm mode in process. This will help us and also the Docker team moving forwards to have the better scalable container system.
