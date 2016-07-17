@@ -11,7 +11,7 @@ We put your name, your company and link here in the table below.
 | [@djalal](https://twitter.com/enlamp) | N/A | 10 |
 
 
-1,900 nodes left
+1,890 nodes left
 
 # What are we doing?
 We are trying to form a large, 2000 nodes, Docker Swarm mode cluster.
