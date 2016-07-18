@@ -16,6 +16,8 @@ The [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) Project is a
 # What are we doing?
 We are trying to form a large, 2000 nodes, Docker Swarm mode cluster collaboratively. It is expected that we'll learn a lot about the limitations of Docker 1.12 Swarm mode in process. This will help us and also the Docker team moving forwards to have the better scalable container system.
 
+![the architecture](https://pbs.twimg.com/media/CnoaWoZVIAAwO7p.jpg:large "The architecture")
+
 Please follow hashtag [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) on Twitter.
 
 # Where and When?
