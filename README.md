@@ -13,7 +13,7 @@ The [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) Project is a
 | [@thaJeztah](https://twitter.com/thaJeztah) | Docker | 20 |
 | [@nigelpoulton](https://twitter.com/nigelpoulton) | Personal | 20 |
 | [@akalipetis](https://twitter.com/akalipetis) | SourceLair | 20 |
-| [@toughiq](https://twitter.com/toughiq) | N/A | 3 |
+| [@toughiq](https://twitter.com/toughiq) | N/A | 5 |
 | [@squeaky_pl](https://twitter.com/squeaky_pl) | Personal | 5 |
 
 # What are we doing?
