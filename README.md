@@ -31,6 +31,7 @@ After that, we'll fill the cluster with large number of containers.
 
 # What's mininum requirements of a node?
 
+  * Linux 64-bit box  
   * 512 MB
   * 1 vCore
   * Docker 1.12-rc4 installed
