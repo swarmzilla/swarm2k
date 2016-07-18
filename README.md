@@ -4,7 +4,7 @@ The [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) Project is a
 
 # Contribution Proposal
 
-**795** nodes left for [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000)! We put your name, your company and link here in the table below.
+**787** nodes left for [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000)! We put your name, your company and link here in the table below.
 
 | Name | Company | Number of Nodes Expected to Contribute |
 | ------------- |:-------------:|:-----:|
@@ -17,6 +17,7 @@ The [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) Project is a
 | [@squeaky_pl](https://twitter.com/squeaky_pl) | Personal | 5 |
 | [@ingshtrom](https://twitter.com/ingshtrom) | Odyssey | 1000 |
 | [@ben_hall](https://twitter.com/ben_hall) | Katacoda.com | 25 |
+| [@ajeetsraina](https://twitter.com/ajeetsraina) |  Dell Inc. | 8 |
 
 # What are we doing?
 We are trying to form a large, 2000 nodes, Docker Swarm mode cluster collaboratively. It is expected that we'll learn a lot about the limitations of Docker 1.12 Swarm mode in process. This will help us and also the Docker team moving forwards to have the better scalable container system.
