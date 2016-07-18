@@ -11,6 +11,7 @@ The [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) Project is a
 | [@chanwit](https://twitter.com/chanwit) | N/A | 100 |
 | [@djalal](https://twitter.com/enlamp) | N/A | 10 |
 | [@thaJeztah](https://twitter.com/thaJeztah) | Docker | 20 |
+| [@nigelpoulton](https://twitter.com/nigelpoulton) | Personal | 20 |
 
 
 # What are we doing?
@@ -39,5 +40,3 @@ After that, we'll fill the cluster with large number of containers.
   * Docker 1.12-rc4 installed
   * Public IPv4 address
   * Port 2377
-
-  
