@@ -7,7 +7,7 @@ The [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) Project is a
 1,870 nodes left for [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000)! We put your name, your company and link here in the table below.
 
 | Name | Company | Number of Nodes Expected to Contribute |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|:-----:|
 | [@chanwit](https://twitter.com/chanwit) | N/A | 100 |
 | [@djalal](https://twitter.com/enlamp) | N/A | 10 |
 | [@thaJeztah](https://twitter.com/thaJeztah) | Docker | 20 |
