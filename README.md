@@ -3,7 +3,7 @@ The Docker Swarm 2000 Collaborative Project
 
 # Contribution Proposal
 
-We put your name, your company and link here in the table below.
+1,870 nodes left for [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000)! We put your name, your company and link here in the table below.
 
 | Name | Company | Number of Nodes Expected to Contribute |
 | ------------- |:-------------:| -----:|
@@ -12,15 +12,13 @@ We put your name, your company and link here in the table below.
 | [@thaJeztah](https://twitter.com/thaJeztah) | Docker | 20 |
 
 
-1,870 nodes left
-
 # What are we doing?
 We are trying to form a large, 2000 nodes, Docker Swarm mode cluster collaboratively. It is expected that we'll learn a lot about the limitations of Docker 1.12 Swarm mode in process. This will help us and also the Docker team moving forwards to have the better scalable container system.
 
 Please follow hashtag [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) on Twitter.
 
 # Where and When?
-We'll be waiting for contributors to propose at least 2,000 nodes before starting. Please consider for contributing any number of nodes!
+We'll be waiting for contributors to propose at least 2,000 nodes before starting. Please consider to contribute any number of nodes and be part of this run. We need your help!
 
 # How to join?
 Please tweet to [@chanwit](https://twitter.com/chanwit) saying that you'd like to contribute some nodes,
