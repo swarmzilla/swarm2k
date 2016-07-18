@@ -1,5 +1,6 @@
 # Swarm2k
-The Docker Swarm 2000 Collaborative Project
+
+The [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) Project is a global-scale collaborative project to do some scalable experiments on Docker Swarm mode. We need your help!
 
 # Contribution Proposal
 
