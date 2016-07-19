@@ -35,8 +35,8 @@ Please follow hashtag [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm
 We'll be waiting for contributors to propose at least 2,000 nodes before starting. Please consider to contribute any number of nodes and be part of this global scale experiment. We need your help!
 
 # How to join?
-Please tweet to [@chanwit](https://twitter.com/chanwit) saying that you'd like to contribute some nodes,
-or open a PR then adding a line into the proposal table and put number of nodes you think you can contribute there.
+Please open a PR adding a line into the proposal table and put number of nodes you think you can contribute there.
+Then tweet to [@chanwit](https://twitter.com/chanwit) saying that you'd like to contribute some nodes. We'll take care of the rest.
 
 After starting the cluster, we'll provide Swarm manager's IP addresses and the secret for you to join.
 It's going to take 2-3 hours of your CPU time depending on the completion of the joining process.
