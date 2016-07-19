@@ -4,7 +4,8 @@ The [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) Project is a
 
 # Contribution Proposal
 
-**656** nodes left for [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000)! We put your name, your company and link here in the table below.
+**We are now beyond 2,000 nodes already! Thank you for all of your contributions.**
+You can still adding nodes to join our cluster. We put your name, your company and link here in the table below.
 
 | Name | Company | Number of Nodes Expected to Contribute |
 | ------------- |:-------------:|:-----:|
