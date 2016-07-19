@@ -47,3 +47,8 @@ After that, we'll fill the cluster with large number of containers.
   * Docker 1.12-rc4 installed
   * Public IPv4 address
   * Port 2377
+
+# Why not we're doing C1M?
+
+The C1M challenge does not mean anything to me (@chanwit). What we are going to test are Docker Swarm mode features.
+Of course, the scheduling feature is one of them. But we're going to also test Routing Mesh Load-Balancing and Container Rescheduling when a Manager failed.
