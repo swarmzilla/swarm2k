@@ -6,7 +6,8 @@ the machine's image for spinning a node to join the Swarm created by this projec
 
 # Node Image Preparation for Massive Duplication
 
-  1. Install Ubuntu 16.04 (or choose your own OS)
+  1. We need a machine with 512MB of RAM, 1 vCore, 20GB disk, and a public IPv4 address. Yes we need a public IP for each node.
+  2. Install Ubuntu 16.04 (or choose your own OS)
   2. As root, run `curl -sSL https://experimental.docker.com | sh`
   3. Stop the Docker service, run `service docker stop`
   4. Remove the key file, run `rm /etc/docker/key.json`. *This is the really important step.*
