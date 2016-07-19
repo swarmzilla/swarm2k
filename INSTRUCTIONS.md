@@ -9,3 +9,11 @@ Welcome on board!! We sincerely thank you all for joining us.
   3. Start joining. Run `$ docker swarm join <IP>:2377 --secret <SECRET>`
 
 Please feel free to use any script to loop over those.
+
+# Joining via single-line SSH
+
+Assuming that you've got a node setup with Root access via SSH and key pairs, just do this single-liner:
+
+`ssh root@<YOUR NODE IP> docker swarm join <MANAGER IP>:2377 --secret <SECRET>`
+
+For large scale, please feel free to use any script to loop over those.
