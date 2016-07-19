@@ -12,7 +12,7 @@ Please feel free to use any script to loop over those.
 
 # Joining via single-line SSH
 
-Assuming that you've got a node setup with Root access via SSH and key pairs, just do this single-liner:
+Assuming that you've got a node setup with Root access via SSH and key pairs, just do this single-liner for each node:
 
 `ssh root@<YOUR NODE IP> docker swarm join <MANAGER IP>:2377 --secret <SECRET>`
 
