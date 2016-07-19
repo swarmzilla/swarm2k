@@ -41,6 +41,7 @@ After that, we'll fill the cluster with large number of containers.
 
 # What's mininum requirements of a node?
 
+  * A cool guy to be node operators doing `docker swarm join <IP>:2377 --secret <SECRET>`. We'll provide IP and SECRET later after the quorum is formed.
   * Linux 64-bit box with Kernel 4.x
   * RAM 512 MB
   * CPU 1 vCore
