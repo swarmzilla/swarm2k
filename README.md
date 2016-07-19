@@ -27,6 +27,7 @@ You can still adding nodes to join our cluster. We put your name, your company a
 | [@scaleway](https://twitter.com/scaleway) | Scaleway | 1200 |
 | [@mokkahei24](https://twitter.com/mokkahei24) | Playa | 3 |
 | [@f_soppelsa](https://twitter.com/f_soppelsa) | Personal | 10 |
+| [@abhisak](https://twitter.com/abhisak) | NIPA Technology | 100 |
 
 # What are we doing?
 We are trying to form a large, 2000 nodes, Docker Swarm mode cluster collaboratively. It is expected that we'll learn a lot about the limitations of Docker 1.12 Swarm mode in process. This will help us and also the Docker team moving forwards to have the better scalable container system.
