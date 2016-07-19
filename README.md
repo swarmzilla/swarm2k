@@ -4,7 +4,7 @@ The [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) Project is a
 
 # Contribution Proposal
 
-**681** nodes left for [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000)! We put your name, your company and link here in the table below.
+**684** nodes left for [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000)! We put your name, your company and link here in the table below.
 
 | Name | Company | Number of Nodes Expected to Contribute |
 | ------------- |:-------------:|:-----:|
@@ -21,6 +21,7 @@ The [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) Project is a
 | [@KanashimaS](https://twitter.com/KanashimaS) |  N/A | 3 |
 | [@everett_toews](https://twitter.com/everett_toews) | Rackspace | 100 |
 | [@obarbier](https://twitter.com/obarbier) | tillersystems.com | 3 |
+| [@bangkokvps](https://twitter.com/bangkokvps) | bangkokvps.com| 20 |
 
 # What are we doing?
 We are trying to form a large, 2000 nodes, Docker Swarm mode cluster collaboratively. It is expected that we'll learn a lot about the limitations of Docker 1.12 Swarm mode in process. This will help us and also the Docker team moving forwards to have the better scalable container system.
