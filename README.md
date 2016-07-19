@@ -1,4 +1,4 @@
-# Swarm2k
+# Swarm2k - This Friday, 22 July 2016 3.00PM UTC
 
 The [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) Project is a global-scale collaborative project to do some scalable experiments on Docker Swarm mode. We need your help!
 
