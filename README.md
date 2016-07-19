@@ -22,6 +22,7 @@ The [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) Project is a
 | [@everett_toews](https://twitter.com/everett_toews) | Rackspace | 100 |
 | [@obarbier](https://twitter.com/obarbier) | tillersystems.com | 3 |
 | [@bangkokvps](https://twitter.com/bangkokvps) | bangkokvps.com| 20 |
+| [@laurentgrangeau](https://twitter.com/laurentgrangeau) | Finaxys | 5 |
 
 # What are we doing?
 We are trying to form a large, 2000 nodes, Docker Swarm mode cluster collaboratively. It is expected that we'll learn a lot about the limitations of Docker 1.12 Swarm mode in process. This will help us and also the Docker team moving forwards to have the better scalable container system.
