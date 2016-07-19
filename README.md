@@ -8,7 +8,7 @@ The [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) Project is a
 
 | Name | Company | Number of Nodes Expected to Contribute |
 | ------------- |:-------------:|:-----:|
-| [@chanwit](https://twitter.com/chanwit) | N/A | 100 |
+| [@chanwit](https://twitter.com/chanwit) | Suranaree University | 100 |
 | [@djalal](https://twitter.com/enlamp) | N/A | 10 |
 | [@thaJeztah](https://twitter.com/thaJeztah) | Docker | 20 |
 | [@nigelpoulton](https://twitter.com/nigelpoulton) | Personal | 20 |
