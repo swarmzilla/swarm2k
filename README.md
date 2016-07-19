@@ -41,12 +41,14 @@ After that, we'll fill the cluster with large number of containers.
 
 # What's mininum requirements of a node?
 
-  * Linux 64-bit box
-  * 512 MB
-  * 1 vCore
+  * Linux 64-bit box with Kernel 4.x
+  * RAM 512 MB
+  * CPU 1 vCore
   * Docker 1.12-rc4 installed
   * Public IPv4 address
-  * Port 2377
+  * TCP port 2377 for cluster management
+  * TCP and UDP port 7946 for communication among nodes
+  * TCP and UDP port 4789 for overlay network
 
 # Why we're not doing C1M?
 
