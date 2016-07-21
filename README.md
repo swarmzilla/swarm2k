@@ -33,6 +33,7 @@ You can still adding nodes to join our cluster. We put your name, your company a
 | [@fdoxyz](https://twitter.com/fdoxyz) | N/A | 5 |
 | [@mrnonaki](https://twitter.com/mrnonaki) | N/A | 5 |
 | [AR-BRO](https://www.facebook.com/arbro.cloud) | Cloud By CAT - Powered by AR-BRO | 100 |
+| [@_pascalandy](https://twitter.com/_pascalandy) | FirePress | 15 |
 | [@NutLoveYouJa](https://twitter.com/NutLoveYouJa) | ThaiEasyVPS | 10 |
 | [@Quintus23M](https://twitter.com/Quintus23M) | Hypriot | 314 |
 
