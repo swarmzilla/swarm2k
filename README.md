@@ -7,7 +7,7 @@ The [#DockerSwarm2000](https://twitter.com/hashtag/DockerSwarm2000) Project is a
 **We are now beyond 2,000 nodes already! Thank you for all of your contributions.**
 You can still adding nodes to join our cluster. We put your name, your company and link here in the table below.
 
-| Name | Company | Number of Nodes<br>Expected to Contribute |
+| Twitter’s user | Company | Number of Nodes<br>expected to Contribute |
 | ------------- |:-------------:|:-----:|
 | [@chanwit](https://twitter.com/chanwit) | Suranaree University | 100 |
 | [@djalal](https://twitter.com/enlamp) | N/A | 10 |
