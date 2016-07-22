@@ -14,7 +14,7 @@ You can still adding nodes to join our cluster. We put your name, your company a
 | [@thaJeztah](https://twitter.com/thaJeztah) | Docker | 20 |
 | [@nigelpoulton](https://twitter.com/nigelpoulton) | Personal | 20 |
 | [@akalipetis](https://twitter.com/akalipetis) | SourceLair | 20 |
-| [@toughiq](https://twitter.com/toughiq) | N/A | 5 |
+| [@toughiq](https://twitter.com/toughiq) | APA-IT | 5 |
 | [@squeaky_pl](https://twitter.com/squeaky_pl) | Personal | 5 |
 | [@ingshtrom](https://twitter.com/ingshtrom) | Odyssey | 1000 |
 | [@ben_hall](https://twitter.com/ben_hall) | Katacoda.com | 25 |
