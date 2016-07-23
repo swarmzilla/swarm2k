@@ -1,7 +1,9 @@
-# Hall of Fame
+# Swarm2K 22 July, 2016 - Hall of Fame
+
+## Please claim your nodes by putting your Twitter's ID or Company there any the end of each line.
 
 ```
-ID                           HOSTNAME                          MEMBERSHIP  STATUS  AVAILABILITY  MANAGER STATUS
+ID                           HOSTNAME                          MEMBERSHIP  STATUS  AVAILABILITY  MANAGER STATUS 
 00c4c58hk3vh277x9mi7gs49n    nostalgic-gates                   Accepted    Ready   Active        
 00u4qvztqge0ozu9a2b1xc28r    bro2-docker                       Accepted    Ready   Active        
 01211slza7ofcxgbwsokoj6ya    nipa-cloud-29                     Accepted    Ready   Active        
@@ -34,14 +36,14 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 06w4msl0r9pq5n58wxd2zhjo5    sick-yonath                       Accepted    Ready   Active        
 070l0n6ui6j4o77l0188lded0    focused-babbage                   Accepted    Ready   Active        
 0727ulwkwx2v0xhpc3zqkf6mp    pedantic-jennings                 Accepted    Ready   Active        
-074eu83batnau82atgjdiky2d    node49                            Accepted    Ready   Active        
+074eu83batnau82atgjdiky2d    node49                            Accepted    Ready   Active  @chanwit      
 079zk22v9209old3y3bs5rj5r    nostalgic-allen                   Accepted    Ready   Active        
 07awkmqv49x941d4wciqi84u0    sick-brattain                     Accepted    Ready   Active        
 07fuh8p8vqnnifkutpheq07cf    nipa-cloud-68                     Accepted    Ready   Active        
 07rak3ictkv76w4v8ydnrsjoq    hypriot-sw095                     Accepted    Ready   Active        
 07stzttxbphmi30d1mqs5j6bh    serene-sammet                     Accepted    Ready   Active        
 08id45w7nrq9lesymmyvmgf1k    swarm-31                          Accepted    Ready   Active        
-08y6jya8f5tp7agxp3dg6d1cr    base                              Accepted    Ready   Active        
+08y6jya8f5tp7agxp3dg6d1cr    base                              Accepted    Ready   Active  @chanwit        
 08z7h2qj1sjlp8kqajflzve67    sick-stallman                     Accepted    Ready   Active        
 090qoz095rnccitjhji9wcv2j    nipa-cloud-28                     Accepted    Ready   Active        
 093g8r97jkntnjr0hkytna6q0    swarm-32                          Accepted    Ready   Active        
@@ -57,8 +59,8 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 0aebn5joot6lefhuqdy4jzual    swarm2k-49                        Accepted    Ready   Active        
 0amdl2rgwgcr6x589v8mpqfpr    inet-node-076                     Accepted    Ready   Active        
 0b6pam1ev0j9ugc5q27vkas3p    gloomy-noyce                      Accepted    Ready   Active        
-0bwdh6w3hawbpv1sj2walpu1f    base                              Accepted    Ready   Active        
-0bzixo8o5qvjkp7n1kbbfvo0x    node34                            Accepted    Ready   Active        
+0bwdh6w3hawbpv1sj2walpu1f    base                              Accepted    Ready   Active  @chanwit        
+0bzixo8o5qvjkp7n1kbbfvo0x    node34                            Accepted    Ready   Active  @chanwit              
 0c1c7pkxnm9pn83ya4c67jvpu    ecstatic-rosalind                 Accepted    Ready   Active        
 0c1u2ai8c10j75fmqhohe9yqa    reverent-jepsen                   Accepted    Ready   Active        
 0c2aciyx1jnf1s4omtd4irvd4    romantic-varahamihira             Accepted    Ready   Active        
