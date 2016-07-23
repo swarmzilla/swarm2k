@@ -339,7 +339,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 21ep6yow31c5w7i3gcwgcb9zc    node72                            Accepted    Ready   Active        
 21nkbldgd4mzdqdg44codfegn    base                              Accepted    Ready   Active        
 22llvtog77jpguwwi7fmwych3    gloomy-mcclintock                 Accepted    Ready   Active        
-22nr262a8nsfbe81rzaws70s3    swarm2k05                         Accepted    Ready   Active        
+22nr262a8nsfbe81rzaws70s3    swarm2k05                         Accepted    Ready   Active        @toughIQ
 22ynj936ghvblxthb7wv6ydqa    grave-meninsky                    Accepted    Ready   Active        
 22znag6glfnuh51jup8wrjtjt    reverent-wescoff                  Accepted    Ready   Active        
 23az7d905vzx8l5ojy004epdp    elated-fermi                      Accepted    Ready   Active        
@@ -429,7 +429,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 2ov9oro79f9acqyoe8l9dmwt3    sleepy-bohr                       Accepted    Ready   Active        
 2oyiwhbil9nhlmuo0xky47ng1    dockerswarm2k-06                  Accepted    Down    Active        
 2p4ayqctndajz0xzqf2bllvl7    hypriot-sw163                     Accepted    Ready   Active        
-2pg0b3i8hvhh01hr79n6oqa6c    swarm2k02                         Accepted    Ready   Active        
+2pg0b3i8hvhh01hr79n6oqa6c    swarm2k02                         Accepted    Ready   Active        @toughIQ
 2pilfcofjfu57iv2bb7yq9p3l    swarm-05                          Accepted    Ready   Active        
 2pl0vt35f66ptrij8qub8wcnr    swarm2k-45                        Accepted    Ready   Active        
 2pljghrmy05e8jclf2fk3kk7k    silly-poincare                    Accepted    Ready   Active        
@@ -853,7 +853,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 57vvtuldwcrg949hqgf9n703j    swarm2k-1                         Accepted    Ready   Active        
 580h38ik1dps8vfoygke4xox0    hypriot-sw014                     Accepted    Ready   Active        
 585jgh5ktkocqsvn62uammtth    swarm2k-akalipetis-sourcelair-07  Accepted    Ready   Active        @akalipetis
-585ly27rf7bsbv3vf59w6uu3s    swarm2k03                         Accepted    Ready   Active        
+585ly27rf7bsbv3vf59w6uu3s    swarm2k03                         Accepted    Ready   Active        @toughIQ
 586kzde5u043do6v1ga7qtj4a    swarm2k-akalipetis-sourcelair-00  Accepted    Ready   Active        @akalipetis
 587imsoiujhyys3z82dbz16iu    condescending-ardinghelli         Accepted    Ready   Active        
 588wwu3u8egq38pvn22uaf4rn    tswarm-4                          Accepted    Ready   Active        
@@ -1576,7 +1576,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 9th2se7sgcsjeufl91mj0tq4x    thajeztah-swarm2k-5               Accepted    Ready   Active        
 9tp9ugogxlgwpuhkg041vijnw    dockerswarm2k-40                  Accepted    Ready   Active        
 9tszuzwm5kea0zzh0l0h92tvc    base                              Accepted    Ready   Active        
-9u6m1v9pulpt0hwq1lukz1vsi    swarm2k01                         Accepted    Ready   Active        
+9u6m1v9pulpt0hwq1lukz1vsi    swarm2k01                         Accepted    Ready   Active        @toughIQ
 9u7xayyczbjalg9zxx61pad26    hypriot-sw077                     Accepted    Ready   Active        
 9u8icwstf6se87ptwz5jpkrx3    base                              Accepted    Ready   Active        
 9u96rp0bmdk5z6o8jgunrfoae    cocky-minsky                      Accepted    Ready   Active        
@@ -1960,7 +1960,7 @@ cbdodp4tnkfz5kx6dxsx55ni1    inet-node-047                     Accepted    Ready
 cbogzun70vftcnxuekkc23k5m    loving-allen                      Accepted    Ready   Active        
 cbsglkmmqmrhbe6jpgfbdu9ox    nostalgic-boyd                    Accepted    Ready   Active        
 cbwpbkov0j4ucsixb7n3ysbtf    inet-node-111                     Accepted    Ready   Active        
-cbz6ub1bxtr6q1ub79fu4v555    swarm2k04                         Accepted    Ready   Active        
+cbz6ub1bxtr6q1ub79fu4v555    swarm2k04                         Accepted    Ready   Active        @toughIQ
 ccg629m3d69t39xyercjhhvai    inet-node-136                     Accepted    Ready   Active        
 cch733a02vbb3jmxy3q8t7a2d    swarm2k-76                        Accepted    Ready   Active        
 ccq67yb2i6pahuhe1ltz4oe5c    suspicious-boyd                   Accepted    Ready   Active        
