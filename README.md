@@ -181,7 +181,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 11g3858t1sd3vpcwgo7uhdsti    ecstatic-goldstine                Accepted    Ready   Active        
 11kinqlths48vkhzznv0t0waz    inet-node-114                     Accepted    Ready   Active        
 11lt672kr6uy7lesjtp1uxa05    node46                            Accepted    Ready   Active        
-11qe6vvnvxlvvm0xenm44ljuc    neverlock-8                       Accepted    Ready   Active        
+11qe6vvnvxlvvm0xenm44ljuc    neverlock-8                       Accepted    Ready   Active  @neverlock      
 11v83y40v9yiwuk22k5dn8rkx    small-kowalevski                  Accepted    Ready   Active        
 11zqb7z944xn1ky2f6m4sckqn    goofy-engelbart                   Accepted    Ready   Active        
 122h2xc19uf4zz7uu3p0ti7v7    insane-shaw                       Accepted    Ready   Active        
@@ -407,7 +407,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 2klt52zeld19alxtr6vutb2lr    hypriot-sw001                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 2lhow2y77to5ubdnp72remtl4    insane-shirley                    Accepted    Down    Active        
 2lk27ttjyvt1jocc6ndsfo1zv    swarm2k-60                        Accepted    Ready   Active        
-2lk2xsd114xh0daslc9t5i5cc    neverlock-6                       Accepted    Ready   Active        
+2lk2xsd114xh0daslc9t5i5cc    neverlock-6                       Accepted    Ready   Active  @neverlock
 2luh6tvqjexypnc7czbxe8pxv    nipa-cloud-36                     Accepted    Ready   Active        
 2m7i51dyb82erwy5rdxtota8h    ecstatic-mcclintock               Accepted    Ready   Active        
 2msgiyr9ndo28noqdn086juui    stoic-brown                       Accepted    Ready   Active        
@@ -716,7 +716,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 4gkpa59g3ix6043ilc4tdqfc9    adoring-borg                      Accepted    Ready   Active        
 4gqw5ehkgeiae6ru6b51n0p14    dockerswarm2k-47                  Accepted    Ready   Active        
 4gvgfuygdbd60virgr0g6rob0    nipa-cloud-30                     Accepted    Ready   Active        
-4gwmlzl0ewqmpowtqpsnwhuj4    neverlock-1                       Accepted    Ready   Active        
+4gwmlzl0ewqmpowtqpsnwhuj4    neverlock-1                       Accepted    Ready   Active  @neverlock      
 4h7e1j0bwgetzo83ohn9xp03q    node38                            Accepted    Ready   Active        
 4h7fz7ddsa5xrw94pz80tlgol    gigantic-jang                     Accepted    Ready   Active        
 4hijf7rb01purd4l8xdx2rt5x    hypriot-sw162                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -778,7 +778,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 4s2x7fwv53o9vnmtn49i85ajs    nipa-cloud-46                     Accepted    Ready   Active        
 4s560lqe53fvmjxrgrah9b01y    insane-colden                     Accepted    Ready   Active        
 4s6dxf3gzyzyjnll6dgdave4r    angry-aryabhata                   Accepted    Down    Active        
-4scs2jpwi93lnaftedw8g6pps    neverlock-9                       Accepted    Ready   Active        
+4scs2jpwi93lnaftedw8g6pps    neverlock-9                       Accepted    Ready   Active  @neverlock      
 4sfre8l0reu38lcvgh5s78cwk    desperate-kalam                   Accepted    Ready   Active        
 4sqmfb9ae76ehroc7cyyd4z5l    mrnonaki-01                       Accepted    Ready   Active        
 4ssgph9t0xwqlbulm6knkjl68    hypriot-sw172                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -1071,7 +1071,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 6i5qrgqlo4zyqp00a6gbx1oyg    hypriot-sw084                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 6i8okyk6hxjsdrbehjr77hbdf    inet-node-132                     Accepted    Ready   Active        
 6j1h0kxhzahk4pwic3lym5mpo    inet-node-049                     Accepted    Ready   Active        
-6jz4k9wh05iev54ltipxe7g7k    neverlock-7                       Accepted    Ready   Active        
+6jz4k9wh05iev54ltipxe7g7k    neverlock-7                       Accepted    Ready   Active  @neverlock      
 6k0ucksszb7o8c9zuqgqb5lyz    romantic-cori                     Accepted    Ready   Active        
 6k7m59q795twf6xskhbue7owu    admiring-elion                    Accepted    Ready   Active        
 6k94hu0sav5zlrt6oprzwzdve    inet-node-038                     Accepted    Ready   Active        
@@ -2161,9 +2161,9 @@ dkj7ui8sah0px7rnvok5a2btg    hypriot-sw161                     Accepted    Ready
 dkr6kf89vsfom0n5z467vgqgo    condescending-sinoussi            Accepted    Ready   Active        
 dkrvxfnz1ohua3xaoirvszu12    node25                            Accepted    Ready   Active        
 dl0nb9efiqmqllso05rouzmb6    inet-node-117                     Accepted    Ready   Active        
-dl8lz7oj7apszy4pwuhlnl76m    dockerswarm2000G                  Accepted    Ready   Active        @enlamp
+dl8lz7oj7apszy4pwuhlnl76m    dockerswarm2000G                  Accepted    Ready   Active  @enlamp
 dllpewiq087qantr950p2ledn    happy-easley                      Accepted    Ready   Active        
-dlwze0m0o2y8zqbby7xdlau8u    neverlock-5                       Accepted    Ready   Active        
+dlwze0m0o2y8zqbby7xdlau8u    neverlock-5                       Accepted    Ready   Active  @neverlock      
 dm20bne7kcfv7eoxu1oz5d9g8    pensive-newton                    Accepted    Ready   Active        
 dmhidkc1danwwuu2uavktskdo    hypriot-sw140                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 dmhmtn751gya0aeftb3flt3eu    vc1s-101                          Accepted    Ready   Active        
@@ -2184,7 +2184,7 @@ dpz0nojjey361ivjqg2vrn55y    hypriot-sw227                     Accepted    Ready
 dqjp125fnvtqgrbhge4tk2na6    tender-noyce                      Accepted    Ready   Active        
 dqnnpcsf4qw7uu5pn700vwvgy    condescending-dubinsky            Accepted    Ready   Active        
 dqwqxn8vein8r6gs0zszliwfh    gigantic-bardeen                  Accepted    Ready   Active        
-drp2b56r3vz8vqeecioybnivh    neverlock-3                       Accepted    Ready   Active        
+drp2b56r3vz8vqeecioybnivh    neverlock-3                       Accepted    Ready   Active  @neverlock      
 ds48200i7mybddt36jaqo2fsn    romantic-brahmagupta              Accepted    Ready   Active        
 dsaxpg0r85uz40or7p667g7ur    backstabbing-lamarr               Accepted    Ready   Active        
 dsnklqk33fy19ga1vtkdjrmx2    dockerswarm2k-21                  Accepted    Ready   Active        
@@ -2282,7 +2282,7 @@ efd6l32x9i7azng2xx6azq02b    agitated-almeida                  Accepted    Ready
 efhbcrf7dyp8sqphtmmo647uu    suspicious-ardinghelli            Accepted    Ready   Active        
 efhpmn7zflcq2rxbm9wqrkkre    cranky-perlman                    Accepted    Ready   Active        
 eg5iofjf3ylvv210jorazo3re    stoic-stonebraker                 Accepted    Ready   Active        
-egp27zz23i3l5o9z0aas8t00w    swarm2k-akalipetis-sourcelair-04  Accepted    Ready   Active        @akalipetis
+egp27zz23i3l5o9z0aas8t00w    swarm2k-akalipetis-sourcelair-04  Accepted    Ready   Active  @akalipetis
 egqfda1u408umx77fjzoppmbh    boring-joliot                     Accepted    Ready   Active        
 eh461enuav5nqyvmyy77g72uf    ecstatic-lumiere                  Accepted    Ready   Active        
 eh4q2wiyfuuhadhdoj99543tp    adoring-thompson                  Accepted    Ready   Active        
@@ -2290,16 +2290,16 @@ eh8kgcnfptm8fgcqlbg8rz82q    agitated-aryabhata                Accepted    Ready
 ehhua94pkwec8j8uslyhhwriw    node28                            Accepted    Ready   Active        
 eholwvc6yfrr4d2miqyopls5f    stoic-hamilton                    Accepted    Ready   Active        
 eipnut196foygbz1k4efuty0j    tswarm-11                         Accepted    Ready   Active        
-eiqy6t8ij1l0om3rkp72uurjw    neverlock-2                       Accepted    Ready   Active        
+eiqy6t8ij1l0om3rkp72uurjw    neverlock-2                       Accepted    Ready   Active  @neverlock      
 eiv4xzn5q7m2xa0up7c8vzk6p    swarm-10                          Accepted    Ready   Active        
 ejbqmty9rs2enlwjzhnf3bp28    happy-euler                       Accepted    Ready   Active        
-ejvqtqru6o0f05rye2e9a672h    swarm2k-akalipetis-sourcelair-13  Accepted    Ready   Active        @akalipetis
+ejvqtqru6o0f05rye2e9a672h    swarm2k-akalipetis-sourcelair-13  Accepted    Ready   Active  @akalipetis
 ekar956smk2gezfl2s1mmi79c    nipa-cloud-88                     Accepted    Ready   Active        
 eksq4yolhv9ga4a0ia0279oit    inet-node-150                     Accepted    Ready   Active        
 ekw9b4xrkpj9tye3ymbeplllw    desperate-mahavira                Accepted    Ready   Active        
 elauczczrdrwbwvvu3yhwmm1q    inet-node-057                     Accepted    Ready   Active        
 elnwnhgevn301m6j04ne9wl58    modest-brahmagupta                Accepted    Ready   Active        
-em7p6zx7nif3eqafy2xonm6b5    neverlock-4                       Accepted    Ready   Active        
+em7p6zx7nif3eqafy2xonm6b5    neverlock-4                       Accepted    Ready   Active  @neverlock      
 emmphl2eajsffwnr1gmmli2ej    hopeful-thompson                  Accepted    Ready   Active        
 en338mb2kjar0xf17modc2jle    node43                            Accepted    Ready   Active        
 en6bpzanij7bsg7i4r2tv5kvf    stoic-dubinsky                    Accepted    Ready   Active        
