@@ -5,7 +5,7 @@
 ```
 ID                           HOSTNAME                          MEMBERSHIP  STATUS  AVAILABILITY  MANAGER STATUS 
 00c4c58hk3vh277x9mi7gs49n    nostalgic-gates                   Accepted    Ready   Active        
-00u4qvztqge0ozu9a2b1xc28r    bro2-docker                       Accepted    Ready   Active        
+00u4qvztqge0ozu9a2b1xc28r    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 01211slza7ofcxgbwsokoj6ya    nipa-cloud-29                     Accepted    Ready   Active        
 01as7gbx0ndo9om0tsnzfnr3a    nipa-cloud-13                     Accepted    Ready   Active        
 01lapov1e9eep03rgzbt78un4    gigantic-mccarthy                 Accepted    Ready   Active        
@@ -77,21 +77,21 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 0eia4k1xgcjn8gqpsrp7mwotr    jovial-minsky                     Accepted    Ready   Active        
 0esn5wai528en5bl14s6uc04t    hypriot-sw051                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 0ezze38lgw8yr415l7wdyglwa    hypriot-sw030                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-0fii9vlrhhy7365u0zsygyt31    bro2-docker                       Accepted    Ready   Active        
+0fii9vlrhhy7365u0zsygyt31    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 0fvasiznmcli17n1f4rqkmj18    desperate-bhabha                  Accepted    Ready   Active        
 0fy00e33h4dypm2d3gw86a6tq    node37                            Accepted    Ready   Active        
 0g8ep5y0llmh90rog6m3sm7mu    mad-poitras                       Accepted    Ready   Active        
 0g96efx7myzob7ks0pb5f7x8t    swarm2k-68                        Accepted    Ready   Active        
 0ga8wqyoupol1hr9cig3uzawe    condescending-bell                Accepted    Ready   Active        
 0gj3oenni4f3s5z0yyi5g2lan    loving-galileo                    Accepted    Down    Active        
-0gjacpynjmpft87ade6exzr6h    bro2-docker                       Accepted    Ready   Active        
+0gjacpynjmpft87ade6exzr6h    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 0gm37cj1rrwx4c337i067oc1c    boring-bhaskara                   Accepted    Ready   Active        
 0gm49ixq4qdlpwb2v5ifeynlh    condescending-elion               Accepted    Ready   Active        
 0goj1ewbetygl49ajpakgoc41    dreamy-stonebraker                Accepted    Ready   Active        
 0gwnnxko7lrv1atii6q7m5b4e    dockerswarm2000D                  Accepted    Ready   Active        @enlamp
 0gyocoujjkligf5kvpfqhstl8    determined-sammet                 Accepted    Ready   Active        
 0hb8nm3zc0pmhzwbvul0q04n7    tender-bassi                      Accepted    Ready   Active        
-0hfe50avglurwsn52qaq4noio    bro2-docker                       Accepted    Ready   Active        
+0hfe50avglurwsn52qaq4noio    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 0hftqav0tvut1bedhqy5ov1rn    fervent-hugle                     Accepted    Ready   Active        
 0hipp9ao1j6dyvvmoo2qlazfq    inet-node-014                     Accepted    Ready   Active        
 0hjq4cxjlus7799mc9c6y2ajl    tiller-dockerswarm2000-1          Accepted    Ready   Active        
@@ -100,13 +100,13 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 0ic98km4ggaq0axu0a8en4h9f    inet-node-153                     Accepted    Ready   Active        
 0ifzk6dv75rkj6p7iwj6v7epn    pedantic-colden                   Accepted    Ready   Active        
 0ildb7yhqygq835d0z3rrm9ha    evil-turing                       Accepted    Ready   Active        
-0jhggibqyrk333dtk2y9fznrd    bro2-docker                       Accepted    Ready   Active        
-0jjzs4tkhoe4y61056b7wv9sj    bro2-docker                       Accepted    Ready   Active        
+0jhggibqyrk333dtk2y9fznrd    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
+0jjzs4tkhoe4y61056b7wv9sj    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 0jzki2xxxr6h38fgjftl0sen7    hypriot-sw053                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 0kg3p9g5ms767a0o51eclhmlj    hypriot-sw093                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 0kj55yfol6qhs8c1n4xgb8mnj    cocky-tesla                       Accepted    Ready   Active        
 0kp36ml7uevn6sxtad4qk3vts    cranky-wright                     Accepted    Ready   Active        
-0kro38z6f98bj9b0o3irqg1ae    bro2-docker                       Accepted    Ready   Active        
+0kro38z6f98bj9b0o3irqg1ae    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 0ksezsgwjzb0h3wvlm8vo404c    swarm2k0                          Accepted    Ready   Active        
 0ktbtb1xhiccskovmf07d2htb    distracted-payne                  Accepted    Ready   Active        
 0kuozc9i2xo60hwz6fmukwmd1    inet-node-116                     Accepted    Ready   Active        
@@ -152,7 +152,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 0wjkn04uxyihzl04ue3jg1hjb    hypriot-sw022                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 0wt7tjnayjz5a9xdifkgxui4k    naughty-fermi                     Accepted    Ready   Active        
 0wzx7g69vb0750can6ngzwz68    swarm2k-82                        Accepted    Ready   Active        
-0x0zxtazxu5p70sgmwcpnbrjc    bro2-docker                       Accepted    Ready   Active        
+0x0zxtazxu5p70sgmwcpnbrjc    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 0x4zfopqnnqctk9r3zkdiwech    hypriot-sw065                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 0x7xudrafj7e2xokyx24146hl    amazing-fermi                     Accepted    Ready   Active        
 0xbfmt7e4rjck0o9hlw782vl7    hypriot-sw184                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -241,7 +241,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 1fflurxgoyxxnrsdma7hs6c77    loving-kirch                      Accepted    Ready   Active        
 1frn4mlndyv9kc63crhkp70v7    swarm2k-50                        Accepted    Ready   Active        
 1g2zr5p0fxj4jzcol3oe6d0ym    pedantic-ptolemy                  Accepted    Ready   Active        
-1g7ex6om0gzrmnjr4oukky99b    bro2-docker                       Accepted    Ready   Active        
+1g7ex6om0gzrmnjr4oukky99b    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 1gcdu00czybqcj2e06quconni    silly-williams                    Accepted    Ready   Active        
 1geq2b2p4erdj8xei4ixipjf6    backstabbing-albattani            Accepted    Ready   Active        
 1gf8nddfj2ki4we74lq2o0ngy    inet-node-157                     Accepted    Ready   Active        
@@ -271,7 +271,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 1o00pqs2ht4sk1k0rnajaou5v    inet-node-018                     Accepted    Ready   Active        
 1o2b9z1kp5jmfsfez7951fvev    pedantic-khorana                  Accepted    Ready   Active        
 1o4804qwkfp8ihxwz0kchcpjd    awesome-mayer                     Accepted    Ready   Active        
-1o67ozsn28mps853ltfp6nqsl    bro2-docker                       Accepted    Ready   Active        
+1o67ozsn28mps853ltfp6nqsl    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 1o6vto3citusmafekkaizj29g    sharp-heyrovsky                   Accepted    Ready   Active        
 1obu6rvjsbaffqgmk8g2i8pln    grave-pike                        Accepted    Ready   Active        
 1ol32fwf70s4g9qly1kxg4219    hypriot-sw122                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -347,7 +347,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 23p6pvajdf2ql7t3xaivic9tt    dockerswarm2k-09                  Accepted    Down    Active        
 248bh53aamcmptiu0wp7uudkc    swarm2k-37                        Accepted    Ready   Active        
 24q10u5p9y0lr9n1zqr80vuzm    inet-node-149                     Accepted    Ready   Active        
-24xpfkypo35juhe71he0dr9iu    bro2-docker                       Accepted    Ready   Active        
+24xpfkypo35juhe71he0dr9iu    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 255egfsd2r2373z1i4btsy0zs    jolly-feynman                     Accepted    Ready   Active        
 258ud6in2c3tveqzb1lv6y4sw    dockerswarm2k-01                  Accepted    Ready   Active        
 25oq4u1spzrnwtyuudphglkdz    nauseous-lovelace                 Accepted    Ready   Active        
@@ -389,7 +389,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 2fjw9lefgtchyfw1nma69i3ly    dockerswarm2k-02                  Accepted    Ready   Active        
 2g9mm4hxyp1odrjir2u1607ur    dockerswarm2k-31                  Accepted    Ready   Active        
 2ggszhpdcuo3op8h5y2yu40r3    inet-node-012                     Accepted    Ready   Active        
-2gi5zlnhwacla04gqcb91shvz    bro2-docker                       Accepted    Ready   Active        
+2gi5zlnhwacla04gqcb91shvz    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 2hj8qd7akklcq7e6uyofogzhb    thirsty-galileo                   Accepted    Down    Active        
 2hpscak32oppqjlpu1gcxkvw1    sleepy-bohr                       Accepted    Ready   Active        
 2hw3r49w84rbta5nqdkhwnlif    thajeztah-swarm2k-1               Accepted    Ready   Active        
@@ -399,7 +399,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 2iskw69bn7w9e0e8ftzekdjnd    kickass-wilson                    Accepted    Ready   Active        
 2jlfdr4mqndj9ikjxqxmsn0o1    boring-stonebraker                Accepted    Ready   Active        
 2jo9b434ltu2y7wz8rztga5b1    swarm-29                          Accepted    Ready   Active        
-2jsz6g4wxy4r15y5q1qjjfnfu    bro2-docker                       Accepted    Ready   Active        
+2jsz6g4wxy4r15y5q1qjjfnfu    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 2juy423me99pqcb4pkswen7vq    inet-node-088                     Accepted    Ready   Active        
 2jvj3uwj6avk1qj2wv5rao813    dockerswarm2k-33                  Accepted    Ready   Active        
 2jz4bri4b95apv3d2owy21cw5    stupefied-raman                   Accepted    Ready   Active        
@@ -421,7 +421,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 2nsvu19jpdmdo3sogq4nfb3sb    gloomy-swirles                    Accepted    Ready   Active        
 2nv15ow6v566syyuqpf34qwg0    cocky-brattain                    Accepted    Ready   Active        
 2o1noazfdhequt8ovsmtzlx05    swarm2k-95                        Accepted    Ready   Active        
-2o6kh96y9kxavx9knrky8ae5u    bro2-docker                       Accepted    Ready   Active        
+2o6kh96y9kxavx9knrky8ae5u    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 2off7qxhrb66q8k6agiu4ynw7    fervent-feynman                   Accepted    Ready   Active        
 2ohjzhf468cw3wm5tf067pva4    hypriot-sw143                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 2omx8zjqorf4tpvl6qqpviih8    hypriot-sw015                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -460,7 +460,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 2unihw9p1j56m2sm6burzh49y    reverent-euclid                   Accepted    Ready   Active        
 2ur1wzlhwyfingkt9ea9bc5zm    distracted-chandrasekhar          Accepted    Ready   Active        
 2uytfmil9pzugv0yszs5w28ta    sad-hoover                        Accepted    Ready   Active        
-2v4wozaaaexjfasm9cuckz2a0    bro2-docker                       Accepted    Ready   Active        
+2v4wozaaaexjfasm9cuckz2a0    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 2vay5gklkyp99ak11jr2wh671    swarm-05                          Accepted    Ready   Active        
 2vyrnjgzyocc37l3fvs4ro11n    silly-hoover                      Accepted    Ready   Active        
 2w9f8jdndtixi1g7u9q948kvo    swarm2k-87                        Accepted    Ready   Active        
@@ -472,7 +472,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 2y4py7kvdscq9u04w9nwr1m7n    hypriot-sw138                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 2y5u2016yrbnviyc1yibsmbui    tiny-shaw                         Accepted    Ready   Active        
 2y8447lzmeg10y7jqp3twxce3    nostalgic-aryabhata               Accepted    Ready   Active        
-2yg6se7tpo6xitqmciodctny8    bro2-docker                       Accepted    Ready   Active        
+2yg6se7tpo6xitqmciodctny8    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 2yi40vfeand9ovo75xxfr48fy    goofy-goldstine                   Accepted    Ready   Active        
 2yj99yjs8aeweqrdhkai0wcpf    insane-bell                       Accepted    Ready   Active        
 2yl5ltqpykyh8ddiw0ipydljm    swarm2k-43                        Accepted    Ready   Active        
@@ -506,7 +506,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 36c88zuv09u96py8hgjchd5wt    hypriot-sw150                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 36meejuwe599y9r1syr0r30y0    inet-node-164                     Accepted    Ready   Active        
 36nekqg939jxkb8ysosuq6tgp    stupefied-banach                  Accepted    Ready   Active        
-371srh1z5p1g3eatxars0ka75    bro2-docker                       Accepted    Ready   Active        
+371srh1z5p1g3eatxars0ka75    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 377091y9k1l9ckuoa0paojizt    nostalgic-bardeen                 Accepted    Ready   Active        
 37kfooimvowon46cofrczqezh    lonely-easley                     Accepted    Ready   Active        
 37m8qvat9pt5kiimn9k0t6nei    dreamy-torvalds                   Accepted    Ready   Active        
@@ -538,13 +538,13 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 3dc1g1sxcq5almheqlwwcgyci    tiny-babbage                      Accepted    Ready   Active        
 3e9k13sqhsulavsc5jo7vq4c5    hypriot-sw224                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 3ebjv4rcd6j0y5exwsl9ih7jh    suspicious-kowalevski             Accepted    Ready   Active        
-3enxj2ra9kg1s0jzymf03pqrm    bro2-docker                       Accepted    Ready   Active        
+3enxj2ra9kg1s0jzymf03pqrm    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 3fja7u2fl36nmbxny9n7cmncx    dockerswarm2000A                  Accepted    Ready   Active        @enlamp
 3fzhrtmnzwmgepshkgqnfetwz    swarm-09                          Accepted    Ready   Active        
 3g1qodlkfq3zr6mh0b3ksur61    inet-node-007                     Accepted    Ready   Active        
 3g748mf1w074aamupvvvq675h    swarm-44                          Accepted    Ready   Active        
 3g7ess8nku8u3efxue9mwt841    stoic-cray                        Accepted    Ready   Active        
-3ge8emt5fe4zrl1re40hv7o7e    bro2-docker                       Accepted    Ready   Active        
+3ge8emt5fe4zrl1re40hv7o7e    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 3gldzx5batuoyzbc0v8m5dsy7    suspicious-blackwell              Accepted    Down    Active        
 3glstk4ouol09fvmaaycbv47w    fervent-raman                     Accepted    Ready   Active        
 3gn58f206fq4bpzbxgdurigvc    base                              Accepted    Ready   Active        
@@ -558,14 +558,14 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 3hwbq0w0uumyekpovlx606q62    swarm-19                          Accepted    Ready   Active        
 3iaefzxudqg9uustek76vv03c    dockerswarm2k-36                  Accepted    Ready   Active        
 3j1t0bmrvvednfpaw2cud4ip1    nipa-cloud-1                      Accepted    Ready   Active        
-3j6vak2w5ucae0nvkf5n2kffi    bro2-docker                       Accepted    Ready   Active        
+3j6vak2w5ucae0nvkf5n2kffi    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 3jqrj8sdf9xnptbb0829bmsbd    reverent-albattani                Accepted    Ready   Active        
 3k0dkmzsjgihq708djegq6wyd    hypriot-sw199                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 3k3asae72z2d6wmhp6rqgv7l1    backstabbing-ride                 Accepted    Ready   Active        
 3k8sqvj8cg12ho4w6kib8rluz    dockerswarm2k-23                  Accepted    Ready   Active        
 3k9mhqqftc7dbo18u9iaqxufw    nipa-cloud-43                     Accepted    Ready   Active        
 3kcgfpaw52dyp6861p3jtxoya    inet-node-010                     Accepted    Ready   Active        
-3kfne2vqqem5gz6tfjio5veky    bro2-docker                       Accepted    Ready   Active        
+3kfne2vqqem5gz6tfjio5veky    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 3kjn0k9u42obghbi951h7ge91    inet-node-071                     Accepted    Ready   Active        
 3kr2lllp895dyejo0bns6pcht    goofy-almeida                     Accepted    Ready   Active        
 3ktrn5rce6plr69pw33a35xav    swarm-38                          Accepted    Ready   Active        
@@ -607,7 +607,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 3rx9j4xz47cx8ax10iulkvkw8    kickass-sinoussi                  Accepted    Ready   Active        
 3rzomi1xiqaqueztc42jd85fm    dockerswarm2k-29                  Accepted    Ready   Active        
 3sstaaw41z1wtt6t6jed0yflz    jovial-torvalds                   Accepted    Ready   Active        
-3svhama4akiv05tti6u5vx2hu    bro2-docker                       Accepted    Ready   Active        
+3svhama4akiv05tti6u5vx2hu    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 3swugz6fdkaedgx7bmhyeiw56    big-leavitt                       Accepted    Ready   Active        
 3swys4gv8a5vmz1b1s36qgqgu    condescending-volhard             Accepted    Ready   Active        
 3t8d55qy4wincdb9k305flftm    tswarm-6                          Accepted    Ready   Active        
@@ -618,7 +618,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 3ura93kqbb4gp2ib0wgse4j4z    dreamy-almeida                    Accepted    Ready   Active        
 3v2h0oas308toz8fodexvsfzj    loving-meitner                    Accepted    Ready   Active        
 3vg0rdxp582v30q01nutj9you    fervent-wescoff                   Accepted    Ready   Active        
-3vj5zxa935xxy042davr6qgts    bro2-docker                       Accepted    Ready   Active        
+3vj5zxa935xxy042davr6qgts    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 3vkdkv16nutgv6k4n6zz0qavy    jolly-hugle                       Accepted    Ready   Active        
 3vsdq5pm5urvppt22ndcmlbhi    romantic-volhard                  Accepted    Ready   Active        
 3vu8ayi6g1czvzuy8sy7zg65e    mad-fermi                         Accepted    Ready   Active        
@@ -647,7 +647,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 42ldr1yg3cvu4d242tqvbghtw    hypriot-sw151                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 4336v96bt148v7ilfn4yn2v4d    happy-panini                      Accepted    Ready   Active        
 438v6348iu7exl2zxtlrd85yr    inet-node-134                     Accepted    Ready   Active        
-43adszgmhpf6fxvuejmlz5go2    bro2-docker                       Accepted    Ready   Active        
+43adszgmhpf6fxvuejmlz5go2    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 43b3con68loj1991bvxi1fuup    node20                            Accepted    Ready   Active        
 43rrz8kzq0c19iddu5z82wkto    silly-chandrasekhar               Accepted    Ready   Active        
 4418d1shgwunr659w5x03seth    swarm2k1                          Accepted    Ready   Active        
@@ -655,7 +655,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 448ckd3fp0jp8mne98hss5a0y    suspicious-shaw                   Accepted    Ready   Active        
 44amejxgd25oy79szwuzqhq2o    inet-node-123                     Accepted    Ready   Active        
 44cfdejw3o9e233qywmpzpxnd    compassionate-goldwasser          Accepted    Ready   Active        
-44tdtemh6u3h6n3aj1i7710hm    bro2-docker                       Accepted    Ready   Active        
+44tdtemh6u3h6n3aj1i7710hm    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 452to0p7n68hacbueepcv3ul7    node5                             Accepted    Ready   Active        
 4559etm1kxsgi1nikm7knji5b    pensive-yalow                     Accepted    Ready   Active        
 45exhyokrymh7q8uizroemr4t    ecstatic-torvalds                 Accepted    Ready   Active        
@@ -668,7 +668,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 46wfay4jt2i85hijs02p7hp2k    awesome-stonebraker               Accepted    Ready   Active        
 471d8r6g15ssaall8kx617j2r    admiring-darwin                   Accepted    Down    Active        
 47f5xui755oj75e2yn9s9c42b    inet-node-062                     Accepted    Ready   Active        
-47t7b1uceg8ah89bvn9e42zmo    bro2-docker                       Accepted    Ready   Active        
+47t7b1uceg8ah89bvn9e42zmo    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 47vcggtkhrskuhmcm75u5wol9    distracted-mestorf                Accepted    Ready   Active        
 4826rud273mdczmvuiz84nibb    tswarm-3                          Accepted    Ready   Active        
 48g9gviinydx0buco2hnzyjri    nipa-cloud-86                     Accepted    Ready   Active        
@@ -680,7 +680,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 49n1r20hl6r78a495klccqp3r    base                              Accepted    Ready   Active        
 49tegbaej3vdbdc1xplm30b1r    backstabbing-bhabha               Accepted    Ready   Active        
 4a3g3p0ni7da55xlyr1a4r9ms    sick-banach                       Accepted    Ready   Active        
-4an39pkgcs125uyhj6qp5kph3    bro2-docker                       Accepted    Ready   Active        
+4an39pkgcs125uyhj6qp5kph3    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 4aoanzqugn2317eky56qk3j9b    inet-node-080                     Accepted    Ready   Active        
 4apgk6oaxh99wrmyrjymjdj29    hypriot-sw216                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 4ayhhll663w2lxz5anfmf33eo    dockerswarm2k-04                  Accepted    Down    Active        
@@ -728,7 +728,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 4i6a1a9rfidm5pauzikjf4awt    worker-n3                         Accepted    Ready   Active        
 4ijnlhz29f50uwzs1ggqp64pl    swarm2k-47                        Accepted    Ready   Active        
 4ijtg4qixflyi1wclvz0z1iya    inet-node-063                     Accepted    Ready   Active        
-4iryibrs5do1j9pgahlrcga0a    bro2-docker                       Accepted    Ready   Active        
+4iryibrs5do1j9pgahlrcga0a    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 4ita0xd8mgfnuc68cn8ccjxhv    inet-node-073                     Accepted    Ready   Active        
 4iwljjoy8w0g14d3446z05rln    base                              Accepted    Ready   Active        
 4ixm1q3tc0k06iwxn7ce13llc    nauseous-heisenberg               Accepted    Ready   Active        
@@ -768,7 +768,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 4pmpr8m6m34f2vja5aze6oheu    dreamy-franklin                   Accepted    Ready   Active        
 4pro83w4zwjoetsgmr7vwfdmj    inet-node-078                     Accepted    Ready   Active        
 4psr2ckj469b8623uxbd614vh    modest-babbage                    Accepted    Ready   Active        
-4q491ir7qemedfbeygng9wv5w    bro2-docker                       Accepted    Ready   Active        
+4q491ir7qemedfbeygng9wv5w    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 4qghubfhirj5v0dprklvev8oz    dockerswarm2k-46                  Accepted    Ready   Active        
 4qympfn0ymv997umobukjvd30    nipa-cloud-22                     Accepted    Ready   Active        
 4r8vq0tqbs698fewns3qsmhie    dreamy-hamilton                   Accepted    Ready   Active        
@@ -795,7 +795,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 4vndxxvbri8tjmunygkh08tgn    2knode5                           Accepted    Ready   Active  @laurentgrangeau      
 4w0hpv52s5c8bxjaytmzg9t3a    adoring-mcclintock                Accepted    Ready   Active        
 4w5tmeqtyotdys5htcmru4ptu    swarm2k-34                        Accepted    Ready   Active        
-4w68aus6rgdlb78br4adcp2gs    bro2-docker                       Accepted    Ready   Active        
+4w68aus6rgdlb78br4adcp2gs    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 4wje7guk2fze88assl6cx36n9    insane-northcutt                  Accepted    Ready   Active        
 4x1r18m69w1tzsahy4v1578jm    hypriot-sw242                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 4x8gv6ubdn3as2dr3yvnoe8xz    swarm-21                          Accepted    Ready   Active        
@@ -808,7 +808,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 4y2dz7aglopbl20abqxwvsi1l    reverent-bose                     Accepted    Ready   Active        
 4y8uqqitsr3b5ng3qfxt3hk4q    inet-node-130                     Accepted    Ready   Active        
 4y8xwzrb53g2fa0d3ekp8t1we    dockerswarm2k-32                  Accepted    Ready   Active        
-4yhc1ledf7ajq4lwab7tmb3g2    bro2-docker                       Accepted    Ready   Active        
+4yhc1ledf7ajq4lwab7tmb3g2    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 4yoq7rmll45ogtscmk16u6mv6    hypriot-sw165                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 4ypohq2q0q28kgs83aiwzu40m    backstabbing-swartz               Accepted    Down    Active        
 4yrjufzdpazhzajfuuqc6yamm    gigantic-swartz                   Accepted    Ready   Active        
@@ -823,7 +823,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 5192brynt82pyzqbo1j5k19y3    kickass-noyce                     Accepted    Ready   Active        
 51fxqqx3f7utfbyvuz965zdk2    hypriot-sw309                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 51levbfcawrh3kiam9ya2pryi    amazing-kilby                     Accepted    Ready   Active        
-529sor2tlwilh7h0evyzp4n5e    bro2-docker                       Accepted    Ready   Active        
+529sor2tlwilh7h0evyzp4n5e    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 52b2grjhe0web9nx4opycdfkk    worker-n4                         Accepted    Ready   Active        
 52h0b5m6nf4oke1c8psox46un    high-shirley                      Accepted    Ready   Active        
 530fbj25pzp5wzgwonk182kw9    prickly-albattani                 Accepted    Ready   Active        
@@ -847,7 +847,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 56lcc77krryitgdw27s3x4n70    chromium.labs.aternos.org         Accepted    Ready   Active  @Aternos      
 56nbo17x26khsq8u8zt4puzao    mad-mcnulty                       Accepted    Ready   Active        
 56unw3xru4mouy6so0bl3nl6k    hypriot-sw208                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-57941moxp1uio1c9kart7rz4f    bro2-docker                       Accepted    Ready   Active        
+57941moxp1uio1c9kart7rz4f    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 57al5n3aerl2mkmn0b0gduv6b    swarm2k-akalipetis-sourcelair-18  Accepted    Ready   Active        @akalipetis
 57tz0xwxlfbb0tveflgjs1ivw    adoring-murdock                   Accepted    Ready   Active        
 57vvtuldwcrg949hqgf9n703j    swarm2k-1                         Accepted    Ready   Active        
@@ -858,17 +858,17 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 587imsoiujhyys3z82dbz16iu    condescending-ardinghelli         Accepted    Ready   Active        
 588wwu3u8egq38pvn22uaf4rn    tswarm-4                          Accepted    Ready   Active        
 58c5ov6so0t5nouwlgj7egnzp    hypriot-sw201                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-58ii3godz7b2dr0lo4o0dz67l    bro2-docker                       Accepted    Ready   Active        
+58ii3godz7b2dr0lo4o0dz67l    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 58iipc2im5246ewz0qa5ko3gc    dockerswarm2k-08                  Accepted    Ready   Active        
-58ne29q9bc9kzgjfea0cwvq5l    bro2-docker                       Accepted    Ready   Active        
+58ne29q9bc9kzgjfea0cwvq5l    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 58nqwlmylb05zerqkvrotkwmz    drunk-mirzakhani                  Accepted    Ready   Active        
-58tmzhs194a8vglql56vqmcsa    bro2-docker                       Accepted    Ready   Active        
+58tmzhs194a8vglql56vqmcsa    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 594zmv7qcy13nxtb8rnjq3u6q    sad-ritchie                       Accepted    Ready   Active        
 5968aar83bv0m74k735w6485i    small-shaw                        Accepted    Ready   Active        
 59c9i4aznrgvmh93k7ned83rz    nipa-cloud-58                     Accepted    Ready   Active        
 59fxnbuojzz18v4kv0t3p8krx    loving-joliot                     Accepted    Ready   Active        
 59hvbf0ongtgcjan10akvdlx2    swarm-34                          Accepted    Ready   Active        
-59mf828qmrv8q4oybyh32pcov    bro2-docker                       Accepted    Ready   Active        
+59mf828qmrv8q4oybyh32pcov    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 59rtjnlsrgr303ywrrqpn6kau    swarm2k-15                        Accepted    Ready   Active        
 59s2tkfbrdsvtvf3ou6rde58n    swarm2k-images                    Accepted    Ready   Active        
 59vkgwpheu4bl1yh2qpxc9fqq    nipa-cloud-12                     Accepted    Ready   Active        
@@ -890,7 +890,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 5c1eeulsqwjrknswfm0vabga4    sick-murdock                      Accepted    Ready   Active        
 5c59vtm5n4o26rts54k35w1e2    distracted-pasteur                Accepted    Ready   Active        
 5c9rzsb31uyqtsz09e341hlob    hypriot-sw114                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-5cckhpxd00rar88kebdg107kf    bro2-docker                       Accepted    Ready   Active        
+5cckhpxd00rar88kebdg107kf    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 5cg625pqs7ybvq5cf3rx3swgx    hypriot-sw204                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 5cgtwvkd088sfdcx6bi38pbj2    sick-wilson                       Accepted    Ready   Active        
 5cksdl05nwmm64au6mkwpkhql    goofy-franklin                    Accepted    Ready   Active        
@@ -934,7 +934,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 5mou3lbebzm4qk51fayit05lp    hypriot-sw089                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 5mxuwv0ejooz5vi8f6ojb2dor    inet-node-046                     Accepted    Ready   Active        
 5n6lonyarh0utlsh7i7yfzilz    naughty-babbage                   Accepted    Ready   Active        
-5nghsqx579nhibpczipo9lq71    bro2-docker                       Accepted    Ready   Active        
+5nghsqx579nhibpczipo9lq71    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 5nkughvka8fdjaft3gfw7yp0z    tender-williams                   Accepted    Ready   Active        
 5npo4flr76i53d9y7oxnsumao    swarm2k-99                        Accepted    Ready   Active        
 5nqrto1w2ff9w4fetworxfdlp    inet-node-093                     Accepted    Ready   Active        
@@ -970,13 +970,13 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 5tb5v1l4ukd6xspjlqblk8dmu    silly-curie                       Accepted    Ready   Active        
 5tdqlbor8dtrh6057kyynib60    hypriot-sw062                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 5u5qpcqt4q1bix95vk3orl3s1    base                              Accepted    Ready   Active        
-5u6s2quslwuaaxvnibtfuu4dn    bro2-docker                       Accepted    Ready   Active        
+5u6s2quslwuaaxvnibtfuu4dn    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 5ujf7i6menjvpbox8la45o9dc    hypriot-sw099                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 5vbttr430dyw699mlajk2k88d    swarm2k-74                        Accepted    Ready   Active        
 5vdkac3521ylxl4ndlld7tjru    hypriot-sw167                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 5vpb87rqu8s3rca8x9djksw19    inet-node-172                     Accepted    Ready   Active        
 5vq31oxftqi1w6r8p1wqjkwmq    sick-albattani                    Accepted    Down    Active        
-5vsapzi16xutc8qp956orc14d    bro2-docker                       Accepted    Ready   Active        
+5vsapzi16xutc8qp956orc14d    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 5vv3v6x4v82ko0lrteyxlg0c3    lonely-roentgen                   Accepted    Ready   Active        
 5wgwjp0odc5xiv0daz5x4qt9d    dockerswarm2k-08                  Accepted    Down    Active        
 5wmfh5g4p6qlzn5gtreesjhkl    drunk-lumiere                     Accepted    Ready   Active        
@@ -1029,8 +1029,8 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 68rfzfn8p90uebjp2ttbenpvd    inet-node-087                     Accepted    Ready   Active        
 68sxgx5rx2a82ic8e3q2e3k9q    small-tesla                       Accepted    Ready   Active        
 69ewya8gyrrnikxkmwxswqd3m    swarm2k-35                        Accepted    Ready   Active        
-69f2atneij1vzpweru8fe9ill    bro2-docker                       Accepted    Ready   Active        
-69mdteposf2qxfoubwa8lw5cx    bro2-docker                       Accepted    Ready   Active        
+69f2atneij1vzpweru8fe9ill    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
+69mdteposf2qxfoubwa8lw5cx    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 69nbpnf5v2czg6ks4x4b3qu87    furious-sammet                    Accepted    Ready   Active        
 69o22maiw75aonbvm09e3oivf    swarm2k-akalipetis-sourcelair-10  Accepted    Ready   Active        @akalipetis
 69tfbnr8tyxiy4hpo67zd0g0c    tender-hodgkin                    Accepted    Ready   Active        
@@ -1086,7 +1086,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 6lhwfiqcb8v551a5i0karw0sk    nostalgic-allen                   Accepted    Ready   Active        
 6lub272j6ucibmvxvnt9glw7o    sharp-archimedes                  Accepted    Ready   Active        
 6lv7gy65oa2mlgmv5ol03obeo    swarm2k-images                    Accepted    Ready   Active        
-6lyp88l3c5my9rtjemp39aeko    bro2-docker                       Accepted    Ready   Active        
+6lyp88l3c5my9rtjemp39aeko    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 6lz98zhbop0iyntqq5hkyvr9n    adoring-bassi                     Accepted    Ready   Active        
 6m731744rbzaop6ds4ackxx00    dockerswarm2k-25                  Accepted    Ready   Active        
 6mt6kr9y9feaar66mwtcaaq9m    hypriot-sw207                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -1112,7 +1112,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 6qn64k2jwkmx83geycpayr80p    swarm-29                          Accepted    Ready   Active        
 6qnmoaimotjt9vi2uvdhlppza    drunk-bhaskara                    Accepted    Ready   Active        
 6r5g5xfnqg92s53b1wxqxjosf    hypriot-sw217                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-6rdg8tv6n5xfy7csf6jyr9omq    bro2-docker                       Accepted    Ready   Active        
+6rdg8tv6n5xfy7csf6jyr9omq    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 6rfbxn7rdl2e065a8s7dw4csw    determined-albattani              Accepted    Down    Active        
 6ro5iknq120t1bifj1hwo3y6r    hypriot-sw178                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 6ro6b6xk1dd1u1x3ejigr06x9    swarm2k-11                        Accepted    Ready   Active        
@@ -1121,21 +1121,21 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 6t8dtr62ayz4lvvr3v4dlwybs    gloomy-archimedes                 Accepted    Ready   Active        
 6tczw167czwjf2lflxjzwfzxk    backstabbing-perlman              Accepted    Ready   Active        
 6ukw0rd83e5pvmwev16vkk5w5    romantic-goodall                  Accepted    Ready   Active        
-6uwmt75r6m1re2bpz1f97dcsz    bro2-docker                       Accepted    Ready   Active        
+6uwmt75r6m1re2bpz1f97dcsz    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 6uy5zuo2pgo44r9mrqpi8ahuf    swarm2k-91                        Accepted    Ready   Active        
 6v37me9pi662n4o32nh2ylljz    hypriot-sw210                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-6vhxmditr14qj6cemmel2x7gm    bro2-docker                       Accepted    Ready   Active        
+6vhxmditr14qj6cemmel2x7gm    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 6vns3bpqeukybglkf5cixsr4j    hypriot-sw134                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 6vzyyib24c4a0ftjecqc8id3x    sad-newton                        Accepted    Ready   Active        
 6wdrbd8942apn87435txfw5yb    inet-node-066                     Accepted    Ready   Active        
 6wp90j17u5w2lj7ym3345s42l    naughty-heisenberg                Accepted    Ready   Active        
 6wq8u5teiiisxyukw4rhebxp3 *  mg0                               Accepted    Ready   Drain         Reachable
-6ww06aneu56sw042i1n202gc2    bro2-docker                       Accepted    Ready   Active        
+6ww06aneu56sw042i1n202gc2    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 6wwth4p5yyfp0re6wfqvshzj2    awesome-noyce                     Accepted    Ready   Active        
 6x0tdi24o6k1hhstuirhev4np    sharp-tesla                       Accepted    Ready   Active        
 6x3pe6ku23zcin99axscs1pym    swarm-03                          Accepted    Ready   Active        
 6x455sfegynvn9cyvzwn8o93o    swarm2k-89                        Accepted    Ready   Active        
-6xi0m1w7fkssr3381own6nh52    bro2-docker                       Accepted    Ready   Active        
+6xi0m1w7fkssr3381own6nh52    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 6y8kdnhzxgev3raabl153nmgj    trusting-goldstine                Accepted    Ready   Active        
 6yehhsivr3710k3o2hvmkxsus    fervent-gates                     Accepted    Ready   Active        
 6yh3j3878fu2esihxs7r1rnd6    nipa-cloud-3                      Accepted    Ready   Active        
@@ -1150,7 +1150,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 70z41su25wsumflc8h45sf2h3    base                              Accepted    Ready   Active        
 713p6adatrjys7mlo4s211l3o    inet-node-051                     Accepted    Ready   Active        
 714o619t0ah72dcrp8bdx323e    elegant-elion                     Accepted    Ready   Active        
-71c1jo73k1kzekzq7n94mv9di    bro2-docker                       Accepted    Ready   Active        
+71c1jo73k1kzekzq7n94mv9di    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 71esvswf81shisfedhubpfnaf    hypriot-sw222                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 71f5ckdrfg0wp9o6g692spf43    swarm-50                          Accepted    Ready   Active        
 71nj5mhgv27bt5p98ng8mmvm2    hypriot-sw013                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -1168,7 +1168,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 73wlx37f4ga27nm8aabmllmge    swarm2kae                         Accepted    Ready   Active        
 73yi28o6cuoecvbmcpl1r8w65    swarm2k5                          Accepted    Ready   Active        
 74hezr9mkul40zjrjcdf7at15    inet-node-081                     Accepted    Ready   Active        
-74o4uqni9zh0m33z44kufi16e    bro2-docker                       Accepted    Ready   Active        
+74o4uqni9zh0m33z44kufi16e    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 74romkghkg3dscrofe5cw1svb    cranky-liskov                     Accepted    Ready   Active        
 74wi3pzrlt08dpzkkhh6xftjz    vc1s-101                          Accepted    Ready   Active        
 74wszlhmtwvt69ncv5mp990jn    hypriot-sw127                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -1220,7 +1220,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 7hisgcoheal7svnq1iik1tacm    pensive-elion                     Accepted    Ready   Active        
 7huq5tl8e6knmvandntxjjjkm    cranky-jepsen                     Accepted    Ready   Active        
 7i2onhkmi2ejhkl52dnh2zqth    base                              Accepted    Ready   Active        
-7i34mhqxdx2tq3v9zxs9yt0ym    bro2-docker                       Accepted    Ready   Active        
+7i34mhqxdx2tq3v9zxs9yt0ym    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 7icvc8154fjb1kjm85bfwap6f    base                              Accepted    Ready   Active        
 7ijg6dmkfs1m5rwvc00bmwqhh    condescending-sinoussi            Accepted    Ready   Active        
 7iqpt1s7rc6j4n5m7gtb1cnzv    base                              Accepted    Ready   Active        
@@ -1252,7 +1252,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 7ntfcglh15w5q07b2gfy0xk83    drunk-jepsen                      Accepted    Ready   Active        
 7ofya58ebt27rkesit0zfgudh    stupefied-hamilton                Accepted    Ready   Active        
 7p4mjz8wwwhdq2n4dge6ob5k2    hypriot-sw213                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-7p8wu2nwfq8m3qrp6rkj7lg5l    bro2-docker                       Accepted    Ready   Active        
+7p8wu2nwfq8m3qrp6rkj7lg5l    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 7pe99wki833m5aa409n019d9d    swarm2k-akalipetis-sourcelair-14  Accepted    Ready   Active        @akalipetis
 7pji2xbipip9uu7z3084o151p    tiny-brattain                     Accepted    Ready   Active        
 7q412wmmeddxgsydgc1xzl1ht    gkazure3                          Accepted    Ready   Active        
@@ -1303,7 +1303,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 82gxxet1zkm94scj7swarcq6f    node70                            Accepted    Ready   Active        
 82j3gfhnxim4230yp2dgit60y    angry-thompson                    Accepted    Ready   Active        
 831pnv0rbecpp6h1fufiydu7g    inet-node-091                     Accepted    Ready   Active        
-833y9x4b59ea0x3vorq7i7qsx    bro2-docker                       Accepted    Ready   Active        
+833y9x4b59ea0x3vorq7i7qsx    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 83bkt8ivua8cewtn8t86rqukc    dreamy-mestorf                    Accepted    Ready   Active        
 83n2xl1nod7n2ksaj21lvm3y4    swarm-17                          Accepted    Ready   Active        
 83u99xsdo9whxrcj2vjbe0byt    hypriot-sw105                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -1314,7 +1314,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 84n1os3aa6qh0slri3bamit9b    inet-node-095                     Accepted    Ready   Active        
 84qu2qllb5nzdmvsc2r9l6e9r    small-hypatia                     Accepted    Ready   Active        
 85yiuqzvju41lmyr6tw06utpu    prickly-panini                    Accepted    Ready   Active        
-862sm5ct98o59kjctq46vmwh2    bro2-docker                       Accepted    Ready   Active        
+862sm5ct98o59kjctq46vmwh2    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 86bgkmj0zftp2zlml0if6asv7    inet-node-042                     Accepted    Ready   Active        
 86gzmyzt2zpljptf5282hoqa7    hungry-curie                      Accepted    Ready   Active        
 86qygcklrrigy0jxqvxyzu4v4    inet-node-090                     Accepted    Ready   Active        
@@ -1333,7 +1333,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 89fmmws41xhs2r3we55b99usf    hypriot-sw302                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 89kcp8mw65he59683taaph393    big-ardinghelli                   Accepted    Ready   Active        
 89qpdgdg2l6ivwp7sybsplw2t    inet-node-107                     Accepted    Ready   Active        
-8a0lkio1aj1nzaaxgzpmxb43t    bro2-docker                       Accepted    Ready   Active        
+8a0lkio1aj1nzaaxgzpmxb43t    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 8ai9h4layxkg4z5hegj5tggbs    hypriot-sw007                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 8ajpu5cfuubtnpo8gd2m0s87s    kickass-easley                    Accepted    Ready   Active        
 8b0a1j6bnm84hx83x32bey64n    boring-poitras                    Accepted    Down    Active        
@@ -1375,7 +1375,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 8gqgdrv2oqbbnwm66gc6rwvgo    compassionate-ptolemy             Accepted    Ready   Active        
 8h09iuy6h574vbehu7it5xmmc    elegant-lovelace                  Accepted    Ready   Active        
 8h8kvocf4pxpwvgo5xh1m5z5w    hungry-knuth                      Accepted    Ready   Active        
-8himfbufwkqio10ygcr4lvx1h    bro2-docker                       Accepted    Ready   Active        
+8himfbufwkqio10ygcr4lvx1h    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 8hnz99faonrpziv1gmon9eb2n    furious-noyce                     Accepted    Ready   Active        
 8hphvgr2thvu0dp669x1zfkt7    admiring-boyd                     Accepted    Ready   Active        
 8huefpgx60aes6a90ie39h9zr    cranky-feynman                    Accepted    Ready   Active        
@@ -1394,7 +1394,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 8keykcr1q4tq7p6n50zc98hty    inet-node-037                     Accepted    Ready   Active        
 8kgk9n7sn6gkes9je4idyvdsp    fervent-borg                      Accepted    Ready   Active        
 8kl3w0su9wxc4whn4on8tleon    happy-spence                      Accepted    Ready   Active        
-8kqipx15o2wdhlpv80ldrftue    bro2-docker                       Accepted    Ready   Active        
+8kqipx15o2wdhlpv80ldrftue    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 8kr3s6tme45imr7nx8bwwqbgn    fervent-ardinghelli               Accepted    Ready   Active        
 8llgjd4u9d6i9f9h7avo0t4qp    pensive-jones                     Accepted    Ready   Active        
 8ly9brswhybkedr37jo13axt7    hypriot-sw229                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -1425,7 +1425,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 8s9knuzucr4k1xy0k6ygx285d    hypriot-sw057                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 8u5zl8otmbcxdu7ccjwkkh1bh    furious-galileo                   Accepted    Ready   Active        
 8u6f1mlov6wzrbfyd2pnjjh7e    suspicious-mayer                  Accepted    Ready   Active        
-8uowfq0wke06qkx7e5ue4ivqb    bro2-docker                       Accepted    Ready   Active        
+8uowfq0wke06qkx7e5ue4ivqb    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 8ussitgj1w31vynacmaju6ojw    nipa-cloud-79                     Accepted    Ready   Active        
 8uu9ge0tatv5h60zxd6cp6urq    furious-yalow                     Accepted    Ready   Active        
 8uvchcutyopbvjv4lah3g0a6g    clever-shaw                       Accepted    Down    Active        
@@ -1446,7 +1446,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 8y5ug9ckab5l61oj6nslw04cx    nipa-cloud-5                      Accepted    Ready   Active        
 8yl7edajmdwpre0quxm10uqf6    goofy-jepsen                      Accepted    Ready   Active        
 8yziqqdm411fiq0x5cco64xk8    furious-cray                      Accepted    Ready   Active        
-8z4nnml8csokmphcxz42dbde1    bro2-docker                       Accepted    Ready   Active        
+8z4nnml8csokmphcxz42dbde1    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 8zbwhpv0tk2to09nglb35z85i    swarm2k-81                        Accepted    Ready   Active        
 8zesunncbahowpqijjqla9nmg    drunk-raman                       Accepted    Ready   Active        
 8zn3ocs6b7et8of6bendku2ir    dockerswarm2k-00                  Accepted    Ready   Active        
@@ -1513,10 +1513,10 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 9fmtwh1d0iqglqynpkbval7ko    swarm2k-90                        Accepted    Ready   Active        
 9g1m0yuzxp2z9rl9a6y1g4vu5    evil-bardeen                      Accepted    Ready   Active        
 9ga2tkaol610rz78huw781o85    serene-murdock                    Accepted    Ready   Active        
-9gao1b05w92rv1fpidxgemv5m    bro2-docker                       Accepted    Ready   Active        
+9gao1b05w92rv1fpidxgemv5m    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 9gbkapny7q89xicsxrrf3f1st    ecstatic-hugle                    Accepted    Ready   Active        
-9gthl068cws55awawh5w0kbwh    bro2-docker                       Accepted    Ready   Active        
-9gxiszl33jgzvo0fe7x19gbcx    bro2-docker                       Accepted    Ready   Active        
+9gthl068cws55awawh5w0kbwh    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
+9gxiszl33jgzvo0fe7x19gbcx    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 9ipghau1lky82zsj12dvngify    gloomy-almeida                    Accepted    Ready   Active        
 9j9cvr8arfymoczheh65a5mv3    prickly-stallman                  Accepted    Ready   Active        
 9jbyft8t6n4paez11fzzub9q2    base                              Accepted    Ready   Active        
@@ -1544,18 +1544,18 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 9n2psfeh4dhjk0cjgldghbx81    sick-fermi                        Accepted    Ready   Active        
 9nw266ab90wh0qrxzwm0cu06r    drunk-carson                      Accepted    Ready   Active        
 9o60ou67z0zwoxl063f6ulb80    amazing-meninsky                  Accepted    Ready   Active        
-9o7z69yb2xgv1etqs9x5aya44    bro2-docker                       Accepted    Ready   Active        
+9o7z69yb2xgv1etqs9x5aya44    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 9ogxzw6eo3vguymcwjdbgtk6t    swarm2k-44                        Accepted    Ready   Active        
 9ona34smpqda2xkxw8qhv9nkk    clever-pare                       Accepted    Ready   Active        
-9oncf36wr7it9qnbzadt3q2op    bro2-docker                       Accepted    Ready   Active        
+9oncf36wr7it9qnbzadt3q2op    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 9op4opipy5zrwn9pfzaco881n    ecstatic-euler                    Accepted    Ready   Active        
 9oztu1wapoofsmsmkhx34g42e    suspicious-ptolemy                Accepted    Down    Active        
 9p7lvt0xnwb6q6a9jqklqi6ie    hypriot-sw035                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 9p8bnuhm8mqc8yvebky6p4rwg    admiring-boyd                     Accepted    Ready   Active        
 9pf9vw1agnxtl9jqvdt9gscrr    swarm2k-512mb-fra1-10             Accepted    Ready   Active        
 9pg8xqhgx246ih8wwdkf912tr    happy-leavitt                     Accepted    Ready   Active        
-9pmab1y2049hrdm962kdo69z5    bro2-docker                       Accepted    Ready   Active        
-9pnouhc98ga4vsgxruvhf6guv    bro2-docker                       Accepted    Ready   Active        
+9pmab1y2049hrdm962kdo69z5    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
+9pnouhc98ga4vsgxruvhf6guv    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 9pumrsyji5b36491dwn09ctfl    swarm2k-64                        Accepted    Ready   Active        
 9pxapl0f2kum1m1g51ss56xbd    inet-node-176                     Accepted    Ready   Active        
 9q0hzy29abumkdj0oafvkrzc3    admiring-wescoff                  Accepted    Ready   Active        
@@ -1593,7 +1593,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 9xgrdv6x3qpvpd8h8l8esuhwy    cranky-lichterman                 Accepted    Ready   Active        
 9xxs6gdp98fivqmv6ykadwdip    dockerswarm2k-14                  Accepted    Ready   Active        
 9xya5ludowk1w33vvtpiwjdj3    big-meitner                       Accepted    Ready   Active        
-9yn79p2ous2z9gb8f8c062sn8    bro2-docker                       Accepted    Ready   Active        
+9yn79p2ous2z9gb8f8c062sn8    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 9yq07e4pqn7hqka3n20jldhxg    berserk-mirzakhani                Accepted    Ready   Active        
 9z0d0em0p2y5ssbp321sjpjam    sick-liskov                       Accepted    Ready   Active        
 9z6xnwubzs405qiht5lxoma1r    swarm2k-96                        Accepted    Ready   Active        
@@ -1618,13 +1618,13 @@ a2lbpp06le675ga6n6ytoo6xf    node79                            Accepted    Ready
 a2ljr2gv1lr92mv3hfhrsa2mc    boring-ramanujan                  Accepted    Ready   Active        
 a2n696nttna8ufquho2os23dv    dockerswarm2k-04                  Accepted    Ready   Active        
 a2uz1uled3y4m0cbjkg15zegb    worker-n8                         Accepted    Ready   Active        
-a32bci3othbt9fpo4mwhqd3pl    bro2-docker                       Accepted    Ready   Active        
+a32bci3othbt9fpo4mwhqd3pl    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 a385c7atx0yajyddaj4y73036    nostalgic-liskov                  Accepted    Ready   Active        
 a39hmdv4nqcqs9eireebfudig    jovial-hawking                    Accepted    Ready   Active        
 a3fmou16o6dfigl5kettqlb75    kickass-mirzakhani                Accepted    Ready   Active        
 a3zci7gb9g0luz7igzd95zt7l    hypriot-sw097                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 a3zwzl0ya0x9498nse05o2opd    hypriot-sw197                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-a47ph2gzn8stxz9pvjwma1pnt    bro2-docker                       Accepted    Ready   Active        
+a47ph2gzn8stxz9pvjwma1pnt    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 a4glirh0q97buxkbnvgusg9oz    hypriot-sw069                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 a4pjcd234826hvtbu6e392tnr    furious-torvalds                  Accepted    Ready   Active        
 a4whlcrn88wajna1lfr9nr1re    swarm-36                          Accepted    Ready   Active        
@@ -1644,7 +1644,7 @@ a77ys7pntyrk284g7ebujgle0    gloomy-allen                      Accepted    Ready
 a7l2yi12aq3buq19uo17oe34x    reverent-spence                   Accepted    Ready   Active        
 a7lnrgry7xqpnxu6h6rsh4my1    boring-golick                     Accepted    Ready   Active        
 a7rxr36aqcvwpnvv0p9ixg41x    hypriot-sw024                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-a85cai61gx0jztqv92ux2z6t7    bro2-docker                       Accepted    Ready   Active        
+a85cai61gx0jztqv92ux2z6t7    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 a8dtww4650a6u4ec9s1u7ii03    hungry-engelbart                  Accepted    Ready   Active        
 a8z8gngazhmz3t80csdvyx3us    hypriot-sw087                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 a91yd2voxyag0h5u4w6zzblli    dockerswarm2k-27                  Accepted    Ready   Active        
@@ -1697,7 +1697,7 @@ ajtn0otp1t7bz2eenwxvy0b7h    clever-borg                       Accepted    Ready
 akla91e6zf27yos6gattelag1    clever-wozniak                    Accepted    Ready   Active        
 al1eofhhtc9ai26qtha711hvk    nipa-cloud-81                     Accepted    Ready   Active        
 alar1xjs9gqoq5p6lo8u2bmjv    grave-knuth                       Accepted    Ready   Active        
-ald6m8lau8acvs911w5xs85ss    bro2-docker                       Accepted    Ready   Active        
+ald6m8lau8acvs911w5xs85ss    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 alkrg1ygz5z70tmwlxbi8qj7w    mad-easley                        Accepted    Ready   Active        
 aloi7kcod4maqc3a1ulaqi4el    swarm2k2                          Accepted    Ready   Active        
 alucozu0ykfh5amluixkpy6bd    mad-bhaskara                      Accepted    Ready   Active        
@@ -1749,13 +1749,13 @@ aw9sxnu4mwf1wog4kotbb54xz    dockerswarm2k-45                  Accepted    Ready
 awi6hymsa9b7wwbnnt5t42b4i    big-varahamihira                  Accepted    Down    Active        
 awy1ge18uaszsdcvrp08iva2u    backstabbing-shockley             Accepted    Ready   Active        
 ax4i2kv5x6l1s4503uprhup9f    base                              Accepted    Ready   Active        
-axiptwpcgotluf719t9jrykjs    bro2-docker                       Accepted    Ready   Active        
+axiptwpcgotluf719t9jrykjs    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 axxept9ouu03dze66aanfizrj    dockerswarm2k-11                  Accepted    Ready   Active        
 ay043cxnsjmnewljkojm0ibwr    swarm2k-52                        Accepted    Ready   Active        
 aydwjkn9nt9ukir73iqiwyd5w    inet-node-195                     Accepted    Ready   Active        
-ayvtuscgppv5aqk8bdi98xrvb    bro2-docker                       Accepted    Ready   Active        
-ayvxv1qrd15sg7rh0lojr9gi1    bro2-docker                       Accepted    Ready   Active        
-az4ew6x5c2kh5qtkmtewe83wr    bro2-docker                       Accepted    Ready   Active        
+ayvtuscgppv5aqk8bdi98xrvb    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
+ayvxv1qrd15sg7rh0lojr9gi1    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
+az4ew6x5c2kh5qtkmtewe83wr    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 azgxfq1m7fl9s9kqzdb9p7hen    agitated-hopper                   Accepted    Ready   Active        
 b0eun479rw77huth0uh2s7c3v    hypriot-sw209                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 b0ggh52kkd160mugb8f9ro5pr    base                              Accepted    Ready   Active        
@@ -1783,7 +1783,7 @@ b680pzokzlrwnryaby5matxwy    silly-babbage                     Accepted    Ready
 b6862yqx1iwutd7h5jlihvscb    hypriot-sw191                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 b6byg6q7boem56z1h2c71iew7    clever-chandrasekhar              Accepted    Ready   Active        
 b6cawxsk4pcex73xn7jr73adf    swarm2k8                          Accepted    Ready   Active        
-b6cjf7qll82lb79lof6xuve82    bro2-docker                       Accepted    Ready   Active        
+b6cjf7qll82lb79lof6xuve82    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 b6jletxf0u4x76tr38hk1vvdn    node52                            Accepted    Ready   Active        
 b6sgk457mmjpnjp61qdugggw1    gloomy-davinci                    Accepted    Ready   Active        
 b75gjfz7fqcjdc6pco9da20v6    stupefied-swirles                 Accepted    Ready   Active        
@@ -1809,7 +1809,7 @@ bceh6phme5wmo4ymkvgvqpjli    clever-mestorf                    Accepted    Ready
 bck9w83b1wecgavafztssf2mb    boring-blackwell                  Accepted    Ready   Active        
 bckxicy1oaac8iebjotzmusd5    tiny-elion                        Accepted    Ready   Active        
 bcof3xu11p8h0ndg4q9rv6fzn    dreamy-borg                       Accepted    Ready   Active        
-bctav56xiz5jgmhil70t8wpf7    bro2-docker                       Accepted    Ready   Active        
+bctav56xiz5jgmhil70t8wpf7    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 bcw1rgzmf3t4oh0nu327lesxl    base                              Accepted    Ready   Active        
 bczkt4fpg0nzqyvrxzjvpl102    nipa-cloud-89                     Accepted    Ready   Active        
 bd51io8lcpvhs1viujzag80w2    dockerswarm2k-23                  Accepted    Down    Active        
@@ -1876,7 +1876,7 @@ brtfoqytx213mrdvxdx2bnwba    amazing-hopper                    Accepted    Ready
 bs4igou7nicr3zrfv1ijl9rgr    inet-node-099                     Accepted    Ready   Active        
 bsvym23nfeq7pxbhy84p9afya    trusting-noyce                    Accepted    Ready   Active        
 bszaw0yhcya9j7u96pylwb0x8    fervent-goldberg                  Accepted    Ready   Active        
-bt3in09xjemm3czxtrhsktaes    bro2-docker                       Accepted    Ready   Active        
+bt3in09xjemm3czxtrhsktaes    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 bthkkj92wk7g3isvmv9m06ft0    big-saha                          Accepted    Ready   Active        
 btmt5d5yfo3krj9mab17ldqge    happy-kilby                       Accepted    Ready   Active        
 bu4n821sd0fg5rz2chdoosma0    small-thompson                    Accepted    Ready   Active        
@@ -1895,7 +1895,7 @@ bwb10zcc7r8c6hhqxdb5d2z80    swarm2k-akalipetis-sourcelair-19  Accepted    Ready
 bwmyjkswxhdtvnfpj6fhu6cq9    berserk-leavitt                   Accepted    Ready   Active        
 bwrvs4udu750lkf7tc5r8zeee    high-spence                       Accepted    Down    Active        
 bxa3q47ckel0z498i0coh8doe    trusting-curie                    Accepted    Ready   Active        
-bxawlqpftnwh8chhq0k09qhlf    bro2-docker                       Accepted    Ready   Active        
+bxawlqpftnwh8chhq0k09qhlf    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 bxeoeiijl6rg74aunuw801pev    swarm2k-4                         Accepted    Ready   Active        
 bxjj9zopq0jnetwy2480gf22j    admiring-meitner                  Accepted    Ready   Active        
 bxkd5t53wxu80nuvo0e3qhdql    node47                            Accepted    Ready   Active        
@@ -1909,7 +1909,7 @@ bz3gy91vit60djlutljz6ocuz    tender-noyce                      Accepted    Ready
 bzlwkbkl42dh86lqqt2ujy5av    hypriot-sw068                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 bztszm6s4sohhievpxx5tr3me    swarm2k-2                         Accepted    Ready   Active        
 bzwdfe1drgucqg0237ay1fv4v    swarm-27                          Accepted    Ready   Active        
-c12b3rthy8v5w38jddh0020ky    bro2-docker                       Accepted    Ready   Active        
+c12b3rthy8v5w38jddh0020ky    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 c12b4iukh72opswojsui5zzt2    2knode4                           Accepted    Ready   Active  @laurentgrangeau      
 c15nvrvpsvblqwb81uyf0x4xp    elegant-cori                      Accepted    Ready   Active        
 c18mxc9aw82rl7r2wdxmfw0lo    swarm-16                          Accepted    Ready   Active        
@@ -1965,12 +1965,12 @@ ccg629m3d69t39xyercjhhvai    inet-node-136                     Accepted    Ready
 cch733a02vbb3jmxy3q8t7a2d    swarm2k-76                        Accepted    Ready   Active        
 ccq67yb2i6pahuhe1ltz4oe5c    suspicious-boyd                   Accepted    Ready   Active        
 ccsw2mpq6gkdgb8ryed9pbfun    tswarm-7                          Accepted    Ready   Active        
-cd6ggd6y0jdmp8o4akm99z8xq    bro2-docker                       Accepted    Ready   Active        
+cd6ggd6y0jdmp8o4akm99z8xq    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 cder00oe0tohf7oojvqnzpekg    inet-node-065                     Accepted    Ready   Active        
 cdi900vjti40cqr3316tkqgx2    tender-darwin                     Accepted    Ready   Active        
 cdmovs3zhni4hky7ondij5sym    furious-williams                  Accepted    Ready   Active        
 cdnpb8r92qov64syq6tzyqfdz    agitated-hamilton                 Accepted    Ready   Active        
-cdooud5kfn9ovmuckodp36i4p    bro2-docker                       Accepted    Ready   Active        
+cdooud5kfn9ovmuckodp36i4p    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 cdvwadtb054q9ysi6jlydx59g    reverent-perlman                  Accepted    Ready   Active        
 cdwbe1jdo4iwkv3nu4vavtu2l    nauseous-mayer                    Accepted    Ready   Active        
 cel03jdbiljgtrykgizg5upwk    nipa-cloud-23                     Accepted    Ready   Active        
@@ -2036,7 +2036,7 @@ csvsys7av19mni92htt72at3k    swarm2k-18                        Accepted    Ready
 ctd58a21nyu8og5pfud6zlori    swarm2k-51                        Accepted    Ready   Active        
 ctjlwc7r4kmde5fr67imbiwec    serene-yonath                     Accepted    Ready   Active        
 cuhwufzps6qg9dma2gzziurob    backstabbing-thompson             Accepted    Ready   Active        
-cuio6bfek9taawjx67dc16vqa    bro2-docker                       Accepted    Ready   Active        
+cuio6bfek9taawjx67dc16vqa    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 cut9lsz2y1ld9ygc9zmm1fvw6    drunk-mclean                      Accepted    Ready   Active        
 cv7374bho1o6tp4ei1tbckm85    swarm2k-79                        Accepted    Ready   Active        
 cvev5dupw0ks7zzw45nj3kaxl    nipa-cloud-72                     Accepted    Ready   Active        
@@ -2053,7 +2053,7 @@ czc0okqfx9b0buiyfwh5oit7g    elegant-swartz                    Accepted    Ready
 czcv5iu5rfkdtkbfirgjn2reo    hypriot-sw314                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 czgtbsv1bk82itp6cwjz0uqw1    node12                            Accepted    Ready   Active        
 czhuo7pzu9hd53ouce62kmawq    high-borg                         Accepted    Ready   Active        
-czie10kxdt3itrak03sxgf6lv    bro2-docker                       Accepted    Ready   Active        
+czie10kxdt3itrak03sxgf6lv    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 czm6afspl9y6ovtb0gqzenk1j    silly-saha                        Accepted    Ready   Active        
 czs03el32j3jy18y3iu701gz4    clever-bose                       Accepted    Ready   Active        
 d06cjmvngc6wv37bq2wkclhdk    base                              Accepted    Ready   Active        
@@ -2078,7 +2078,7 @@ d3o4qscchcugq3d48jhlpowms    admiring-bardeen                  Accepted    Ready
 d44zu0wl5crz9aeh3187nb1zj    ecstatic-babbage                  Accepted    Ready   Active        
 d4a7djjy30vihzoggxsu25hny    small-dijkstra                    Accepted    Ready   Active        
 d4datsdcc0rkt8dwhhts1lm87    dockerswarm2k-10                  Accepted    Down    Active        
-d4wukzsp1wgfb0tsp0t3nm8hi    bro2-docker                       Accepted    Ready   Active        
+d4wukzsp1wgfb0tsp0t3nm8hi    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 d5a7p4ppms68f33znfuy7ll3u    cocky-curie                       Accepted    Ready   Active        
 d5scpn6w01pbbdldpts7y67kg    hypriot-sw027                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 d688hb62g66hal1zuapgpp7iz    nipa-cloud-61                     Accepted    Ready   Active        
@@ -2092,7 +2092,7 @@ d77q6kqyw78awj2zj8t2wcjlt    pedantic-dijkstra                 Accepted    Ready
 d7b6q8ggpqo3ci1458jdc15av    distracted-shaw                   Accepted    Ready   Active        
 d7ceyathggg8715u258mvih1d    elated-meninsky                   Accepted    Ready   Active        
 d7femq4yomf7rh13ytjsdf1ma    stupefied-colden                  Accepted    Ready   Active        
-d7mjmwio22zhvamp51lbikues    bro2-docker                       Accepted    Ready   Active        
+d7mjmwio22zhvamp51lbikues    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 d85irfrwh864hmsklpoykqe2d    swarm2k-akalipetis-sourcelair-01  Accepted    Ready   Active        @akalipetis
 d8am6zj9vmajgs6rmmjoq7i0p    swarm2k-75                        Accepted    Ready   Active        
 d8eg9wz49wgqy3utvki6x43wr    hungry-mestorf                    Accepted    Ready   Active        
@@ -2113,7 +2113,7 @@ daypgig5y0jn99yl63qyerhbd    mad-kalam                         Accepted    Ready
 db2mfkk0obuqywy62s3hjxe9m    grave-shockley                    Accepted    Ready   Active        
 db7twwsjnybkgr1ml02iw0zcl    tender-meitner                    Accepted    Ready   Active        
 dbmhamd274p2bd1buf3rv21zz    jovial-swirles                    Accepted    Ready   Active        
-dc09526brx8o8of7knu5k6n7d    bro2-docker                       Accepted    Ready   Active        
+dc09526brx8o8of7knu5k6n7d    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 dc4a7m5igmhifkhrctmhj8jtr    tender-nobel                      Accepted    Down    Active        
 dc65gxdsbcv7pw55bkldguvnf    hypriot-sw102                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 dcm9p33eh7dvlh1ebds3tt3dp    node98                            Accepted    Ready   Active        
@@ -2178,7 +2178,7 @@ do8bmk1i0jdu5iolehgaz9iju    swarm-17                          Accepted    Ready
 dowuhnred396q9bh6rvpfu7xb    sick-morse                        Accepted    Ready   Active        
 dp9z2q60tdyga3r07w57lg2tj    lonely-kalam                      Accepted    Ready   Active        
 dpclromaeg73w0g56qbktmzu9    naughty-carson                    Accepted    Ready   Active        
-dptyzmcz3yi80j55v752gbi2b    bro2-docker                       Accepted    Ready   Active        
+dptyzmcz3yi80j55v752gbi2b    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 dpv5jq7zf1o8ujej63816cs4r    inet-node-059                     Accepted    Ready   Active        
 dpz0nojjey361ivjqg2vrn55y    hypriot-sw227                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 dqjp125fnvtqgrbhge4tk2na6    tender-noyce                      Accepted    Ready   Active        
@@ -2202,7 +2202,7 @@ dursssjgtzi57kf25vllr9ms0    condescending-jennings            Accepted    Ready
 dv0f6y4a5tzyauzi2mellz1n1    insane-banach                     Accepted    Ready   Active        
 dvfc38op8qdjlpiwa41e4gqnb    agitated-murdock                  Accepted    Ready   Active        
 dvw7tkdw7lh1zzy9ehdmzylwq    nauseous-wing                     Accepted    Ready   Active        
-dwndkb2thl4h2rpmm6rd1npzt    bro2-docker                       Accepted    Ready   Active        
+dwndkb2thl4h2rpmm6rd1npzt    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 dwwybrpdv1lskctac7v1jk0p8    swarm2k-16                        Accepted    Ready   Active        
 dxesy389wuwnb7geim8uytk3l    swarm2k-30                        Accepted    Ready   Active        
 dxiihhlpt67i3spuioq4o8gx5    dockerswarm2k-49                  Accepted    Ready   Active        
@@ -2268,7 +2268,7 @@ edi25ag3b8wct3qyixvfvju0h    loving-cray                       Accepted    Ready
 ee13ygfzytc6z6gddfu674ape    thajeztah-swarm2k-20              Accepted    Ready   Active        
 ee2wmbqv0uuiw5hu6p6vsrnhx    inet-node-110                     Accepted    Ready   Active        
 ee5ztjhkeyuhwfn9e677w7hyv    awesome-shirley                   Accepted    Ready   Active        
-ee75775w1q0tmtdzati6o5203    bro2-docker                       Accepted    Ready   Active        
+ee75775w1q0tmtdzati6o5203    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 ee9uxphibps7s8e2uh6em9zzs    dockerswarm2000C                  Accepted    Ready   Active        @enlamp
 eeblggahc9ewjp5cnywgjo90m    ecstatic-chandrasekhar            Accepted    Ready   Active        
 eeduyh64j52p8fhmt3n6osw2v    compassionate-pike                Accepted    Ready   Active        
@@ -2315,7 +2315,7 @@ epf9lajd9f1zjdjr7bq3aaxt4    lonely-varahamihira               Accepted    Ready
 epn1mcgrt1epr2tad2egllvcv    swarm-80                          Accepted    Ready   Active        
 epoc3z8yeyef3mnbcnew8efz2    agitated-khorana                  Accepted    Ready   Active        
 epv9btdn1ya7qzp34fe30jo9n    node76                            Accepted    Ready   Active        
-eq3jes4t068kmur47zf909iz3    bro2-docker                       Accepted    Ready   Active        
+eq3jes4t068kmur47zf909iz3    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 eqncrrs6xgokj7gxlvz4f0bl5    compassionate-cori                Accepted    Ready   Active        
 eqrwt9vqi5svfnf77wogrvm0o    dockerswarm2k-07                  Accepted    Ready   Active        
 eqsbblty4armr81shg9np9yfa    node40                            Accepted    Ready   Active        
@@ -2346,13 +2346,13 @@ ev20sugslzbtxlrp6galpl9bu    thajeztah-swarm2k-4               Accepted    Ready
 evrid46icd40rr741swsfplp8    jovial-carson                     Accepted    Ready   Active        
 evsup7pvnpmolg04ygmvirm4x    hypriot-sw072                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 evvfqnuoyufxu2c5dtwbk66np    condescending-brown               Accepted    Ready   Active        
-ewlcxw6bvzrkcrol0u81xodnx    bro2-docker                       Accepted    Ready   Active        
+ewlcxw6bvzrkcrol0u81xodnx    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 ex0ix6ue8lonrqgzcd00qkuif    cranky-noyce                      Accepted    Ready   Active        
 ex41zusfpijwt4meffdnj1lpv    swarm-45                          Accepted    Ready   Active        
 ex49xf1xpdj1fdii4g28e88td    compassionate-varahamihira        Accepted    Ready   Active        
 exc7ko9rdywkmf4n4817m7d48    romantic-raman                    Accepted    Ready   Active        
 exg0hn4e05gft9s7b62wqqjjo    dreamy-mirzakhani                 Accepted    Ready   Active        
-exjn9450hcewkjle0hbojg6p8    bro2-docker                       Accepted    Ready   Active        
+exjn9450hcewkjle0hbojg6p8    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 exkeujz537hhyu65eekzzhibd    desperate-booth                   Accepted    Ready   Active        
 exqxjkoyb1fdcse584qw77k9o    hypriot-sw112                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 exs42fw2qpa0f23lmq9p8i3lc    fervent-dubinsky                  Accepted    Ready   Active        
