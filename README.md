@@ -792,7 +792,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 4utr5cu017slg9e8rmgkglrsc    hypriot-sw017                     Accepted    Ready   Active        
 4v1mhmgxmi49ucb5w35jbv7ge    small-bhabha                      Accepted    Ready   Active        
 4v8lbq0cs5sbmincfp2i6vt93    oxygen.labs.aternos.org           Accepted    Ready   Active  @Aternos      
-4vndxxvbri8tjmunygkh08tgn    2knode5                           Accepted    Ready   Active        
+4vndxxvbri8tjmunygkh08tgn    2knode5                           Accepted    Ready   Active  @laurentgrangeau      
 4w0hpv52s5c8bxjaytmzg9t3a    adoring-mcclintock                Accepted    Ready   Active        
 4w5tmeqtyotdys5htcmru4ptu    swarm2k-34                        Accepted    Ready   Active        
 4w68aus6rgdlb78br4adcp2gs    bro2-docker                       Accepted    Ready   Active        
@@ -1116,7 +1116,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 6rfbxn7rdl2e065a8s7dw4csw    determined-albattani              Accepted    Down    Active        
 6ro5iknq120t1bifj1hwo3y6r    hypriot-sw178                     Accepted    Ready   Active        
 6ro6b6xk1dd1u1x3ejigr06x9    swarm2k-11                        Accepted    Ready   Active        
-6s6idyq5z2ppa7s5ym2ehmvtv    2knode3                           Accepted    Ready   Active        
+6s6idyq5z2ppa7s5ym2ehmvtv    2knode3                           Accepted    Ready   Active  @laurentgrangeau      
 6svklxywwlv27bgajgjvd3k58    inet-node-126                     Accepted    Ready   Active        
 6t8dtr62ayz4lvvr3v4dlwybs    gloomy-archimedes                 Accepted    Ready   Active        
 6tczw167czwjf2lflxjzwfzxk    backstabbing-perlman              Accepted    Ready   Active        
@@ -1910,7 +1910,7 @@ bzlwkbkl42dh86lqqt2ujy5av    hypriot-sw068                     Accepted    Ready
 bztszm6s4sohhievpxx5tr3me    swarm2k-2                         Accepted    Ready   Active        
 bzwdfe1drgucqg0237ay1fv4v    swarm-27                          Accepted    Ready   Active        
 c12b3rthy8v5w38jddh0020ky    bro2-docker                       Accepted    Ready   Active        
-c12b4iukh72opswojsui5zzt2    2knode4                           Accepted    Ready   Active        
+c12b4iukh72opswojsui5zzt2    2knode4                           Accepted    Ready   Active  @laurentgrangeau      
 c15nvrvpsvblqwb81uyf0x4xp    elegant-cori                      Accepted    Ready   Active        
 c18mxc9aw82rl7r2wdxmfw0lo    swarm-16                          Accepted    Ready   Active        
 c1omxuh6t78w90p9g3sjowl9r    trusting-liskov                   Accepted    Ready   Active        
@@ -2225,7 +2225,7 @@ e178bdikw24tpp9pec7gzg61s    desperate-hamilton                Accepted    Ready
 e1gotquscqj6ab33qwrv479k2    nipa-cloud-77                     Accepted    Ready   Active        
 e1oluic44w8095zxkd2rl4a6i    romantic-swirles                  Accepted    Down    Active        
 e1s8zi697n6ijznobcnupayoj    pensive-jepsen                    Accepted    Ready   Active        
-e2g6js6tvh7rrubw4vxw2gh5y    2knode2                           Accepted    Ready   Active        
+e2g6js6tvh7rrubw4vxw2gh5y    2knode2                           Accepted    Ready   Active  @laurentgrangeau      
 e2kcfhcn5wc7a0otk9l6ngqdw    hypriot-sw230                     Accepted    Ready   Active        
 e2saczu1z93fu5exl6og05an3    tiny-perlman                      Accepted    Ready   Active        
 e2ybtpwcvx3zgybfi5lenpacz    swarm2k9                          Accepted    Ready   Active        
@@ -2249,7 +2249,7 @@ e84n246z9k2bnbfz84ut9qokq    thirsty-minsky                    Accepted    Ready
 e84tbjfjx6gc3g2foactl4b6k    dreamy-bose                       Accepted    Ready   Active        
 e88ybwgrp8b8p2izkl6xtl8l7    dreamy-wozniak                    Accepted    Ready   Active        
 e8dhl35h601tre70ikrqv7ku7    serene-ardinghelli                Accepted    Ready   Active        
-e8qtezd5776cgdlfo22ci32a5    2knode1                           Accepted    Ready   Active        
+e8qtezd5776cgdlfo22ci32a5    2knode1                           Accepted    Ready   Active  @laurentgrangeau      
 e8ylj69qe33lgn7qm9favzrwp    jovial-jennings                   Accepted    Ready   Active        
 e9ghxkix0zuist534v769948o    nauseous-wescoff                  Accepted    Ready   Active        
 e9u8qy7ezslwpqn38ud5w28b9    hypriot-sw221                     Accepted    Ready   Active        
