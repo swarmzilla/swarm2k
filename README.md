@@ -88,7 +88,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 0gm37cj1rrwx4c337i067oc1c    boring-bhaskara                   Accepted    Ready   Active        
 0gm49ixq4qdlpwb2v5ifeynlh    condescending-elion               Accepted    Ready   Active        
 0goj1ewbetygl49ajpakgoc41    dreamy-stonebraker                Accepted    Ready   Active        
-0gwnnxko7lrv1atii6q7m5b4e    dockerswarm2000D                  Accepted    Ready   Active        
+0gwnnxko7lrv1atii6q7m5b4e    dockerswarm2000D                  Accepted    Ready   Active        @enlamp
 0gyocoujjkligf5kvpfqhstl8    determined-sammet                 Accepted    Ready   Active        
 0hb8nm3zc0pmhzwbvul0q04n7    tender-bassi                      Accepted    Ready   Active        
 0hfe50avglurwsn52qaq4noio    bro2-docker                       Accepted    Ready   Active        
@@ -539,7 +539,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 3e9k13sqhsulavsc5jo7vq4c5    hypriot-sw224                     Accepted    Ready   Active        
 3ebjv4rcd6j0y5exwsl9ih7jh    suspicious-kowalevski             Accepted    Ready   Active        
 3enxj2ra9kg1s0jzymf03pqrm    bro2-docker                       Accepted    Ready   Active        
-3fja7u2fl36nmbxny9n7cmncx    dockerswarm2000A                  Accepted    Ready   Active        
+3fja7u2fl36nmbxny9n7cmncx    dockerswarm2000A                  Accepted    Ready   Active        @enlamp
 3fzhrtmnzwmgepshkgqnfetwz    swarm-09                          Accepted    Ready   Active        
 3g1qodlkfq3zr6mh0b3ksur61    inet-node-007                     Accepted    Ready   Active        
 3g748mf1w074aamupvvvq675h    swarm-44                          Accepted    Ready   Active        
@@ -1322,7 +1322,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 873vscez5p21a6au37oxj6mho    hypriot-sw244                     Accepted    Ready   Active        
 874inz6f1wykga0cqjxl7x6hg    nipa-cloud-27                     Accepted    Ready   Active        
 8787ccnmzmkbaehesr4pefh31    thirsty-euclid                    Accepted    Ready   Active        
-87b21xk3f58m8i3dh1q32lfug    dockerswarm2000H                  Accepted    Ready   Active        
+87b21xk3f58m8i3dh1q32lfug    dockerswarm2000H                  Accepted    Ready   Active        @enlamp
 87roqu90q0jsjnlac91n58pat    nauseous-einstein                 Accepted    Ready   Active        
 87rxd3jxrkm479ca8mec1ceg7    amazing-chandrasekhar             Accepted    Ready   Active        
 882ntyshznvxaeuhzgfk84daj    awesome-khorana                   Accepted    Ready   Active        
@@ -1800,7 +1800,7 @@ bac1035rq5mcy2n89lmdcqdbq    tiny-borg                         Accepted    Ready
 baf089ak7902b8qpjce5pir6t    hypriot-sw086                     Accepted    Ready   Active        
 balmqmjhgei18fztvifovbm1s    modest-yonath                     Accepted    Ready   Active        
 bapor97oe0hpdiuz602nh9xr0    lonely-torvalds                   Accepted    Ready   Active        
-bbsyxowj108nekyctssqcztf1    dockerswarm2000B                  Accepted    Ready   Active        
+bbsyxowj108nekyctssqcztf1    dockerswarm2000B                  Accepted    Ready   Active        @enlamp
 bbwlv84iq90iq3hagom87sgwb    amazing-babbage                   Accepted    Ready   Active        
 bc3aag69jbsmiksajnlzq41zo    inet-node-162                     Accepted    Ready   Active        
 bc7yaa0n2a81f13lbqk6itn50    swarm2k-29                        Accepted    Ready   Active        
@@ -1828,7 +1828,7 @@ bgsur7hl662lje8sy8gfjm85e    nipa-cloud-48                     Accepted    Ready
 bgvp3dui1ov0tc9ejzyk57wh8    agitated-liskov                   Accepted    Ready   Active        
 bgwo3ssu28zfzregg3tairk1r    silly-heisenberg                  Accepted    Ready   Active        
 bh3ffbvzlnbp12zsucpszcflj    inet-node-009                     Accepted    Ready   Active        
-bhi2zhsyqo0rbncjhlfplxu57    dockerswarm2000F                  Accepted    Ready   Active        
+bhi2zhsyqo0rbncjhlfplxu57    dockerswarm2000F                  Accepted    Ready   Active        @enlamp
 bhlpjbd9w0uhiyfvtxa8var0y    sleepy-mclean                     Accepted    Ready   Active        
 bhu1hlmh9sicz4vct26qc4sum    hypriot-sw063                     Accepted    Ready   Active        
 bi6k2k7aklk2kkd7rrrspcmab    hypriot-sw193                     Accepted    Ready   Active        
@@ -2041,7 +2041,7 @@ cut9lsz2y1ld9ygc9zmm1fvw6    drunk-mclean                      Accepted    Ready
 cv7374bho1o6tp4ei1tbckm85    swarm2k-79                        Accepted    Ready   Active        
 cvev5dupw0ks7zzw45nj3kaxl    nipa-cloud-72                     Accepted    Ready   Active        
 cvhs4vcyr9ttrqa99csddvyib    pensive-hamilton                  Accepted    Ready   Active        
-cvo2euiettrm5jhefxhr8a723    dockerswarm2000E                  Accepted    Ready   Active        
+cvo2euiettrm5jhefxhr8a723    dockerswarm2000E                  Accepted    Ready   Active        @enlamp
 cw9r4a17ureltx8vwyycgaohd    swarm-13                          Accepted    Ready   Active        
 cwjwvszc3638b4buk5o5z2fyv    sharp-kalam                       Accepted    Ready   Active        
 cxmu6pl40vihl0ejgsond1hq3    focused-bell                      Accepted    Ready   Active        
@@ -2161,7 +2161,7 @@ dkj7ui8sah0px7rnvok5a2btg    hypriot-sw161                     Accepted    Ready
 dkr6kf89vsfom0n5z467vgqgo    condescending-sinoussi            Accepted    Ready   Active        
 dkrvxfnz1ohua3xaoirvszu12    node25                            Accepted    Ready   Active        
 dl0nb9efiqmqllso05rouzmb6    inet-node-117                     Accepted    Ready   Active        
-dl8lz7oj7apszy4pwuhlnl76m    dockerswarm2000G                  Accepted    Ready   Active        
+dl8lz7oj7apszy4pwuhlnl76m    dockerswarm2000G                  Accepted    Ready   Active        @enlamp
 dllpewiq087qantr950p2ledn    happy-easley                      Accepted    Ready   Active        
 dlwze0m0o2y8zqbby7xdlau8u    neverlock-5                       Accepted    Ready   Active        
 dm20bne7kcfv7eoxu1oz5d9g8    pensive-newton                    Accepted    Ready   Active        
@@ -2269,7 +2269,7 @@ ee13ygfzytc6z6gddfu674ape    thajeztah-swarm2k-20              Accepted    Ready
 ee2wmbqv0uuiw5hu6p6vsrnhx    inet-node-110                     Accepted    Ready   Active        
 ee5ztjhkeyuhwfn9e677w7hyv    awesome-shirley                   Accepted    Ready   Active        
 ee75775w1q0tmtdzati6o5203    bro2-docker                       Accepted    Ready   Active        
-ee9uxphibps7s8e2uh6em9zzs    dockerswarm2000C                  Accepted    Ready   Active        
+ee9uxphibps7s8e2uh6em9zzs    dockerswarm2000C                  Accepted    Ready   Active        @enlamp
 eeblggahc9ewjp5cnywgjo90m    ecstatic-chandrasekhar            Accepted    Ready   Active        
 eeduyh64j52p8fhmt3n6osw2v    compassionate-pike                Accepted    Ready   Active        
 eeo217qhrwkbaponhkn47mczk    hopeful-snyder                    Accepted    Down    Active        
