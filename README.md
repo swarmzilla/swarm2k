@@ -288,7 +288,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 1qpjhc41gc09cdw3m2neyiujn    reverent-rosalind                 Accepted    Ready   Active        
 1r1nlksmp7iymnivzaq704cl6    nipa-cloud-17                     Accepted    Ready   Active        
 1r7clh6ly9vqan3atvv2ip4ix    dockerswarm2k-00                  Accepted    Down    Active        
-1sb72nxh1aajf8wmuzn7y648r    argon.labs.aternos.org            Accepted    Ready   Active        
+1sb72nxh1aajf8wmuzn7y648r    argon.labs.aternos.org            Accepted    Ready   Active   @Aternos     
 1ss4cae9yj12hadgzhxds84g3    hypriot-sw082                     Accepted    Ready   Active        
 1swpapoxbyhhf175nj1hrgw80    angry-lamarr                      Accepted    Ready   Active        
 1sxhk6xsj7h14cc0i88asuxuz    insane-jennings                   Accepted    Ready   Active        
@@ -522,7 +522,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 399sepv3esv15iqyhyo95g1ll    tswarm-8                          Accepted    Ready   Active        
 39vkqkntrjv2ayaqgyiggt9xw    jovial-perlman                    Accepted    Ready   Active        
 3a34skex7q512r8jcgfe0isgs    happy-babbage                     Accepted    Ready   Active        
-3a6un3l59nrbzcx3n3nf7n8ye    nitrogen.labs.aternos.org         Accepted    Ready   Active        
+3a6un3l59nrbzcx3n3nf7n8ye    nitrogen.labs.aternos.org         Accepted    Ready   Active   @Aternos     
 3abm22cthzqrpt9yozyzy9t3p    swarm2k-72                        Accepted    Ready   Active        
 3atfi4ulhnihxilwjgfqyrgjt    adoring-albattani                 Accepted    Ready   Active        
 3avo1ycexexrbhbp8rleufayv    focused-brattain                  Accepted    Ready   Active        
@@ -791,7 +791,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 4u2sbcx6iy95me0s360yc5imo    dockerswarm2k-37                  Accepted    Ready   Active        
 4utr5cu017slg9e8rmgkglrsc    hypriot-sw017                     Accepted    Ready   Active        
 4v1mhmgxmi49ucb5w35jbv7ge    small-bhabha                      Accepted    Ready   Active        
-4v8lbq0cs5sbmincfp2i6vt93    oxygen.labs.aternos.org           Accepted    Ready   Active        
+4v8lbq0cs5sbmincfp2i6vt93    oxygen.labs.aternos.org           Accepted    Ready   Active  @Aternos      
 4vndxxvbri8tjmunygkh08tgn    2knode5                           Accepted    Ready   Active        
 4w0hpv52s5c8bxjaytmzg9t3a    adoring-mcclintock                Accepted    Ready   Active        
 4w5tmeqtyotdys5htcmru4ptu    swarm2k-34                        Accepted    Ready   Active        
@@ -844,7 +844,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 56d8maxjav9xewu8d0dxtjeha    grave-ritchie                     Accepted    Ready   Active        
 56gz6wd8fl5dn0tl1li79s4m1    inet-node-061                     Accepted    Ready   Active        
 56jwuahsi9ofwifzwlj2h68lo    worker-n6                         Accepted    Ready   Active        
-56lcc77krryitgdw27s3x4n70    chromium.labs.aternos.org         Accepted    Ready   Active        
+56lcc77krryitgdw27s3x4n70    chromium.labs.aternos.org         Accepted    Ready   Active  @Aternos      
 56nbo17x26khsq8u8zt4puzao    mad-mcnulty                       Accepted    Ready   Active        
 56unw3xru4mouy6so0bl3nl6k    hypriot-sw208                     Accepted    Ready   Active        
 57941moxp1uio1c9kart7rz4f    bro2-docker                       Accepted    Ready   Active        
@@ -1061,7 +1061,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 6fixh2455op8gegihdclof5ad    base                              Accepted    Ready   Active        
 6fppq7jn7s3tucvq52x0ywbs9    sad-meninsky                      Accepted    Ready   Active        
 6fsrpv1uw54xsalmv04dpy3yh    high-swartz                       Accepted    Ready   Active        
-6gngjofpk54qay5q4xcujhluw    hydrogen.labs.aternos.org         Accepted    Ready   Active        
+6gngjofpk54qay5q4xcujhluw    hydrogen.labs.aternos.org         Accepted    Ready   Active   @Aternos     
 6gudzxhy56f3px5gin7646etz    insane-fermat                     Accepted    Ready   Active        
 6hbhqm2r3gg1zea4w7ykk3j7b    agitated-snyder                   Accepted    Ready   Active        
 6hffm7h2izzlimt1do42b30d2    thirsty-goldstine                 Accepted    Ready   Active        
@@ -1540,7 +1540,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 9meplsbjsupca03l0gv7z0nyy    node97                            Accepted    Ready   Active        
 9meqm5jbm1m9ggkfuhhiebjtb    condescending-jones               Accepted    Ready   Active        
 9mjxuxtukpggu372j4go6z52q    happy-dijkstra                    Accepted    Ready   Active        
-9mlwrgtsuz69pctlgvpetf2ai    neon.labs.aternos.org             Accepted    Ready   Active        
+9mlwrgtsuz69pctlgvpetf2ai    neon.labs.aternos.org             Accepted    Ready   Active   @Aternos     
 9n2psfeh4dhjk0cjgldghbx81    sick-fermi                        Accepted    Ready   Active        
 9nw266ab90wh0qrxzwm0cu06r    drunk-carson                      Accepted    Ready   Active        
 9o60ou67z0zwoxl063f6ulb80    amazing-meninsky                  Accepted    Ready   Active        
@@ -2212,7 +2212,7 @@ dykj0bkyt0e0vn3ootwia0egz    inet-node-003                     Accepted    Ready
 dymupo9jc58rpyo27t4qrarii    hypriot-sw049                     Accepted    Ready   Active        
 dypji9zg05wx4suw94fim6f2z    dockerswarm2k-05                  Accepted    Down    Active        
 dyy4shxxstotcj3gi97cmdpnq    hypriot-sw236                     Accepted    Ready   Active        
-dz22z8q6e8vvbyqrumkulp8gi    platinum.labs.aternos.org         Accepted    Ready   Active        
+dz22z8q6e8vvbyqrumkulp8gi    platinum.labs.aternos.org         Accepted    Ready   Active   @Aternos     
 dz37zo77f0yxawq0vecslcklo    prickly-goldwasser                Accepted    Ready   Active        
 dz6m4fkzwfktnd0utvaa63ty6    XPS                               Accepted    Down    Active        
 dzdssdly95l21b7sopqaaj2ze    hypriot-sw073                     Accepted    Ready   Active        
