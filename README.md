@@ -1,6 +1,6 @@
 # Swarm2K 22 July, 2016 - Hall of Fame
 
-## Please claim your nodes by putting your Twitter's ID or Company there any the end of each line.
+## Please claim your nodes by putting your Twitter's ID or Company there at the end of each line.
 
 ```
 ID                           HOSTNAME                          MEMBERSHIP  STATUS  AVAILABILITY  MANAGER STATUS 
