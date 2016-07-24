@@ -12,7 +12,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 01ntptuecgpggphha49cr0f95    gigantic-hawking                  Accepted    Ready   Active  @scaleway
 020r3mqzv9m1nvgffeq1y8ect    pensive-babbage                   Accepted    Down    Active  @scaleway
 0216v61vjw4q7862p419da832    stupefied-bartik                  Accepted    Ready   Active  @scaleway
-022y2f6afykvv61b9zckqaffi    inet-node-039                     Accepted    Ready   Active        
+022y2f6afykvv61b9zckqaffi    inet-node-039                     Accepted    Ready   Active  Internet Thailand      
 02i1fzof9g0zh4q68ataunyg8    drunk-curie                       Accepted    Down    Active  @scaleway
 02uuey060mgsoaejmblciwwb4    angry-joliot                      Accepted    Ready   Active  @scaleway
 0317vus80wq5di6dnrx1simwf    swarm2k-83                        Accepted    Ready   Active  @fdoxyz      
