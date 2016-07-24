@@ -15,7 +15,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 022y2f6afykvv61b9zckqaffi    inet-node-039                     Accepted    Ready   Active        
 02i1fzof9g0zh4q68ataunyg8    drunk-curie                       Accepted    Down    Active  @scaleway
 02uuey060mgsoaejmblciwwb4    angry-joliot                      Accepted    Ready   Active  @scaleway
-0317vus80wq5di6dnrx1simwf    swarm2k-83                        Accepted    Ready   Active        
+0317vus80wq5di6dnrx1simwf    swarm2k-83                        Accepted    Ready   Active  @fdoxyz      
 03bp4t5cgpmj9jr8o9kay54t4    hypriot-sw040                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 03hbe3551w0pi6mfc04z14bau    fervent-joliot                    Accepted    Ready   Active  @scaleway
 03n2e4ml90kq37inziay7rj9r    nipa-cloud-76                     Accepted    Ready   Active  NIPA Technology      
@@ -56,7 +56,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 09v43k4tcwb75xodx6lgzc67j    inet-node-133                     Accepted    Ready   Active        
 0a1s5nqvr7epak5dgyea83rac    thirsty-williams                  Accepted    Ready   Active  @scaleway
 0ad2yosco5bddoyunl4hwrlr4    nipa-cloud-54                     Accepted    Ready   Active  NIPA Technology      
-0aebn5joot6lefhuqdy4jzual    swarm2k-49                        Accepted    Ready   Active        
+0aebn5joot6lefhuqdy4jzual    swarm2k-49                        Accepted    Ready   Active  @fdoxyz        
 0amdl2rgwgcr6x589v8mpqfpr    inet-node-076                     Accepted    Ready   Active        
 0b6pam1ev0j9ugc5q27vkas3p    gloomy-noyce                      Accepted    Ready   Active  @scaleway
 0bwdh6w3hawbpv1sj2walpu1f    base                              Accepted    Ready   Active  @chanwit        
@@ -72,7 +72,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 0cmsnlvd2w0kjnxu8n7a2h06g    elated-roentgen                   Accepted    Ready   Active  @scaleway
 0cvwqwtxc7101cvna8x1uievs    thajeztah-swarm2k-6               Accepted    Ready   Active        
 0dbb5br2rixvdm5mawpzsw8rh    modest-pike                       Accepted    Ready   Active  @scaleway
-0ec1g8ffyb4l01rhg1lyhbh1x    swarm2k-12                        Accepted    Ready   Active        
+0ec1g8ffyb4l01rhg1lyhbh1x    swarm2k-12                        Accepted    Ready   Active  @fdoxyz        
 0eh817b3yxpffsn4rpokrv2v5    nipa-cloud-49                     Accepted    Ready   Active  NIPA Technology      
 0eia4k1xgcjn8gqpsrp7mwotr    jovial-minsky                     Accepted    Ready   Active  @scaleway
 0esn5wai528en5bl14s6uc04t    hypriot-sw051                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -81,7 +81,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 0fvasiznmcli17n1f4rqkmj18    desperate-bhabha                  Accepted    Ready   Active  @scaleway
 0fy00e33h4dypm2d3gw86a6tq    node37                            Accepted    Ready   Active  @chanwit       
 0g8ep5y0llmh90rog6m3sm7mu    mad-poitras                       Accepted    Ready   Active  @scaleway
-0g96efx7myzob7ks0pb5f7x8t    swarm2k-68                        Accepted    Ready   Active        
+0g96efx7myzob7ks0pb5f7x8t    swarm2k-68                        Accepted    Ready   Active  @fdoxyz        
 0ga8wqyoupol1hr9cig3uzawe    condescending-bell                Accepted    Ready   Active  @scaleway
 0gj3oenni4f3s5z0yyi5g2lan    loving-galileo                    Accepted    Down    Active  @scaleway
 0gjacpynjmpft87ade6exzr6h    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
@@ -110,7 +110,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 0ksezsgwjzb0h3wvlm8vo404c    swarm2k0                          Accepted    Ready   Active        
 0ktbtb1xhiccskovmf07d2htb    distracted-payne                  Accepted    Ready   Active  @scaleway
 0kuozc9i2xo60hwz6fmukwmd1    inet-node-116                     Accepted    Ready   Active        
-0l2fduyda4iehqhsaa69dse0j    swarm2k-13                        Accepted    Ready   Active        
+0l2fduyda4iehqhsaa69dse0j    swarm2k-13                        Accepted    Ready   Active  @fdoxyz        
 0l96nm775ev7bcytym3sxvckj    hopeful-wozniak                   Accepted    Ready   Active  @scaleway
 0lg46s5d82ni512m14smp5jaa    dreamy-swartz                     Accepted    Ready   Active  @scaleway
 0lp5n3c1f2scxezaq39vzdqpy    tiny-stonebraker                  Accepted    Ready   Active  @scaleway
@@ -151,7 +151,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 0w7hwwjnawtrrl6ip1oxc0gjk    silly-gates                       Accepted    Ready   Active  @scaleway
 0wjkn04uxyihzl04ue3jg1hjb    hypriot-sw022                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 0wt7tjnayjz5a9xdifkgxui4k    naughty-fermi                     Accepted    Ready   Active  @scaleway
-0wzx7g69vb0750can6ngzwz68    swarm2k-82                        Accepted    Ready   Active        
+0wzx7g69vb0750can6ngzwz68    swarm2k-82                        Accepted    Ready   Active  @fdoxyz        
 0x0zxtazxu5p70sgmwcpnbrjc    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 0x4zfopqnnqctk9r3zkdiwech    hypriot-sw065                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 0x7xudrafj7e2xokyx24146hl    amazing-fermi                     Accepted    Ready   Active  @scaleway
@@ -168,7 +168,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 0z6uu4g16zjkwh3g7wd6j12wz    inet-node-200                     Accepted    Ready   Active        
 0zn32wyzl6kb91q4ttjebtuyc    gigantic-pasteur                  Accepted    Ready   Active  @scaleway
 104qd0oky0iagf4m0o87m0yli    small-einstein                    Accepted    Ready   Active  @scaleway
-10csggrfzpimmtr2y1e4st1so    swarm2k-39                        Accepted    Ready   Active        
+10csggrfzpimmtr2y1e4st1so    swarm2k-39                        Accepted    Ready   Active  @fdoxyz        
 10iixdkppi8dll1462147e3uo    dockerswarm2k-24                  Accepted    Ready   Active        
 10la8mdtznxlj2cp3ybf94ca4    hypriot-sw061                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 10oiadfmrue34bgsgz1yyjo3w    pensive-knuth                     Accepted    Ready   Active  @scaleway
@@ -225,7 +225,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 1c13d2bl21u3gthd66p8ntwe9    hypriot-sw232                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 1cruj5jp367tqn218v3p47g4x    amazing-wilson                    Accepted    Ready   Active  @scaleway
 1d19oi2ets1w8lcm9zkaqbnpp    stoic-euclid                      Accepted    Ready   Active  @scaleway
-1d2t33ozr4oiz189d2pjc8j55    swarm2k-86                        Accepted    Ready   Active        
+1d2t33ozr4oiz189d2pjc8j55    swarm2k-86                        Accepted    Ready   Active  @fdoxyz        
 1d3hsb0lpkcz1nvmq4tlkllqf    thirsty-shockley                  Accepted    Down    Active  @scaleway
 1d4mtne58oiz1n1z24mv1kcbd    reverent-brahmagupta              Accepted    Ready   Active  @scaleway
 1d5zde9ad0l0re06fzl1054zt    silly-liskov                      Accepted    Ready   Active  @scaleway
@@ -237,9 +237,9 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 1efimb60zavchdlglukpvo66s    lonely-lalande                    Accepted    Ready   Active  @scaleway
 1ejy7d6dsfi8jzl1u5lux1cu3    node6                             Accepted    Ready   Active  @chanwit      
 1ep466p0ez9bk3btz7rbqsp2g    gigantic-wright                   Accepted    Ready   Active  @scaleway
-1fbm4qz8i12fmbo3je4ke4qee    swarm2k-14                        Accepted    Ready   Active        
+1fbm4qz8i12fmbo3je4ke4qee    swarm2k-14                        Accepted    Ready   Active  @fdoxyz        
 1fflurxgoyxxnrsdma7hs6c77    loving-kirch                      Accepted    Ready   Active  @scaleway
-1frn4mlndyv9kc63crhkp70v7    swarm2k-50                        Accepted    Ready   Active        
+1frn4mlndyv9kc63crhkp70v7    swarm2k-50                        Accepted    Ready   Active  @fdoxyz        
 1g2zr5p0fxj4jzcol3oe6d0ym    pedantic-ptolemy                  Accepted    Ready   Active  @scaleway
 1g7ex6om0gzrmnjr4oukky99b    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 1gcdu00czybqcj2e06quconni    silly-williams                    Accepted    Ready   Active  @scaleway
@@ -251,12 +251,12 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 1jdt9vxixeadjb6cyd41nfg2q    inet-node-058                     Accepted    Ready   Active        
 1jiw2gcq1nmt1h1u7g49mf6cg    hypriot-sw218                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 1jswipdby0mvhj7n5xuh5lual    pedantic-easley                   Accepted    Ready   Active  @scaleway
-1k2kakeiobb6b3jxi2ad699w6    swarm2k-92                        Accepted    Ready   Active        
+1k2kakeiobb6b3jxi2ad699w6    swarm2k-92                        Accepted    Ready   Active  @fdoxyz        
 1l09rclybk3qony0qimniv4zr    swarm-36                          Accepted    Ready   Active  @everett_toews, @Rackspace
 1l0o073j9ki1ig4xxmbgeiond    base                              Accepted    Ready   Active  @chanwit      
 1l71x9kwk220mhkv3wsxgo625    lonely-borg                       Accepted    Ready   Active  @scaleway
 1l7htmv8rqkzura49i4kx1s9d    hypriot-sw141                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-1lbcqcqlm93nsi23a4vlldoxc    swarm2k-88                        Accepted    Ready   Active        
+1lbcqcqlm93nsi23a4vlldoxc    swarm2k-88                        Accepted    Ready   Active  @fdoxyz        
 1lqa0ri8s89778eh9k7hxstsk    focused-bhaskara                  Accepted    Ready   Active  @scaleway
 1lqg48oio93bddkazkkam3vv8    trusting-hawking                  Accepted    Ready   Active  @scaleway
 1m2nfvrrq0so023hj4dyluswd    backstabbing-heyrovsky            Accepted    Ready   Active  @scaleway
@@ -278,7 +278,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 1onrnocczc53f3jzbkqec20tp    admiring-roentgen                 Accepted    Ready   Active  @scaleway
 1ov9qlz6epkeibiace72wq1la    hungry-pasteur                    Accepted    Ready   Active  @scaleway
 1owd67xr58xmqf2ea9pv7wx4y    modest-spence                     Accepted    Ready   Active  @scaleway
-1oxpdp1pgr7vhx3zy55ktqr6n    swarm2k-58                        Accepted    Ready   Active        
+1oxpdp1pgr7vhx3zy55ktqr6n    swarm2k-58                        Accepted    Ready   Active  @fdoxyz        
 1ozjwrwsf87f6wihjej2zynv7    naughty-kowalevski                Accepted    Ready   Active  @scaleway
 1pghhuubjrn56ck6821p87bux    swarm-30                          Accepted    Ready   Active  @everett_toews, @Rackspace
 1pv440ld6q5ydbjxd8l8jp87z    reverent-swirles                  Accepted    Ready   Active  @scaleway
@@ -313,13 +313,13 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 1vxnnekrn4f5mu9mbvatid5h5    distracted-meitner                Accepted    Ready   Active  @scaleway
 1vy63mcjcpmssmgvpeh8gwds0    jovial-lichterman                 Accepted    Ready   Active  @scaleway
 1vzuwqdztt6256ytovbh4nz5e    clever-rosalind                   Accepted    Ready   Active  @scaleway
-1w595qo9vfywf9zx50bhs37vi    swarm2k-85                        Accepted    Down    Active        
+1w595qo9vfywf9zx50bhs37vi    swarm2k-85                        Accepted    Down    Active  @fdoxyz        
 1wdigxnt9xc3af65y1536uq3a    lonely-hugle                      Accepted    Ready   Active  @scaleway
-1wwghrr050cnjm04liosdpfm3    swarm2k-32                        Accepted    Ready   Active        
+1wwghrr050cnjm04liosdpfm3    swarm2k-32                        Accepted    Ready   Active  @fdoxyz        
 1xm0c3mkr53gmhgmhz4kstvzp    nipa-cloud-53                     Accepted    Ready   Active  NIPA Technology      
 1xv3z8rzspxyjxvuwjir20s3o    pensive-albattani                 Accepted    Ready   Active  @scaleway
 1y0mdlgnq8kt9utbsn8bt1km1    admiring-bhabha                   Accepted    Ready   Active  @scaleway
-1y62fzdoqsderc48nr3014thv    swarm2k-20                        Accepted    Ready   Active        
+1y62fzdoqsderc48nr3014thv    swarm2k-20                        Accepted    Ready   Active  @fdoxyz        
 1yfuvtygoddxdavapb28clihk    agitated-wright                   Accepted    Ready   Active  @scaleway
 1yhc4lt9epklec8nm4g4fnxoz    pensive-mcnulty                   Accepted    Ready   Active  @scaleway
 1zadlkxh92m65m07hlwj9sera    nipa-cloud-59                     Accepted    Ready   Active  NIPA Technology      
@@ -331,7 +331,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 20hbv2b140mn5jjg3f4znbr3t    determined-shockley               Accepted    Ready   Active  @scaleway
 20vbl3pr5szh49j7vfbyd6ueb    gigantic-lamarr                   Accepted    Ready   Active  @scaleway
 20wvsnscnz5yvi3r77urf4f9b    inet-node-139                     Accepted    Ready   Active        
-20yk6310qamwwutrjkv9p4zkm    swarm2k-63                        Accepted    Ready   Active        
+20yk6310qamwwutrjkv9p4zkm    swarm2k-63                        Accepted    Ready   Active  @fdoxyz        
 21080c4mgnhjh1nzinw28w5yy    hypriot-sw187                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 211mkh7o1bn1bw3cgefb45c2e    inet-node-016                     Accepted    Ready   Active        
 21c8y4w3c5xidhuwo3hvlqkmc    dockerswarm2k-16                  Accepted    Ready   Active        
@@ -345,13 +345,13 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 23az7d905vzx8l5ojy004epdp    elated-fermi                      Accepted    Ready   Active  @scaleway
 23ijz8isj8xwxh2hl2noo01oy    prickly-poitras                   Accepted    Ready   Active  @scaleway
 23p6pvajdf2ql7t3xaivic9tt    dockerswarm2k-09                  Accepted    Down    Active        
-248bh53aamcmptiu0wp7uudkc    swarm2k-37                        Accepted    Ready   Active        
+248bh53aamcmptiu0wp7uudkc    swarm2k-37                        Accepted    Ready   Active  @fdoxyz        
 24q10u5p9y0lr9n1zqr80vuzm    inet-node-149                     Accepted    Ready   Active        
 24xpfkypo35juhe71he0dr9iu    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 255egfsd2r2373z1i4btsy0zs    jolly-feynman                     Accepted    Ready   Active  @scaleway
 258ud6in2c3tveqzb1lv6y4sw    dockerswarm2k-01                  Accepted    Ready   Active        
 25oq4u1spzrnwtyuudphglkdz    nauseous-lovelace                 Accepted    Ready   Active  @scaleway
-26ihhhmdco8swrouwujgzi508    swarm2k-42                        Accepted    Ready   Active        
+26ihhhmdco8swrouwujgzi508    swarm2k-42                        Accepted    Ready   Active  @fdoxyz        
 26jc3v3zr41vs5sgmji6jpiay    stupefied-archimedes              Accepted    Ready   Active  @scaleway
 26k7prmqxds2j8gp39lq71876    insane-goldstine                  Accepted    Ready   Active  @scaleway
 26popmdf47f2f184pwsx0kkkl    swarm-18                          Accepted    Ready   Active  @everett_toews, @Rackspace
@@ -381,7 +381,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 2cd9lnzv6amu1gzjgyqzbsf9f    hypriot-sw225                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 2chmp7xb24im05e4spbsgxxsb    drunk-bell                        Accepted    Ready   Active  @scaleway
 2ddj9suj9r2mse8ewb801f04o    nipa-cloud-19                     Accepted    Ready   Active  NIPA Technology      
-2dp7zrbhqajw7c1tob3y1ntzm    swarm2k-67                        Accepted    Ready   Active        
+2dp7zrbhqajw7c1tob3y1ntzm    swarm2k-67                        Accepted    Ready   Active  @fdoxyz        
 2e02r656yi92q5c71u8geei32    swarm2k-akalipetis-sourcelair-15  Accepted    Ready   Active  @akalipetis
 2ectlqt4cirfyp3o1gzpqu6je    goofy-goldberg                    Accepted    Ready   Active  @scaleway
 2efht2l7xr2xg43912kf9kf1f    gloomy-shaw                       Accepted    Ready   Active  @scaleway
@@ -406,7 +406,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 2k5bnzxtds1fb8ruv1atdloun    dockerswarm2k-15                  Accepted    Ready   Active        
 2klt52zeld19alxtr6vutb2lr    hypriot-sw001                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 2lhow2y77to5ubdnp72remtl4    insane-shirley                    Accepted    Down    Active  @scaleway
-2lk27ttjyvt1jocc6ndsfo1zv    swarm2k-60                        Accepted    Ready   Active        
+2lk27ttjyvt1jocc6ndsfo1zv    swarm2k-60                        Accepted    Ready   Active  @fdoxyz        
 2lk2xsd114xh0daslc9t5i5cc    neverlock-6                       Accepted    Ready   Active  @neverlock
 2luh6tvqjexypnc7czbxe8pxv    nipa-cloud-36                     Accepted    Ready   Active  NIPA Technology      
 2m7i51dyb82erwy5rdxtota8h    ecstatic-mcclintock               Accepted    Ready   Active  @scaleway
@@ -420,7 +420,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 2nj9op1onbxwu4gtlqbqlgjq4    nipa-cloud-7                      Accepted    Ready   Active  NIPA Technology      
 2nsvu19jpdmdo3sogq4nfb3sb    gloomy-swirles                    Accepted    Ready   Active  @scaleway
 2nv15ow6v566syyuqpf34qwg0    cocky-brattain                    Accepted    Ready   Active  @scaleway
-2o1noazfdhequt8ovsmtzlx05    swarm2k-95                        Accepted    Ready   Active        
+2o1noazfdhequt8ovsmtzlx05    swarm2k-95                        Accepted    Ready   Active  @fdoxyz        
 2o6kh96y9kxavx9knrky8ae5u    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 2off7qxhrb66q8k6agiu4ynw7    fervent-feynman                   Accepted    Ready   Active  @scaleway
 2ohjzhf468cw3wm5tf067pva4    hypriot-sw143                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -431,9 +431,9 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 2p4ayqctndajz0xzqf2bllvl7    hypriot-sw163                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 2pg0b3i8hvhh01hr79n6oqa6c    swarm2k02                         Accepted    Ready   Active  @toughIQ
 2pilfcofjfu57iv2bb7yq9p3l    swarm-05                          Accepted    Ready   Active  @everett_toews, @Rackspace
-2pl0vt35f66ptrij8qub8wcnr    swarm2k-45                        Accepted    Ready   Active        
+2pl0vt35f66ptrij8qub8wcnr    swarm2k-45                        Accepted    Ready   Active  @fdoxyz        
 2pljghrmy05e8jclf2fk3kk7k    silly-poincare                    Accepted    Ready   Active  @scaleway
-2pn42ksjlstcece1mrksl45wl    swarm2k-9                         Accepted    Ready   Active        
+2pn42ksjlstcece1mrksl45wl    swarm2k-9                         Accepted    Ready   Active  @fdoxyz        
 2pq7xxt4mwvcdvggaxd4ppc1w    swarm-02                          Accepted    Ready   Active  @everett_toews, @Rackspace
 2pwscz48bgjqo5328px2h3kyg    serene-wright                     Accepted    Ready   Active  @scaleway
 2pz0cm8w697zmuipchske0nby    furious-bose                      Accepted    Ready   Active  @scaleway
@@ -463,7 +463,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 2v4wozaaaexjfasm9cuckz2a0    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 2vay5gklkyp99ak11jr2wh671    swarm-05                          Accepted    Ready   Active  @everett_toews, @Rackspace
 2vyrnjgzyocc37l3fvs4ro11n    silly-hoover                      Accepted    Ready   Active  @scaleway
-2w9f8jdndtixi1g7u9q948kvo    swarm2k-87                        Accepted    Ready   Active        
+2w9f8jdndtixi1g7u9q948kvo    swarm2k-87                        Accepted    Ready   Active  @fdoxyz        
 2wi2mllodpn7s651j9eagyvnk    serene-goldstine                  Accepted    Ready   Active  @scaleway
 2wl57e0bjmlgl0r4trjan6j16    condescending-euclid              Accepted    Ready   Active  @scaleway
 2x8buxcxsdupsodzkht8fr7fu    hypriot-sw206                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -475,7 +475,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 2yg6se7tpo6xitqmciodctny8    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 2yi40vfeand9ovo75xxfr48fy    goofy-goldstine                   Accepted    Ready   Active  @scaleway
 2yj99yjs8aeweqrdhkai0wcpf    insane-bell                       Accepted    Ready   Active  @scaleway
-2yl5ltqpykyh8ddiw0ipydljm    swarm2k-43                        Accepted    Ready   Active        
+2yl5ltqpykyh8ddiw0ipydljm    swarm2k-43                        Accepted    Ready   Active  @fdoxyz        
 2ypejb476ocfpjdm8jcuduer0    hopeful-shirley                   Accepted    Ready   Active  @scaleway
 2zjhq4plig1zldwnnnasgi6yi    boring-tesla                      Accepted    Ready   Active  @scaleway
 2zlkud7ijnucleifdynedjsas    backstabbing-jennings             Accepted    Ready   Active  @scaleway
@@ -485,7 +485,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 30ffoqaicykovcggip73uj12q    inet-node-159                     Accepted    Ready   Active        
 31aocepuy8gvykuqwowg0u6an    inet-node-161                     Accepted    Ready   Active        
 31bdgn3owprs22r3pd779awih    suspicious-shaw                   Accepted    Ready   Active  @scaleway
-31edljwpm0tj9zhzi17vdvcio    swarm2k-28                        Accepted    Ready   Active        
+31edljwpm0tj9zhzi17vdvcio    swarm2k-28                        Accepted    Ready   Active  @fdoxyz        
 31fdwwmkwzj3w4x0c5ft9yf88    inet-node-005                     Accepted    Ready   Active        
 31fvoy42u8ysbu9glr4zcle0s    romantic-ptolemy                  Accepted    Ready   Active  @scaleway
 31npscfu2zhqk3c7dmv54fyrs    clever-aryabhata                  Accepted    Ready   Active  @scaleway
@@ -523,7 +523,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 39vkqkntrjv2ayaqgyiggt9xw    jovial-perlman                    Accepted    Ready   Active  @scaleway
 3a34skex7q512r8jcgfe0isgs    happy-babbage                     Accepted    Ready   Active  @scaleway
 3a6un3l59nrbzcx3n3nf7n8ye    nitrogen.labs.aternos.org         Accepted    Ready   Active   @Aternos     
-3abm22cthzqrpt9yozyzy9t3p    swarm2k-72                        Accepted    Ready   Active        
+3abm22cthzqrpt9yozyzy9t3p    swarm2k-72                        Accepted    Ready   Active  @fdoxyz        
 3atfi4ulhnihxilwjgfqyrgjt    adoring-albattani                 Accepted    Ready   Active  @scaleway
 3avo1ycexexrbhbp8rleufayv    focused-brattain                  Accepted    Ready   Active  @scaleway
 3b2tpt5fil0oljgamydvhro93    node86                            Accepted    Ready   Active  @chanwit      
@@ -629,7 +629,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 3wvnlemmro9mokyc8piq3arh0    stupefied-shaw                    Accepted    Ready   Active  @scaleway
 3xlem26efrhpp6nivi59i4hl0    pedantic-khorana                  Accepted    Ready   Active  @scaleway
 3xo9gccmnrdswglg82eqp5v43    sharp-kilby                       Accepted    Ready   Active  @scaleway
-3xwk7b1ljp1092xsqjwq8jua1    swarm2k-38                        Accepted    Ready   Active        
+3xwk7b1ljp1092xsqjwq8jua1    swarm2k-38                        Accepted    Ready   Active  @fdoxyz        
 3xxa50hv4wxeoe7bufc1cp5wn    nipa-cloud-6                      Accepted    Ready   Active  NIPA Technology      
 3xxxthza42ti9ufo2a6oh033a    compassionate-bose                Accepted    Ready   Active  @scaleway
 3xyn33vl0hiyaxyzzvdw7ne2h    dockerswarm2k-27                  Accepted    Down    Active        
@@ -673,7 +673,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 4826rud273mdczmvuiz84nibb    tswarm-3                          Accepted    Ready   Active        
 48g9gviinydx0buco2hnzyjri    nipa-cloud-86                     Accepted    Ready   Active  NIPA Technology      
 48pu2cjfnnfjuzx1k29hma95l    kickass-meninsky                  Accepted    Ready   Active  @scaleway
-48qzfifg4zn6f5b7ej8b9drdf    swarm2k-56                        Accepted    Ready   Active        
+48qzfifg4zn6f5b7ej8b9drdf    swarm2k-56                        Accepted    Ready   Active  @fdoxyz        
 4918h3ihxp7q9ymm5hjik9ixw    amazing-bassi                     Accepted    Ready   Active  @scaleway
 496ux92ucffqor0fygdqvjbcp    nipa-cloud-10                     Accepted    Ready   Active  NIPA Technology      
 49kwov4aruxju3xo0zb4bap7g    hypriot-sw124                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -726,14 +726,14 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 4hxdf3m03tkhxyb3107pfj5a4    node61                            Accepted    Ready   Active        
 4i5tmqb542fg80yr26d7k1nw8    hypriot-sw130                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 4i6a1a9rfidm5pauzikjf4awt    worker-n3                         Accepted    Ready   Active        
-4ijnlhz29f50uwzs1ggqp64pl    swarm2k-47                        Accepted    Ready   Active        
+4ijnlhz29f50uwzs1ggqp64pl    swarm2k-47                        Accepted    Ready   Active  @fdoxyz        
 4ijtg4qixflyi1wclvz0z1iya    inet-node-063                     Accepted    Ready   Active        
 4iryibrs5do1j9pgahlrcga0a    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 4ita0xd8mgfnuc68cn8ccjxhv    inet-node-073                     Accepted    Ready   Active        
 4iwljjoy8w0g14d3446z05rln    base                              Accepted    Ready   Active        
 4ixm1q3tc0k06iwxn7ce13llc    nauseous-heisenberg               Accepted    Ready   Active  @scaleway
-4j4q29fscy63qyh3vyz62d1fd    swarm2k-94                        Accepted    Ready   Active        
-4j9s6ll9wf1dive689uph3nqi    swarm2k-33                        Accepted    Ready   Active        
+4j4q29fscy63qyh3vyz62d1fd    swarm2k-94                        Accepted    Ready   Active  @fdoxyz        
+4j9s6ll9wf1dive689uph3nqi    swarm2k-33                        Accepted    Ready   Active  @fdoxyz        
 4jfxotblec5k3ttb47kqz7eg1    inet-node-129                     Accepted    Ready   Active        
 4jg22e32l6kvjzlt15kgowbeo    mad-kalam                         Accepted    Ready   Active  @scaleway
 4jt2exstbzerykuyxp3nz4hf2    condescending-mcclintock          Accepted    Ready   Active  @scaleway
@@ -742,7 +742,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 4kwimfd34ixjrhi1lhhq6o2zx    nipa-cloud-64                     Accepted    Ready   Active  NIPA Technology      
 4kz9t4bcbxn9c0frhshnrt42q    dockerswarm2k-06                  Accepted    Ready   Active        
 4lbpu5n71led3810sldccwkta    reverent-blackwell                Accepted    Ready   Active  @scaleway
-4ldzcbj4540jftlhpkofevu1z    swarm2k-93                        Accepted    Ready   Active        
+4ldzcbj4540jftlhpkofevu1z    swarm2k-93                        Accepted    Ready   Active  @fdoxyz        
 4li7ur3ih9p8nuw3wa0benbto    sleepy-mcclintock                 Accepted    Ready   Active  @scaleway
 4lj9mh1epucf8fgdtmm6cyb0t    node99                            Accepted    Ready   Active        
 4mcjf5r1t75bov3pv008n7d7x    agitated-leavitt                  Accepted    Ready   Active  @scaleway
@@ -761,7 +761,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 4on0fi7kehp489410p207bvgn    lonely-goldstine                  Accepted    Ready   Active  @scaleway
 4oqgxf5rxmf9irfzksfeeqbvi    sleepy-wright                     Accepted    Ready   Active  @scaleway
 4oxg34hwesi9yexodt9wcdwa7    swarm-23                          Accepted    Ready   Active  @everett_toews, @Rackspace
-4pcafpe409i9qy3fnfa1sxs0c    swarm2k-78                        Accepted    Ready   Active        
+4pcafpe409i9qy3fnfa1sxs0c    swarm2k-78                        Accepted    Ready   Active  @fdoxyz        
 4pe2c39kk6nkn79o1wrq6dvxw    angry-aryabhata                   Accepted    Ready   Active  @scaleway
 4pgkvntvtn6m1sgteit1vfkpl    high-carson                       Accepted    Ready   Active  @scaleway
 4pkonzu28mjbdkeusemylrjyh    cranky-curie                      Accepted    Ready   Active  @scaleway
@@ -794,7 +794,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 4v8lbq0cs5sbmincfp2i6vt93    oxygen.labs.aternos.org           Accepted    Ready   Active  @Aternos      
 4vndxxvbri8tjmunygkh08tgn    2knode5                           Accepted    Ready   Active  @laurentgrangeau      
 4w0hpv52s5c8bxjaytmzg9t3a    adoring-mcclintock                Accepted    Ready   Active  @scaleway
-4w5tmeqtyotdys5htcmru4ptu    swarm2k-34                        Accepted    Ready   Active        
+4w5tmeqtyotdys5htcmru4ptu    swarm2k-34                        Accepted    Ready   Active  @fdoxyz        
 4w68aus6rgdlb78br4adcp2gs    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 4wje7guk2fze88assl6cx36n9    insane-northcutt                  Accepted    Ready   Active  @scaleway
 4x1r18m69w1tzsahy4v1578jm    hypriot-sw242                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -850,7 +850,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 57941moxp1uio1c9kart7rz4f    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 57al5n3aerl2mkmn0b0gduv6b    swarm2k-akalipetis-sourcelair-18  Accepted    Ready   Active        @akalipetis
 57tz0xwxlfbb0tveflgjs1ivw    adoring-murdock                   Accepted    Ready   Active  @scaleway
-57vvtuldwcrg949hqgf9n703j    swarm2k-1                         Accepted    Ready   Active        
+57vvtuldwcrg949hqgf9n703j    swarm2k-1                         Accepted    Ready   Active  @fdoxyz        
 580h38ik1dps8vfoygke4xox0    hypriot-sw014                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 585jgh5ktkocqsvn62uammtth    swarm2k-akalipetis-sourcelair-07  Accepted    Ready   Active        @akalipetis
 585ly27rf7bsbv3vf59w6uu3s    swarm2k03                         Accepted    Ready   Active        @toughIQ
@@ -869,12 +869,12 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 59fxnbuojzz18v4kv0t3p8krx    loving-joliot                     Accepted    Ready   Active  @scaleway
 59hvbf0ongtgcjan10akvdlx2    swarm-34                          Accepted    Ready   Active  @everett_toews, @Rackspace
 59mf828qmrv8q4oybyh32pcov    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
-59rtjnlsrgr303ywrrqpn6kau    swarm2k-15                        Accepted    Ready   Active        
+59rtjnlsrgr303ywrrqpn6kau    swarm2k-15                        Accepted    Ready   Active  @fdoxyz        
 59s2tkfbrdsvtvf3ou6rde58n    swarm2k-images                    Accepted    Ready   Active        
 59vkgwpheu4bl1yh2qpxc9fqq    nipa-cloud-12                     Accepted    Ready   Active  NIPA Technology       
 59w4po13w28iw82nhrppfixip    hopeful-torvalds                  Accepted    Ready   Active  @scaleway
 59zqbgdsjjjl8ggord2a3r4zi    agitated-feynman                  Accepted    Ready   Active  @scaleway
-5a1aji5nx3khjqmfcq18vnonk    swarm2k-3                         Accepted    Ready   Active        
+5a1aji5nx3khjqmfcq18vnonk    swarm2k-3                         Accepted    Ready   Active  @fdoxyz        
 5a8orxfiver4ys1y4plxljp5i    boring-sinoussi                   Accepted    Ready   Active  @scaleway
 5abho096p91f4ia9pu4u58htg    inet-noed-181                     Accepted    Ready   Active        
 5ah3h8u2u11zsuvry4tfkns0h    hypriot-sw125                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -908,10 +908,10 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 5g2vvwhmhovjjdd99df7jbv3u    inet-node-144                     Accepted    Ready   Active        
 5gy3zke5hns406u0oqw3wbyh3    happy-snyder                      Accepted    Ready   Active  @scaleway
 5h8km1325ntuw46zt1m79s6f8    silly-tesla                       Accepted    Ready   Active  @scaleway
-5humh7ijy1t3ujozgf99rnl0x    swarm2k-41                        Accepted    Ready   Active        
-5i2bb4ya799sgoywmn957w4h6    swarm2k-66                        Accepted    Ready   Active        
+5humh7ijy1t3ujozgf99rnl0x    swarm2k-41                        Accepted    Ready   Active  @fdoxyz        
+5i2bb4ya799sgoywmn957w4h6    swarm2k-66                        Accepted    Ready   Active  @fdoxyz        
 5i3e8b79vbsi47wea9vee7mq7    jovial-ardinghelli                Accepted    Ready   Active  @scaleway
-5i8gl9193uhlhzbqeyhbs3cyr    swarm2k-55                        Accepted    Ready   Active        
+5i8gl9193uhlhzbqeyhbs3cyr    swarm2k-55                        Accepted    Ready   Active  @fdoxyz        
 5ihx5f1ztufdtt1sypmz05j0l    romantic-shaw                     Accepted    Ready   Active  @scaleway
 5ipa0s1p8oa84dy4wrn8efo7g    reverent-brahmagupta              Accepted    Ready   Active  @scaleway
 5isb3ovtcc1a6vtoritmhgj16    furious-bose                      Accepted    Ready   Active  @scaleway
@@ -927,7 +927,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 5l1bndrvoca7rlaj4nkzadp9n    thirsty-boyd                      Accepted    Ready   Active  @scaleway
 5l5ewwqncffsayvt3y81ibre7    hypriot-sw071                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 5lt98svrvlyzrp4zsuuxlp0nd    backstabbing-raman                Accepted    Ready   Active  @scaleway
-5lzvdcgr9yqfiw3n9qx56nfxj    swarm2k-54                        Accepted    Ready   Active        
+5lzvdcgr9yqfiw3n9qx56nfxj    swarm2k-54                        Accepted    Ready   Active  @fdoxyz        
 5mdck8fga7pfi0ajvbe85zc37    clever-gates                      Accepted    Ready   Active  @scaleway
 5mekejlxfqy6caps9ezvmkzhj    determined-mahavira               Accepted    Ready   Active  @scaleway
 5mk4hhsmp61rj6ej54vykdc7m    hypriot-sw080                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -936,14 +936,14 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 5n6lonyarh0utlsh7i7yfzilz    naughty-babbage                   Accepted    Ready   Active  @scaleway
 5nghsqx579nhibpczipo9lq71    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 5nkughvka8fdjaft3gfw7yp0z    tender-williams                   Accepted    Ready   Active  @scaleway
-5npo4flr76i53d9y7oxnsumao    swarm2k-99                        Accepted    Ready   Active        
+5npo4flr76i53d9y7oxnsumao    swarm2k-99                        Accepted    Ready   Active  @fdoxyz        
 5nqrto1w2ff9w4fetworxfdlp    inet-node-093                     Accepted    Ready   Active        
 5ocl5ops7kbcfyepfnsnsxt4b    hypriot-sw036                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 5oe0knjagc3zeekntrarjbqcf    clever-galileo                    Accepted    Ready   Active  @scaleway
 5oj1b6nnuh3ffkv84cutm1vam    hungry-euler                      Accepted    Ready   Active  @scaleway
 5olfw9cv37er09lzqyfz9yif1    serene-yalow                      Accepted    Ready   Active  @scaleway
 5opi1gevdnatx9pcn1i3i5cwd    hypriot-sw016                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-5p0vxzspkb63qc8ctx2vlrel3    swarm2k-7                         Accepted    Ready   Active        
+5p0vxzspkb63qc8ctx2vlrel3    swarm2k-7                         Accepted    Ready   Active  @fdoxyz        
 5p387j1hb2ytvmr97boite5gd    inet-node-044                     Accepted    Ready   Active        
 5p6o6krewkscn9ndn9tilyv9c    cocky-booth                       Accepted    Ready   Active  @scaleway
 5pd6cjaepb71j0xkydc29c3i4    awesome-mestorf                   Accepted    Ready   Active  @scaleway
@@ -961,7 +961,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 5qyz3b3w4cme7vauw0ydwcfdj    trusting-brown                    Accepted    Down    Active  @scaleway
 5rejkwotm18h54vzoyo444ws0    silly-meninsky                    Accepted    Ready   Active  @scaleway
 5rewiks5i8fl44oaehdns7u6d    amazing-nobel                     Accepted    Ready   Active  @scaleway
-5rgo6kq2v90sifgbvoutneh5u    swarm2k-70                        Accepted    Ready   Active        
+5rgo6kq2v90sifgbvoutneh5u    swarm2k-70                        Accepted    Ready   Active  @fdoxyz        
 5rnq8z9dg6v7yq6imspr7unzk    adoring-hawking                   Accepted    Ready   Active  @scaleway
 5rq0rxutkggm47qmmb6jvgxn6    naughty-thompson                  Accepted    Ready   Active  @scaleway
 5rwuas1g1o7zuiuvxxogd820z    goofy-banach                      Accepted    Down    Active  @scaleway
@@ -972,7 +972,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 5u5qpcqt4q1bix95vk3orl3s1    base                              Accepted    Ready   Active        
 5u6s2quslwuaaxvnibtfuu4dn    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 5ujf7i6menjvpbox8la45o9dc    hypriot-sw099                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-5vbttr430dyw699mlajk2k88d    swarm2k-74                        Accepted    Ready   Active        
+5vbttr430dyw699mlajk2k88d    swarm2k-74                        Accepted    Ready   Active  @fdoxyz        
 5vdkac3521ylxl4ndlld7tjru    hypriot-sw167                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 5vpb87rqu8s3rca8x9djksw19    inet-node-172                     Accepted    Ready   Active        
 5vq31oxftqi1w6r8p1wqjkwmq    sick-albattani                    Accepted    Down    Active  @scaleway
@@ -981,7 +981,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 5wgwjp0odc5xiv0daz5x4qt9d    dockerswarm2k-08                  Accepted    Down    Active        
 5wmfh5g4p6qlzn5gtreesjhkl    drunk-lumiere                     Accepted    Ready   Active  @scaleway
 5wuctebsiyixzpit7yrk364aq    sleepy-hugle                      Accepted    Down    Active  @scaleway
-5wxxrmwyxu5r3f252hqbgcx25    swarm2k-26                        Accepted    Ready   Active        
+5wxxrmwyxu5r3f252hqbgcx25    swarm2k-26                        Accepted    Ready   Active  @fdoxyz        
 5x75kq7s8jlgurpfkgkar3q7e    sharp-bell                        Accepted    Ready   Active  @scaleway
 5xk0lsbqi2xkmp6nb3vwb0yow    inet-node-021                     Accepted    Ready   Active        
 5xqtisevfdxzg3fzrlbjpxci3    dreamy-borg                       Accepted    Ready   Active  @scaleway
@@ -1028,7 +1028,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 68oxotzts6a61nqr31uwtwjm0    desperate-heisenberg              Accepted    Ready   Active  @scaleway
 68rfzfn8p90uebjp2ttbenpvd    inet-node-087                     Accepted    Ready   Active        
 68sxgx5rx2a82ic8e3q2e3k9q    small-tesla                       Accepted    Ready   Active  @scaleway
-69ewya8gyrrnikxkmwxswqd3m    swarm2k-35                        Accepted    Ready   Active        
+69ewya8gyrrnikxkmwxswqd3m    swarm2k-35                        Accepted    Ready   Active  @fdoxyz        
 69f2atneij1vzpweru8fe9ill    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 69mdteposf2qxfoubwa8lw5cx    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 69nbpnf5v2czg6ks4x4b3qu87    furious-sammet                    Accepted    Ready   Active  @scaleway
@@ -1047,7 +1047,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 6bl8bnvp66jzjf8kah7187l2c    base                              Accepted    Ready   Active        
 6c5plmpif3nnzzbb22ycb8cke    swarm-26                          Accepted    Ready   Active  @everett_toews, @Rackspace
 6cdb1liwgolozb64drj6phsvm    cranky-aryabhata                  Accepted    Ready   Active  @scaleway
-6cohh92h29k2zjx0twlbgxf49    swarm2k-98                        Accepted    Ready   Active        
+6cohh92h29k2zjx0twlbgxf49    swarm2k-98                        Accepted    Ready   Active  @fdoxyz        
 6colgmk2gi9s4qjmd394t56wt    distracted-easley                 Accepted    Ready   Active  @scaleway
 6cp9t4lnvt69usxcdgcz5ra3d    stupefied-bell                    Accepted    Ready   Active  @scaleway
 6dbye9dc1e43rl7igfsrrv7c7    jolly-spence                      Accepted    Ready   Active  @scaleway
@@ -1115,14 +1115,14 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 6rdg8tv6n5xfy7csf6jyr9omq    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 6rfbxn7rdl2e065a8s7dw4csw    determined-albattani              Accepted    Down    Active  @scaleway
 6ro5iknq120t1bifj1hwo3y6r    hypriot-sw178                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-6ro6b6xk1dd1u1x3ejigr06x9    swarm2k-11                        Accepted    Ready   Active        
+6ro6b6xk1dd1u1x3ejigr06x9    swarm2k-11                        Accepted    Ready   Active  @fdoxyz        
 6s6idyq5z2ppa7s5ym2ehmvtv    2knode3                           Accepted    Ready   Active  @laurentgrangeau      
 6svklxywwlv27bgajgjvd3k58    inet-node-126                     Accepted    Ready   Active        
 6t8dtr62ayz4lvvr3v4dlwybs    gloomy-archimedes                 Accepted    Ready   Active  @scaleway
 6tczw167czwjf2lflxjzwfzxk    backstabbing-perlman              Accepted    Ready   Active  @scaleway
 6ukw0rd83e5pvmwev16vkk5w5    romantic-goodall                  Accepted    Ready   Active  @scaleway
 6uwmt75r6m1re2bpz1f97dcsz    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
-6uy5zuo2pgo44r9mrqpi8ahuf    swarm2k-91                        Accepted    Ready   Active        
+6uy5zuo2pgo44r9mrqpi8ahuf    swarm2k-91                        Accepted    Ready   Active  @fdoxyz        
 6v37me9pi662n4o32nh2ylljz    hypriot-sw210                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 6vhxmditr14qj6cemmel2x7gm    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 6vns3bpqeukybglkf5cixsr4j    hypriot-sw134                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -1134,7 +1134,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 6wwth4p5yyfp0re6wfqvshzj2    awesome-noyce                     Accepted    Ready   Active  @scaleway
 6x0tdi24o6k1hhstuirhev4np    sharp-tesla                       Accepted    Ready   Active  @scaleway
 6x3pe6ku23zcin99axscs1pym    swarm-03                          Accepted    Ready   Active  @everett_toews, @Rackspace
-6x455sfegynvn9cyvzwn8o93o    swarm2k-89                        Accepted    Ready   Active        
+6x455sfegynvn9cyvzwn8o93o    swarm2k-89                        Accepted    Ready   Active  @fdoxyz        
 6xi0m1w7fkssr3381own6nh52    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 6y8kdnhzxgev3raabl153nmgj    trusting-goldstine                Accepted    Ready   Active  @scaleway
 6yehhsivr3710k3o2hvmkxsus    fervent-gates                     Accepted    Ready   Active  @scaleway
@@ -1175,10 +1175,10 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 750ymm0hj75bzcp3j2y5mg002    sleepy-yalow                      Accepted    Ready   Active  @scaleway
 7566lfa90jsqgd2whiaugp3cx    base                              Accepted    Ready   Active        
 75jdomaz4afxbhywr6ei7z9pe    swarm-50                          Accepted    Ready   Active  @everett_toews, @Rackspace
-75r8tay66l6hwlwfj2rezrf8g    swarm2k-24                        Accepted    Ready   Active        
+75r8tay66l6hwlwfj2rezrf8g    swarm2k-24                        Accepted    Ready   Active  @fdoxyz        
 76aavd03kuy3da9imn4h5bcol    gloomy-bassi                      Accepted    Ready   Active  @scaleway
 76hll4vcwf61x9eizo8t27b1u    prickly-curie                     Accepted    Ready   Active  @scaleway
-76qdy60sg33bpnwvhmufh5lrr    swarm2k-61                        Accepted    Ready   Active        
+76qdy60sg33bpnwvhmufh5lrr    swarm2k-61                        Accepted    Ready   Active  @fdoxyz        
 76sce5fy5fka09g0cmkzlpdy9    inet-node-156                     Accepted    Ready   Active        
 7786sf1u4rm73nmpawldl3eve    prickly-swartz                    Accepted    Ready   Active  @scaleway
 77n5tr0bhiyc15e7sf6swz8xb    hypriot-sw101                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -1192,7 +1192,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 79fwaqjngnbflqdyngxhfpefl    nipa-cloud-9                      Accepted    Ready   Active  NIPA Technology       
 79iur7htvcelsr7ecwm8w4pz5    inet-node-198                     Accepted    Ready   Active        
 79lpvbrycqxk94pph340322ky    swarm-08                          Accepted    Ready   Active  @everett_toews, @Rackspace
-79s49km1576r9g28vqfsgjch5    swarm2k-62                        Accepted    Ready   Active        
+79s49km1576r9g28vqfsgjch5    swarm2k-62                        Accepted    Ready   Active  @fdoxyz        
 79x7wioz8nvyujcz8nz2hp15l    cocky-yalow                       Accepted    Ready   Active  @scaleway
 7a6p3g419r3ohl422l4jlb4ay    condescending-newton              Accepted    Ready   Active  @scaleway
 7a7ghtojuwhh0yfdn9pypwkwg    hypriot-sw026                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -1230,12 +1230,12 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 7ja9pbxnq3bf28tc56naob73c    high-brown                        Accepted    Ready   Active  @scaleway
 7jjub2ljv6j3i9v89belcrtoi    worker1                           Accepted    Ready   Active        
 7jm9zju92h6v1si10xo96xe8l    suspicious-bhabha                 Accepted    Ready   Active  @scaleway
-7jt1omr1m3uh8lojn8skmujg6    swarm2k-23                        Accepted    Ready   Active        
+7jt1omr1m3uh8lojn8skmujg6    swarm2k-23                        Accepted    Ready   Active  @fdoxyz        
 7jtrnl7c8qft01ym84h72kl0g    inet-node-048                     Accepted    Ready   Active        
 7k2fvvq75on9a8xubf1vdraq3    trusting-chandrasekhar            Accepted    Ready   Active  @scaleway
 7k47jv9lla9nu7kpq489tve3p    angry-jennings                    Accepted    Ready   Active  @scaleway
 7kj847cfm0zlu5u83y2xkjsf0    gloomy-blackwell                  Accepted    Ready   Active  @scaleway
-7kta5rmyusunp2ffrqt240y68    swarm2k-57                        Accepted    Ready   Active        
+7kta5rmyusunp2ffrqt240y68    swarm2k-57                        Accepted    Ready   Active  @fdoxyz        
 7kuxymbjz5bg9fg8mx31ymlrx    hypriot-sw043                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 7la1f2n8hgsy8wjnlv2fcg7lc    inet-node-197                     Accepted    Ready   Active        
 7lpv0esspzm7zq23hf4ivk89o    hypriot-sw012                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -1260,9 +1260,9 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 7r8xq5u8kgl4jj9e55tl72kxf    inet-node-122                     Accepted    Ready   Active        
 7rnhuolcumclhrbwzkuczgnzr    happy-mayer                       Accepted    Ready   Active  @scaleway
 7s44h9lirqmvdbdemxu8pqsdz    gigantic-swartz                   Accepted    Ready   Active  @scaleway
-7shk1288fakmh5aeph1ht3lvk    swarm2k-36                        Accepted    Ready   Active        
+7shk1288fakmh5aeph1ht3lvk    swarm2k-36                        Accepted    Ready   Active  @fdoxyz        
 7skpcdc1d3lt84oukohubbii2    tiller-dockerswarm2000-3          Accepted    Ready   Active        
-7sxm1np9o6pt1bk84gle9mvka    swarm2k-10                        Accepted    Ready   Active        
+7sxm1np9o6pt1bk84gle9mvka    swarm2k-10                        Accepted    Ready   Active  @fdoxyz        
 7ucjghdakj6j9rk88gy9z38ge    nipa-cloud-7                      Accepted    Ready   Active  NIPA Technology       
 7up98q4mymizff09a6jljx70w    condescending-ride                Accepted    Ready   Active  @scaleway
 7v4xqg8fhu6mnsi92t6w6mrbe    inet-node-020                     Accepted    Ready   Active        
@@ -1279,7 +1279,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 7xd23h1szltxk0el6dsjjwgkf    naughty-bose                      Accepted    Ready   Active  @scaleway
 7xpsqp2fc1xl6ebqf4bm2mthb    fervent-visvesvaraya              Accepted    Ready   Active  @scaleway
 7xy7g8mif4h1w331plxjd9w4t    nauseous-meitner                  Accepted    Ready   Active  @scaleway
-7xzw6s2dlg4tmfvntfjdm713g    swarm2k-84                        Accepted    Ready   Active        
+7xzw6s2dlg4tmfvntfjdm713g    swarm2k-84                        Accepted    Ready   Active  @fdoxyz        
 7y8hu5khk72gaetl62jyj94ij    ecstatic-wing                     Accepted    Ready   Active  @scaleway
 7y9z2wk59lgsjqpo2jotann6q    inet-node-151                     Accepted    Ready   Active        
 7ye4uj1ggs8ty2b5f9pb92vnj    hypriot-sw025                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -1429,12 +1429,12 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 8ussitgj1w31vynacmaju6ojw    nipa-cloud-79                     Accepted    Ready   Active  NIPA Technology       
 8uu9ge0tatv5h60zxd6cp6urq    furious-yalow                     Accepted    Ready   Active  @scaleway
 8uvchcutyopbvjv4lah3g0a6g    clever-shaw                       Accepted    Down    Active  @scaleway
-8v0efsc92uz6m2zsncqp3nqfs    swarm2k-46                        Accepted    Ready   Active        
+8v0efsc92uz6m2zsncqp3nqfs    swarm2k-46                        Accepted    Ready   Active  @fdoxyz        
 8v8hqlm480byr1qxkow53zynu    angry-hamilton                    Accepted    Ready   Active  @scaleway
 8vhqj3footamzpgugdjdpy05x    dockerswarm2k-17                  Accepted    Ready   Active        
 8vnp5j70org7ipjj5xy29bjlh    dreamy-lovelace                   Accepted    Ready   Active  @scaleway
 8vubtcx6hs8ojjk469n0rev77    swarm-24                          Accepted    Ready   Active  @everett_toews, @Rackspace
-8wjzeo38bfai69my774f407iw    swarm2k-19                        Accepted    Ready   Active        
+8wjzeo38bfai69my774f407iw    swarm2k-19                        Accepted    Ready   Active  @fdoxyz        
 8wv9b3q94p2v5ll59jspbspa8    furious-torvalds                  Accepted    Ready   Active  @scaleway
 8x906u21smox383ht3j2zz2kk    nipa-cloud-52                     Accepted    Ready   Active  NIPA Technology       
 8xb80o136mpsv5qv75809e32b    boring-goldwasser                 Accepted    Ready   Active  @scaleway
@@ -1442,18 +1442,18 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 8xrljm4qvy601idjp8c8msjis    hypriot-sw108                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 8xubqg4ocfeb6xtvj4q8xoemr    reverent-borg                     Accepted    Ready   Active  @scaleway
 8xze3dcp9w4oxwccbbdmfkb19    silly-hoover                      Accepted    Ready   Active  @scaleway
-8y1dxqkxsfyptdim5etn5eoct    swarm2k-71                        Accepted    Ready   Active        
+8y1dxqkxsfyptdim5etn5eoct    swarm2k-71                        Accepted    Ready   Active  @fdoxyz        
 8y5ug9ckab5l61oj6nslw04cx    nipa-cloud-5                      Accepted    Ready   Active  NIPA Technology       
 8yl7edajmdwpre0quxm10uqf6    goofy-jepsen                      Accepted    Ready   Active  @scaleway
 8yziqqdm411fiq0x5cco64xk8    furious-cray                      Accepted    Ready   Active  @scaleway
 8z4nnml8csokmphcxz42dbde1    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
-8zbwhpv0tk2to09nglb35z85i    swarm2k-81                        Accepted    Ready   Active        
+8zbwhpv0tk2to09nglb35z85i    swarm2k-81                        Accepted    Ready   Active  @fdoxyz        
 8zesunncbahowpqijjqla9nmg    drunk-raman                       Accepted    Ready   Active  @scaleway
 8zn3ocs6b7et8of6bendku2ir    dockerswarm2k-00                  Accepted    Ready   Active        
 8ztzqqqq7dsdk7zv9j2napdfr    boring-williams                   Accepted    Ready   Active  @scaleway
 90hb3x0g5pmvvdsc1yaeentpq    inet-node-004                     Accepted    Ready   Active        
 90i2r8id9y9k7ak4qnstsfttc    focused-mclean                    Accepted    Ready   Active  @scaleway
-90j5yqfamrfpgs91obq9nyh9j    swarm2k-48                        Accepted    Ready   Active        
+90j5yqfamrfpgs91obq9nyh9j    swarm2k-48                        Accepted    Ready   Active  @fdoxyz        
 90o4f0iklam26wokgzl0c50an    lonely-lamarr                     Accepted    Ready   Active  @scaleway
 915ugpd19utmms9itqrnmrnyg    hopeful-aryabhata                 Accepted    Ready   Active  @scaleway
 91eqq0n2uzjs9q9zc5frr9v8q    nipa-cloud-11                     Accepted    Ready   Active  NIPA Technology       
@@ -1503,14 +1503,14 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 9chp5j41kfwnyz3ow9aewbovn    sleepy-knuth                      Accepted    Ready   Active  @scaleway
 9dbn5tnve4lgzhaokyk747hsy    inet-node-113                     Accepted    Ready   Active        
 9e2cor4y0f9m6fvhn92nigyrr    tswarm-5                          Accepted    Ready   Active        
-9eb68xw0fzoz5ijf0k3w7yqy0    swarm2k-40                        Accepted    Ready   Active        
+9eb68xw0fzoz5ijf0k3w7yqy0    swarm2k-40                        Accepted    Ready   Active  @fdoxyz        
 9ecocnrybj3f4cvmgdyb8yv14    hypriot-sw075                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 9em2iv0eeab8yxp5rg9twuueg    inet-node-068                     Accepted    Ready   Active        
 9et7ij4v5imfc73zxl70x9oqs    elated-heyrovsky                  Accepted    Ready   Active  @scaleway
 9ff7q61plgji6ip82n2jscgwj    boring-hugle                      Accepted    Ready   Active  @scaleway
 9fjq5zzliud1d4x254kngka2w    elated-leavitt                    Accepted    Ready   Active  @scaleway
 9fmdapjh0kdp7qtku4r0lzytm    inet-node-199                     Accepted    Ready   Active        
-9fmtwh1d0iqglqynpkbval7ko    swarm2k-90                        Accepted    Ready   Active        
+9fmtwh1d0iqglqynpkbval7ko    swarm2k-90                        Accepted    Ready   Active  @fdoxyz        
 9g1m0yuzxp2z9rl9a6y1g4vu5    evil-bardeen                      Accepted    Ready   Active  @scaleway
 9ga2tkaol610rz78huw781o85    serene-murdock                    Accepted    Ready   Active  @scaleway
 9gao1b05w92rv1fpidxgemv5m    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
@@ -1545,7 +1545,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 9nw266ab90wh0qrxzwm0cu06r    drunk-carson                      Accepted    Ready   Active  @scaleway
 9o60ou67z0zwoxl063f6ulb80    amazing-meninsky                  Accepted    Ready   Active  @scaleway
 9o7z69yb2xgv1etqs9x5aya44    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
-9ogxzw6eo3vguymcwjdbgtk6t    swarm2k-44                        Accepted    Ready   Active        
+9ogxzw6eo3vguymcwjdbgtk6t    swarm2k-44                        Accepted    Ready   Active  @fdoxyz        
 9ona34smpqda2xkxw8qhv9nkk    clever-pare                       Accepted    Ready   Active  @scaleway
 9oncf36wr7it9qnbzadt3q2op    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 9op4opipy5zrwn9pfzaco881n    ecstatic-euler                    Accepted    Ready   Active  @scaleway
@@ -1556,7 +1556,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 9pg8xqhgx246ih8wwdkf912tr    happy-leavitt                     Accepted    Ready   Active  @scaleway
 9pmab1y2049hrdm962kdo69z5    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 9pnouhc98ga4vsgxruvhf6guv    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
-9pumrsyji5b36491dwn09ctfl    swarm2k-64                        Accepted    Ready   Active        
+9pumrsyji5b36491dwn09ctfl    swarm2k-64                        Accepted    Ready   Active  @fdoxyz        
 9pxapl0f2kum1m1g51ss56xbd    inet-node-176                     Accepted    Ready   Active        
 9q0hzy29abumkdj0oafvkrzc3    admiring-wescoff                  Accepted    Ready   Active  @scaleway
 9qli3d5dn1ups4qwv5fv3sr3u    sharp-mcnulty                     Accepted    Ready   Active  @scaleway
@@ -1596,9 +1596,9 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 9yn79p2ous2z9gb8f8c062sn8    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 9yq07e4pqn7hqka3n20jldhxg    berserk-mirzakhani                Accepted    Ready   Active  @scaleway
 9z0d0em0p2y5ssbp321sjpjam    sick-liskov                       Accepted    Ready   Active  @scaleway
-9z6xnwubzs405qiht5lxoma1r    swarm2k-96                        Accepted    Ready   Active        
+9z6xnwubzs405qiht5lxoma1r    swarm2k-96                        Accepted    Ready   Active  @fdoxyz        
 9zecl7y9779w5lczn3snh5mg0    furious-bhabha                    Accepted    Ready   Active  @scaleway
-9zeu1ovcnboxi63882rs0ojyy    swarm2k-77                        Accepted    Ready   Active        
+9zeu1ovcnboxi63882rs0ojyy    swarm2k-77                        Accepted    Ready   Active  @fdoxyz        
 9zkzma6ii9tnupvjpmbsykb56    nipa-cloud-83                     Accepted    Ready   Active  NIPA Technology      
 9zr800iz8px0jqx3g6w52jfz9    dockerswarm2k-02                  Accepted    Down    Active        
 9zthitv84u51t498jvwd0mlyb    romantic-franklin                 Accepted    Ready   Active  @scaleway
@@ -1635,7 +1635,7 @@ a5luuh3z4h25ws4ercbckusf9    admiring-yalow                    Accepted    Ready
 a5tputc5zctw7kigvp54kah3z    swarm2k-images                    Accepted    Ready   Active        
 a5xq0734kqkxome1on519ren9    small-bassi                       Accepted    Ready   Active  @scaleway
 a5zgb1u29au2z8jqo3ijcj2sx    awesome-hamilton                  Accepted    Ready   Active  @scaleway
-a64bkvzglbd3y0di0j79mnnxa    swarm2k-69                        Accepted    Ready   Active        
+a64bkvzglbd3y0di0j79mnnxa    swarm2k-69                        Accepted    Ready   Active  @fdoxyz        
 a69rarwdsxbm2fmqbjiodch5r    hypriot-sw126                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 a6j1vhd32o7xid8maislx1xi9    big-engelbart                     Accepted    Ready   Active  @scaleway
 a6qxz0eyn46pkdzrtro9jawg2    inet-node-024                     Accepted    Ready   Active        
@@ -1655,7 +1655,7 @@ a9lqn3andwtzqcivyxmtk6w82    loving-visvesvaraya               Accepted    Ready
 aa2wmortno8kisux28v51vavo    hypriot-sw152                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 aapwcz0a7766cqsvyup1d27cz    desperate-hamilton                Accepted    Ready   Active  @scaleway
 ab5nyj134u42ppicc5ge6aa5c    inet-node-103                     Accepted    Ready   Active        
-ab6gfou8r5e3by40tst8pypnc    swarm2k-73                        Accepted    Ready   Active        
+ab6gfou8r5e3by40tst8pypnc    swarm2k-73                        Accepted    Ready   Active  @fdoxyz        
 abeyv01rao6f3pjd58lym32lz    serene-stonebraker                Accepted    Ready   Active  @scaleway
 abmceoifnzxrqwz8nzsbr7uzi    hypriot-sw083                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 abn26hc61nk43adjr2uouujv2    admiring-kalam                    Accepted    Down    Active  @scaleway
@@ -1664,7 +1664,7 @@ ac06nlehmao7x54trznsndm8w    serene-lumiere                    Accepted    Ready
 acc9pdrkuy482x5oq0pryekao    drunk-mccarthy                    Accepted    Ready   Active  @scaleway
 aceumfapg7rznjbuxdav43la1    hypriot-sw018                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 acfyznl94oxjao9ad5786ef7f    hypriot-sw088                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-acqgl46n1y9ncq5h3krh7keex    swarm2k-6                         Accepted    Ready   Active        
+acqgl46n1y9ncq5h3krh7keex    swarm2k-6                         Accepted    Ready   Active  @fdoxyz        
 aczhhzqumw34qlojkxhlcu2ko    node17                            Accepted    Ready   Active        
 adewuboxxl8ny5lz1drha8qi9    hypriot-sw247                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 adt7tmjkd1gwqbgvfsssjqtnq    thajeztah-swarm2k-9               Accepted    Ready   Active        
@@ -1673,7 +1673,7 @@ ae1it6x3u0ht7prdvb46ja6zn    suspicious-ardinghelli            Accepted    Ready
 aekbxr73ip9rlpijgpy9bmcph    tswarm-15                         Accepted    Ready   Active        
 af40l9o0opcib2yey9d9dizye    high-visvesvaraya                 Accepted    Ready   Active  @scaleway
 af7w0l8iwa1dec4n14plh4vo2    cocky-brown                       Accepted    Ready   Active  @scaleway
-afbfmvst86n4szdk1h7db1wuz    swarm2k-65                        Accepted    Ready   Active        
+afbfmvst86n4szdk1h7db1wuz    swarm2k-65                        Accepted    Ready   Active  @fdoxyz        
 affocz02kedtewusbi27capk0    silly-bartik                      Accepted    Ready   Active  @scaleway
 afler5fihl2esq9ezqb7t4njt    grave-saha                        Accepted    Ready   Active  @scaleway
 afrl1yh2twb8v4wghjijkvht7    sleepy-visvesvaraya               Accepted    Ready   Active  @scaleway
@@ -1682,7 +1682,7 @@ ag26awqy7biqrcgpst999fkwl    nostalgic-wozniak                 Accepted    Ready
 aggemlvq8xfr8o8i6zx7ka5aa    adoring-ardinghelli               Accepted    Ready   Active  @scaleway
 agt9wtied90zijq0pph2h4x0u    stoic-knuth                       Accepted    Ready   Active  @scaleway
 ah3k1ylirscv24k1qbk9yxkqy    prickly-lovelace                  Accepted    Ready   Active  @scaleway
-ahejkpaxqk5vzltxhvfxi38l3    swarm2k-21                        Accepted    Ready   Active        
+ahejkpaxqk5vzltxhvfxi38l3    swarm2k-21                        Accepted    Ready   Active  @fdoxyz        
 ahqwett7dkr506ktcfszljp0d    swarm2k-512mb-fra1-07             Accepted    Ready   Active  @AlexPostID      
 ahuh0hvbcrzl47acgibl0689t    hypriot-sw020                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 ahv6cweljsnxa36daxrnjbiq1    modest-kare                       Accepted    Ready   Active  @scaleway
@@ -1709,7 +1709,7 @@ amuxjdp86uos67j60fvzobttu    tiny-mayer                        Accepted    Ready
 amvpciy9ixp9oodagah69sryg    condescending-bhabha              Accepted    Ready   Active  @scaleway
 anbtzj56q6f9lvrddbf935ozk    admiring-davinci                  Accepted    Ready   Active  @scaleway
 and4z0969qw0nzb6bbkci8kai    sharp-stonebraker                 Accepted    Ready   Active  @scaleway
-ane38syyi3cwjargz5wofcaf5    swarm2k-100                       Accepted    Ready   Active        
+ane38syyi3cwjargz5wofcaf5    swarm2k-100                       Accepted    Ready   Active  @fdoxyz        
 anhkj7lct4xui6rjg0o5pfu1j    berserk-joliot                    Accepted    Ready   Active  @scaleway
 anzr8c5bfv544ck47ja8a406y    hypriot-sw176                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 ao7nzppxkocajubrecm7trh9w    dockerswarm2k-03                  Accepted    Ready   Active        
@@ -1719,9 +1719,9 @@ aomibgg9g7xvp5u0bnb60gqij    hypriot-sw048                     Accepted    Ready
 aos84z56grflig4je081saugm    adoring-snyder                    Accepted    Ready   Active  @scaleway
 aosclu8d5397j9452qtwuy6yt    silly-wilson                      Accepted    Ready   Active  @scaleway
 ap4nv3owmstwihwpp5tb3imn2    swarm-09                          Accepted    Ready   Active  @everett_toews, @Rackspace
-apb13rs1012h3znny10d85o1x    swarm2k-25                        Accepted    Ready   Active        
-apisdtr3x5a6b6jvud2vb3aco    swarm2k-22                        Accepted    Ready   Active        
-apxaor3omxy3l3fy4r2ad2fov    swarm2k-5                         Accepted    Ready   Active        
+apb13rs1012h3znny10d85o1x    swarm2k-25                        Accepted    Ready   Active  @fdoxyz        
+apisdtr3x5a6b6jvud2vb3aco    swarm2k-22                        Accepted    Ready   Active  @fdoxyz        
+apxaor3omxy3l3fy4r2ad2fov    swarm2k-5                         Accepted    Ready   Active  @fdoxyz        
 aq3ro3iru0pzfl8auxkm9hnzt    cocky-bartik                      Accepted    Ready   Active  @scaleway
 aqb0ysj0lyuevfog35mjl9ewq    swarm-43                          Accepted    Ready   Active  @everett_toews, @Rackspace
 aqf6f7zhdu54s98ghlotf4ytd    dreamy-aryabhata                  Accepted    Ready   Active  @scaleway
@@ -1751,7 +1751,7 @@ awy1ge18uaszsdcvrp08iva2u    backstabbing-shockley             Accepted    Ready
 ax4i2kv5x6l1s4503uprhup9f    base                              Accepted    Ready   Active        
 axiptwpcgotluf719t9jrykjs    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 axxept9ouu03dze66aanfizrj    dockerswarm2k-11                  Accepted    Ready   Active        
-ay043cxnsjmnewljkojm0ibwr    swarm2k-52                        Accepted    Ready   Active        
+ay043cxnsjmnewljkojm0ibwr    swarm2k-52                        Accepted    Ready   Active  @fdoxyz        
 aydwjkn9nt9ukir73iqiwyd5w    inet-node-195                     Accepted    Ready   Active        
 ayvtuscgppv5aqk8bdi98xrvb    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 ayvxv1qrd15sg7rh0lojr9gi1    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
@@ -1803,7 +1803,7 @@ bapor97oe0hpdiuz602nh9xr0    lonely-torvalds                   Accepted    Ready
 bbsyxowj108nekyctssqcztf1    dockerswarm2000B                  Accepted    Ready   Active        @enlamp
 bbwlv84iq90iq3hagom87sgwb    amazing-babbage                   Accepted    Ready   Active  @scaleway
 bc3aag69jbsmiksajnlzq41zo    inet-node-162                     Accepted    Ready   Active        
-bc7yaa0n2a81f13lbqk6itn50    swarm2k-29                        Accepted    Ready   Active        
+bc7yaa0n2a81f13lbqk6itn50    swarm2k-29                        Accepted    Ready   Active  @fdoxyz        
 bccd37nciuzaythj73qbz4a7u    nipa-cloud-16                     Accepted    Ready   Active  NIPA Technology       
 bceh6phme5wmo4ymkvgvqpjli    clever-mestorf                    Accepted    Ready   Active  @scaleway
 bck9w83b1wecgavafztssf2mb    boring-blackwell                  Accepted    Ready   Active  @scaleway
@@ -1896,25 +1896,25 @@ bwmyjkswxhdtvnfpj6fhu6cq9    berserk-leavitt                   Accepted    Ready
 bwrvs4udu750lkf7tc5r8zeee    high-spence                       Accepted    Down    Active  @scaleway
 bxa3q47ckel0z498i0coh8doe    trusting-curie                    Accepted    Ready   Active  @scaleway
 bxawlqpftnwh8chhq0k09qhlf    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
-bxeoeiijl6rg74aunuw801pev    swarm2k-4                         Accepted    Ready   Active        
+bxeoeiijl6rg74aunuw801pev    swarm2k-4                         Accepted    Ready   Active  @fdoxyz        
 bxjj9zopq0jnetwy2480gf22j    admiring-meitner                  Accepted    Ready   Active  @scaleway
 bxkd5t53wxu80nuvo0e3qhdql    node47                            Accepted    Ready   Active        
 bxx3tfpfzna9fw9u85syemmur    distracted-boyd                   Accepted    Ready   Active  @scaleway
 by1nsg9dxkdmpfucftexnukyn    hypriot-sw312                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 byabzsrsczqv1afzc84lldmc5    base                              Accepted    Ready   Active        
 bydnw6i3grtni2vfoixbfy1kr    backstabbing-franklin             Accepted    Ready   Active  @scaleway
-bytdsmdozkyudiqk77739jht8    swarm2k-27                        Accepted    Ready   Active        
+bytdsmdozkyudiqk77739jht8    swarm2k-27                        Accepted    Ready   Active  @fdoxyz        
 byybwpag70t1zgsuzkhn770j6    thajeztah-swarm2k-13              Accepted    Ready   Active        
 bz3gy91vit60djlutljz6ocuz    tender-noyce                      Accepted    Ready   Active  @scaleway
 bzlwkbkl42dh86lqqt2ujy5av    hypriot-sw068                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-bztszm6s4sohhievpxx5tr3me    swarm2k-2                         Accepted    Ready   Active        
+bztszm6s4sohhievpxx5tr3me    swarm2k-2                         Accepted    Ready   Active  @fdoxyz        
 bzwdfe1drgucqg0237ay1fv4v    swarm-27                          Accepted    Ready   Active  @everett_toews, @Rackspace
 c12b3rthy8v5w38jddh0020ky    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 c12b4iukh72opswojsui5zzt2    2knode4                           Accepted    Ready   Active  @laurentgrangeau      
 c15nvrvpsvblqwb81uyf0x4xp    elegant-cori                      Accepted    Ready   Active  @scaleway
 c18mxc9aw82rl7r2wdxmfw0lo    swarm-16                          Accepted    Ready   Active  @everett_toews, @Rackspace
 c1omxuh6t78w90p9g3sjowl9r    trusting-liskov                   Accepted    Ready   Active  @scaleway
-c1ujupwn6ixcmqr1aglpb7qq3    swarm2k-17                        Accepted    Ready   Active        
+c1ujupwn6ixcmqr1aglpb7qq3    swarm2k-17                        Accepted    Ready   Active  @fdoxyz        
 c21ksa6jchn6yl5memem2n1ra    sleepy-bhabha                     Accepted    Ready   Active  @scaleway
 c27jsadprysx4obcwt1e5n2wk    awesome-hypatia                   Accepted    Ready   Active  @scaleway
 c2f97uvpxmw6y6wsx5ocs3sdx    agitated-kilby                    Accepted    Ready   Active  @scaleway
@@ -1929,7 +1929,7 @@ c4ocow52ibhd5i5geedzabg5s    swarm-34                          Accepted    Ready
 c4ubqd0tcccgh913w6ufte09c    inet-node-128                     Accepted    Ready   Active        
 c56c06o9ox1fzr6olnstb0kw0    gigantic-rosalind                 Accepted    Ready   Active  @scaleway
 c57n7debbaw9k4y17aiipw4jf    hypriot-sw214                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-c5ba0nycpfagc4szfskzaht84    swarm2k-8                         Accepted    Ready   Active        
+c5ba0nycpfagc4szfskzaht84    swarm2k-8                         Accepted    Ready   Active  @fdoxyz        
 c5m5plcuk72wp2qk7gddx8a3q    thirsty-archimedes                Accepted    Ready   Active  @scaleway
 c5tn1a8w176mlquwprh7dqlqt    modest-rosalind                   Accepted    Ready   Active  @scaleway
 c605214ikvmst37jmlaoehqoc    mad-morse                         Accepted    Ready   Active  @scaleway
@@ -1962,7 +1962,7 @@ cbsglkmmqmrhbe6jpgfbdu9ox    nostalgic-boyd                    Accepted    Ready
 cbwpbkov0j4ucsixb7n3ysbtf    inet-node-111                     Accepted    Ready   Active        
 cbz6ub1bxtr6q1ub79fu4v555    swarm2k04                         Accepted    Ready   Active        @toughIQ
 ccg629m3d69t39xyercjhhvai    inet-node-136                     Accepted    Ready   Active        
-cch733a02vbb3jmxy3q8t7a2d    swarm2k-76                        Accepted    Ready   Active        
+cch733a02vbb3jmxy3q8t7a2d    swarm2k-76                        Accepted    Ready   Active  @fdoxyz        
 ccq67yb2i6pahuhe1ltz4oe5c    suspicious-boyd                   Accepted    Ready   Active  @scaleway
 ccsw2mpq6gkdgb8ryed9pbfun    tswarm-7                          Accepted    Ready   Active        
 cd6ggd6y0jdmp8o4akm99z8xq    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
@@ -1979,7 +1979,7 @@ cfiesyqb8jcxikx3xgzcvbbe7    evil-shirley                      Accepted    Ready
 cfk22n8xwz875e4hueoqmm1nu    hypriot-sw182                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 cfpkflpsddyna9l8ot0efugje    grave-panini                      Accepted    Ready   Active  @scaleway
 cfw26wwgtzzbmq0iebd81ciep    desperate-brahmagupta             Accepted    Ready   Active  @scaleway
-cg3niycoq4yiqvlxw3hmihlo8    swarm2k-53                        Accepted    Ready   Active        
+cg3niycoq4yiqvlxw3hmihlo8    swarm2k-53                        Accepted    Ready   Active  @fdoxyz        
 cg6ltgcjojffe8g7570vjkdcu    hypriot-sw039                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 cg7tpummujlywcd2szz97rkpm    hypriot-sw023                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 cgahtl2g9ib60oa9zfe359pvb    hypriot-sw226                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
@@ -2001,7 +2001,7 @@ ck5fg57hfwya0rmbcxz98no49    nipa-cloud-80                     Accepted    Ready
 ck5odhxh8y3lbj69re1e2a0w8    clever-mahavira                   Accepted    Ready   Active  @scaleway
 ckmaowls4nef5slmbxv54utpt    tswarm-10                         Accepted    Ready   Active        
 cl3d8fin7t74o1fubji4reru1    ecstatic-poitras                  Accepted    Ready   Active  @scaleway
-cl571q0xagkl0cfv77rvybhm6    swarm2k-31                        Accepted    Ready   Active        
+cl571q0xagkl0cfv77rvybhm6    swarm2k-31                        Accepted    Ready   Active  @fdoxyz        
 clqz57x3sb04m6rb8vyth1mrz    romantic-raman                    Accepted    Ready   Active  @scaleway
 clvlmru81er4sgiy3pjtdm3jh    sad-noether                       Accepted    Ready   Active  @scaleway
 clyvwplg4glvlmnsa51yjccpr    swarm2k-512mb-fra1-03             Accepted    Ready   Active  @AlexPostID
@@ -2032,13 +2032,13 @@ crv14y0cvjntgpuezklyb6xu2    inet-node-173                     Accepted    Ready
 crvi8d952mmsm9w7rdwku8e7m    dockerswarm2k-19                  Accepted    Down    Active        
 cseuothdih6jddk2bb02awxvu    furious-gates                     Accepted    Ready   Active  @scaleway
 csvhrkmvq5i96t9m12esx0i32    inet-node-180                     Accepted    Ready   Active        
-csvsys7av19mni92htt72at3k    swarm2k-18                        Accepted    Ready   Active        
-ctd58a21nyu8og5pfud6zlori    swarm2k-51                        Accepted    Ready   Active        
+csvsys7av19mni92htt72at3k    swarm2k-18                        Accepted    Ready   Active  @fdoxyz        
+ctd58a21nyu8og5pfud6zlori    swarm2k-51                        Accepted    Ready   Active  @fdoxyz        
 ctjlwc7r4kmde5fr67imbiwec    serene-yonath                     Accepted    Ready   Active  @scaleway
 cuhwufzps6qg9dma2gzziurob    backstabbing-thompson             Accepted    Ready   Active  @scaleway
 cuio6bfek9taawjx67dc16vqa    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 cut9lsz2y1ld9ygc9zmm1fvw6    drunk-mclean                      Accepted    Ready   Active  @scaleway
-cv7374bho1o6tp4ei1tbckm85    swarm2k-79                        Accepted    Ready   Active        
+cv7374bho1o6tp4ei1tbckm85    swarm2k-79                        Accepted    Ready   Active  @fdoxyz        
 cvev5dupw0ks7zzw45nj3kaxl    nipa-cloud-72                     Accepted    Ready   Active  NIPA Technology       
 cvhs4vcyr9ttrqa99csddvyib    pensive-hamilton                  Accepted    Ready   Active  @scaleway
 cvo2euiettrm5jhefxhr8a723    dockerswarm2000E                  Accepted    Ready   Active        @enlamp
@@ -2063,7 +2063,7 @@ d0usr5whhozqatjmkrz4idlrs    desperate-carson                  Accepted    Ready
 d0xe9lp7hh49krd2qfgo27xuz    hypriot-sw181                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 d0y499pvjivtp4i7u50d6omrh    stupefied-rosalind                Accepted    Ready   Active  @scaleway
 d16sq36p307ao0j5ibt5o8oog    hypriot-sw103                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
-d1dkggvkxobdnlrvx8101qvfn    swarm2k-80                        Accepted    Ready   Active        
+d1dkggvkxobdnlrvx8101qvfn    swarm2k-80                        Accepted    Ready   Active  @fdoxyz        
 d1gu2yeewje03k716fnfupcua    nipa-cloud-25                     Accepted    Ready   Active  NIPA Technology       
 d1jixli3sxnzji3puo5eyrt3f    sad-babbage                       Accepted    Ready   Active  @scaleway
 d1p612dr7hs6wlsskd7mx724e    distracted-kalam                  Accepted    Ready   Active  @scaleway
@@ -2094,7 +2094,7 @@ d7ceyathggg8715u258mvih1d    elated-meninsky                   Accepted    Ready
 d7femq4yomf7rh13ytjsdf1ma    stupefied-colden                  Accepted    Ready   Active  @scaleway
 d7mjmwio22zhvamp51lbikues    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
 d85irfrwh864hmsklpoykqe2d    swarm2k-akalipetis-sourcelair-01  Accepted    Ready   Active        @akalipetis
-d8am6zj9vmajgs6rmmjoq7i0p    swarm2k-75                        Accepted    Ready   Active        
+d8am6zj9vmajgs6rmmjoq7i0p    swarm2k-75                        Accepted    Ready   Active  @fdoxyz        
 d8eg9wz49wgqy3utvki6x43wr    hungry-mestorf                    Accepted    Ready   Active  @scaleway
 d8gudmmjoayx13ysbb8sne11w    serene-mclean                     Accepted    Down    Active  @scaleway
 d8xzpv7pcj9z3ncm71va7uo8j    thajeztah-swarm2k-10              Accepted    Ready   Active        
@@ -2102,7 +2102,7 @@ d8zmvuuyt5oaf65n1lngz9a6h    hypriot-sw246                     Accepted    Ready
 d90qjm7jc74a8srxbmqvc5si3    silly-snyder                      Accepted    Ready   Active  @scaleway
 d99a380xsgt4h8j1jqeqmnfzg    jolly-jones                       Accepted    Ready   Active  @scaleway
 d99a7pezvpsf0r5kdb2cqbjky    dockerswarm2k-18                  Accepted    Down    Active        
-d9l3jk36obxy0wmoij003lgm5    swarm2k-97                        Accepted    Ready   Active        
+d9l3jk36obxy0wmoij003lgm5    swarm2k-97                        Accepted    Ready   Active  @fdoxyz        
 d9lxa1by58la0mdqoswo3uw64    amazing-almeida                   Accepted    Ready   Active  @scaleway
 da67ks0hmly2bqoyyucahuk1v    swarm-32                          Accepted    Ready   Active  @everett_toews, @Rackspace
 da89bzzenqsfnsk5rtw8lbl1r    swarm-14                          Accepted    Ready   Active  @everett_toews, @Rackspace
@@ -2203,8 +2203,8 @@ dv0f6y4a5tzyauzi2mellz1n1    insane-banach                     Accepted    Ready
 dvfc38op8qdjlpiwa41e4gqnb    agitated-murdock                  Accepted    Ready   Active  @scaleway
 dvw7tkdw7lh1zzy9ehdmzylwq    nauseous-wing                     Accepted    Ready   Active  @scaleway
 dwndkb2thl4h2rpmm6rd1npzt    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
-dwwybrpdv1lskctac7v1jk0p8    swarm2k-16                        Accepted    Ready   Active        
-dxesy389wuwnb7geim8uytk3l    swarm2k-30                        Accepted    Ready   Active        
+dwwybrpdv1lskctac7v1jk0p8    swarm2k-16                        Accepted    Ready   Active  @fdoxyz        
+dxesy389wuwnb7geim8uytk3l    swarm2k-30                        Accepted    Ready   Active  @fdoxyz        
 dxiihhlpt67i3spuioq4o8gx5    dockerswarm2k-49                  Accepted    Ready   Active        
 dxqbr7hg24gd2t2ujdzyr7fxh    jolly-kare                        Accepted    Ready   Active  @scaleway
 dydgza6k4fmonyffji2k5n0we    dockerswarm2k-03                  Accepted    Down    Active        
@@ -2372,7 +2372,7 @@ ezru2ryqdbi55js62dj2btmjg    hypriot-sw038                     Accepted    Ready
 ezwb33jenemhl0tu23zsp6gt6    serene-spence                     Accepted    Ready   Active  @scaleway
 f0i1len016vuoaazpk9dzz52a    swarm-40                          Accepted    Ready   Active  @everett_toews, @Rackspace
 f0uvydw4mn0fautvj5wt956hm    trusting-northcutt                Accepted    Ready   Active  @scaleway
-f0xc03shtxopq17o9l2wzyoq3    swarm2k-59                        Accepted    Ready   Active        
+f0xc03shtxopq17o9l2wzyoq3    swarm2k-59                        Accepted    Ready   Active  @fdoxyz        
 f154dhhg1dtlyi9aj3sq60z5m    elegant-booth                     Accepted    Ready   Active  @scaleway
 f1vem88fm6yn4encrww3602m9    hypriot-sw060                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 f210uq5lcyeisw4aqm7klkjqh    agitated-hawking                  Accepted    Ready   Active  @scaleway
