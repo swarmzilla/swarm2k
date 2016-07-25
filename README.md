@@ -1165,7 +1165,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 73doqmsmkc38potru4mnf21i3    elated-shaw                       Accepted    Ready   Active  @scaleway
 73ipt0kkrhr3b45hvkpzor48y    nipa-cloud-44                     Accepted    Ready   Active  NIPA Technology       
 73t3xysshvpzkm60am3e4jaur    hopeful-newton                    Accepted    Ready   Active  @scaleway
-73wlx37f4ga27nm8aabmllmge    swarm2kae                         Accepted    Ready   Active        
+73wlx37f4ga27nm8aabmllmge    swarm2kae                         Accepted    Ready   Active  @alexellisuk     
 73yi28o6cuoecvbmcpl1r8w65    swarm2k5                          Accepted    Ready   Active  @f_soppelsa
 74hezr9mkul40zjrjcdf7at15    inet-node-081                     Accepted    Ready   Active  Internet Thailand      
 74o4uqni9zh0m33z44kufi16e    bro2-docker                       Accepted    Ready   Active  Cloud by CAT - Powered by AR-BRO
@@ -1261,7 +1261,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 7rnhuolcumclhrbwzkuczgnzr    happy-mayer                       Accepted    Ready   Active  @scaleway
 7s44h9lirqmvdbdemxu8pqsdz    gigantic-swartz                   Accepted    Ready   Active  @scaleway
 7shk1288fakmh5aeph1ht3lvk    swarm2k-36                        Accepted    Ready   Active  @fdoxyz        
-7skpcdc1d3lt84oukohubbii2    tiller-dockerswarm2000-3          Accepted    Ready   Active  tillersystems.com 
+7skpcdc1d3lt84oukohubbii2    tiller-dockerswarm2000-3          Accepted    Ready   Active  tillersystems.com
 7sxm1np9o6pt1bk84gle9mvka    swarm2k-10                        Accepted    Ready   Active  @fdoxyz        
 7ucjghdakj6j9rk88gy9z38ge    nipa-cloud-7                      Accepted    Ready   Active  NIPA Technology       
 7up98q4mymizff09a6jljx70w    condescending-ride                Accepted    Ready   Active  @scaleway
@@ -1529,7 +1529,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 9khj55hvg62a7jyvq3d3fi26t    boring-pasteur                    Accepted    Ready   Active  @scaleway
 9kkp23a2tlh7p8u2tzqd9wcfj    inet-node-119                     Accepted    Ready   Active  Internet Thailand      
 9kktdm53qeaqz2xu7dycemqkx    sad-saha                          Accepted    Ready   Active  @scaleway
-9kl2knpjwtyae7rpgsv8de5s8    swarm2k2                          Accepted    Ready   Active        
+9kl2knpjwtyae7rpgsv8de5s8    swarm2k2                          Accepted    Ready   Active  @alexellisuk      
 9kytvrooxx160b31aycj94lfz    hypriot-sw238                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 9lbzgu5pndwc5uc45lo4p08av    hypriot-sw032                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 9lcwo047a5fzafuvra7okq1lf    backstabbing-jennings             Accepted    Ready   Active  @scaleway
