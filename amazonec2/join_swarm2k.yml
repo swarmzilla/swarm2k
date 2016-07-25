@@ -1,0 +1,37 @@
+---
+- name: Join the Swarm2k project
+  hosts: localhost
+  connection: local
+  gather_facts: False
+
+  # mg0 104.236.18.183
+  # mg1 104.236.78.154
+  # mg2 104.236.87.10 
+
+  tasks:
+    - name: Load shell variables
+      shell: >
+        eval $(docker-machine env "{{ machine_name }}")
+        echo $DOCKER_TLS_VERIFY &&
+        echo $DOCKER_HOST &&
+        echo $DOCKER_CERT_PATH &&
+        echo $DOCKER_MACHINE_NAME
+      register: worker
+
+    - name: Set facts
+      set_fact:
+        whost: "{{ worker.stdout_lines[0] }}"
+        wcert: "{{ worker.stdout_lines[1] }}"
+
+    - name: Join a worker to Swarm2k
+      docker_swarm:
+        role: "worker"
+        operation: "join"
+        join_url: ["tcp://104.236.78.154:2377"]
+        secret: "d0cker_swarm_2k"
+        docker_url: "{{ whost }}"
+        tls_path: "{{ wcert }}"
+      register: swarm_result
+
+    - name: Print final msg
+      debug: msg="{{ swarm_result.msg }}"
