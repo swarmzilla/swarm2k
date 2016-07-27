@@ -780,7 +780,7 @@ ID                           HOSTNAME                          MEMBERSHIP  STATU
 4s6dxf3gzyzyjnll6dgdave4r    angry-aryabhata                   Accepted    Down    Active  @scaleway
 4scs2jpwi93lnaftedw8g6pps    neverlock-9                       Accepted    Ready   Active  @neverlock      
 4sfre8l0reu38lcvgh5s78cwk    desperate-kalam                   Accepted    Ready   Active  @scaleway
-4sqmfb9ae76ehroc7cyyd4z5l    mrnonaki-01                       Accepted    Ready   Active        
+4sqmfb9ae76ehroc7cyyd4z5l    mrnonaki-01                       Accepted    Ready   Active  @mrnonaki
 4ssgph9t0xwqlbulm6knkjl68    hypriot-sw172                     Accepted    Ready   Active  @Quintus23M, @HypriotTweets
 4t2tc3iecuj8x4los88c0gtxc    elated-albattani                  Accepted    Ready   Active  @scaleway
 4t6ai97lk8y7dcza9ppk58c5c    modest-poincare                   Accepted    Ready   Active  @scaleway
