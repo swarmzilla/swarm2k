@@ -40,6 +40,7 @@ You can still adding nodes to join our cluster. We put your name, your company a
 | [@AlexPostID](https://twitter.com/AlexPostID) | Personal | 12 |
 | [@gianarb](https://twitter.com/gianarb) | Personal | 5 |
 | [@alexellisuk](https://twitter.com/alexellisuk) | Personal | 2 |
+| [@philipz](https://twitter.com/philipzheng) | Personal | 2 |
 
 # What are we doing?
 We are trying to form a large, 2000 nodes, Docker Swarm mode cluster collaboratively. It is expected that we'll learn a lot about the limitations of Docker 1.12 Swarm mode in process. This will help us and also the Docker team moving forwards to have the better scalable container system.
